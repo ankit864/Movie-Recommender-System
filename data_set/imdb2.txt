@@ -1,0 +1,3358 @@
+Petunia,Comedy,2012,5.0
+BearCity 2: The Proposal,Comedy,2012,6.4
+Dead Mine,Action,2012,4.6
+The Yellow Wallpaper,Thriller,2012,5.6
+The Last Push,Drama,2012,5.5
+The Outback,Animation,2012,4.7
+Travelling Salesman,Drama,2012,5.9
+The Lesser Blessed,Drama,2012,6.1
+Yossi,Drama,2012,7.1
+Gut,Drama,2012,3.9
+Les seigneurs,Comedy,2012,5.3
+Inch'Allah,Drama,2012,6.9
+Da Shang Hai,Action,2012,6.7
+Offline,Drama,2012,4.0
+Bad Blood... the Hunger,Horror,2012,5.5
+Dead Season,Horror,2012,4.8
+The Discoverers,Comedy,2012,5.6
+For the Love of Money,Action,2012,4.6
+The Grief Tourist,Drama,2012,5.0
+Luv Shuv Tey Chicken Khurana,Comedy,2012,6.6
+Kyaa Super Kool Hain Hum,Comedy,2012,5.1
+12/12/12,Horror,2012,1.7
+Azul y no tan rosa,Drama,2012,7.5
+Le guetteur,Action,2012,5.7
+Hate Crime,Action,2012,5.1
+Osombie,Action,2012,3.7
+Easy Rider: The Ride Back,Adventure,2012,3.2
+Overnight,Comedy,2012,5.2
+Zarafa,Animation,2012,7.0
+Alter Egos,Comedy,2012,5.2
+Gwanghae: Wangyidoen namja,Drama,2012,7.9
+Blackbird,Drama,2012,7.1
+Beyond,Thriller,2012,4.8
+Ban-chang-ggo,Comedy,2012,6.9
+Modus Anomali,Thriller,2012,5.4
+Le fils de l'autre,Drama,2012,7.4
+Grassroots,Comedy,2012,5.3
+The Do-Deca-Pentathlon,Comedy,2012,6.0
+No Tell Motel,Horror,2012,3.4
+Home Again,Drama,2012,6.7
+Achtste Groepers Huilen Niet,Drama,2012,7.5
+Excuse Me for Living,Comedy,2012,4.8
+Finding Focus,Drama,2012,7.6
+Scenes from a Gay Marriage,Comedy,2012,5.8
+Love Sick Love,Thriller,2012,5.0
+Hors les murs,Drama,2012,6.6
+Black Out,Action,2012,6.4
+Ek Main Aur Ekk Tu,Comedy,2012,5.8
+Note to Self,Comedy,2012,6.4
+Paris-Manhattan,Comedy,2012,6.2
+Murder on the 13th Floor,Thriller,2012,4.9
+Boogie Town,Action,2012,6.5
+Junk,Comedy,2012,5.7
+Somebody Up There Likes Me,Comedy,2012,5.8
+The Fourth Dimension,Adventure,2012,6.1
+Hatfields and McCoys: Bad Blood,Drama,2012,3.9
+Tai Chi 0,Action,2012,6.1
+Gekijouban Fairy Tail: Houou no miko,Animation,2012,7.3
+I Declare War,Action,2012,6.0
+Diaz - Don't Clean Up This Blood,Drama,2012,7.3
+Gummi T,Animation,2012,4.4
+Nature Calls,Comedy,2012,3.9
+A Kiss and a Promise,Drama,2012,5.2
+Delhi Safari,Animation,2012,5.7
+Comedown,Horror,2012,4.7
+Chittagong,Action,2012,7.2
+The One-Nighter,Adventure,2012,6.7
+Shark Week,Action,2012,2.5
+Trade of Innocents,Drama,2012,5.4
+Dawn Rider,Western,2012,4.8
+Blood Money,Action,2012,3.2
+Ludwig II,Biography,2012,5.9
+My Name Is 'A' by Anonymous,Crime,2012,8.0
+The Men Next Door,Comedy,2012,5.7
+Dollhouse,Drama,2012,5.0
+Four,Drama,2012,5.8
+Alles is familie,Comedy,2012,6.7
+Captive,Drama,2012,6.1
+Bad Karma,Thriller,2012,4.5
+30 Girls 30 Days,Comedy,2012,6.6
+The Last Fall,Drama,2012,5.4
+Elfie Hopkins,Horror,2012,4.6
+Rogue River,Horror,2012,4.3
+Spirit Stalkers,Horror,2012,5.1
+Killjoy Goes to Hell,Comedy,2012,5.3
+Unstable,Crime,2012,4.3
+That's What She Said,Comedy,2012,3.8
+Hidden Moon,Drama,2012,6.0
+Ex-Girlfriends,Comedy,2012,4.7
+Lost Angeles,Comedy,2012,7.3
+Backwards,Romance,2012,5.4
+Santa Paws 2: The Santa Pups,Adventure,2012,5.1
+Last Hours in Suburbia,Crime,2012,5.7
+Ot vinta 3D,Animation,2012,3.3
+Ashes,Drama,2012,5.6
+Love Bite,Comedy,2012,4.5
+I, Anna,Drama,2012,6.0
+Twenty8k,Thriller,2012,4.8
+The Attack,Drama,2012,7.1
+Queens of Country,Comedy,2012,5.5
+L'homme qui rit,Drama,2012,6.0
+Crawlspace,Horror,2012,4.8
+Welcome Home,Drama,2012,6.2
+The Helpers,Horror,2012,4.2
+Fin,Drama,2012,4.9
+The Magnificent Eleven,Comedy,2012,3.4
+Breathless,Comedy,2012,5.0
+The Citizen,Drama,2012,7.0
+Nobels testamente,Drama,2012,5.9
+Dabangg 2,Action,2012,5.0
+War of the Worlds: Goliath,Animation,2012,5.5
+Camille redouble,Comedy,2012,6.3
+Night of the Living Dead: Resurrection,Horror,2012,2.7
+Tape 407,Horror,2012,3.6
+Little Red Wagon,Drama,2012,6.3
+Gettin' In,Comedy,2012,2.7
+Fresh Meat,Comedy,2012,5.3
+I Will Follow You Into the Dark,Drama,2012,4.6
+The Fitzgerald Family Christmas,Drama,2012,6.3
+Una noche,Drama,2012,6.9
+I Am Not a Hipster,Drama,2012,6.7
+En las afueras de la ciudad,Action,2012,4.5
+Nipples & Palm Trees,Comedy,2012,3.5
+Boner,Comedy,2012,8.2
+One Piece Film Z,Animation,2012,8.0
+Love or Whatever,Comedy,2012,5.7
+Infected,Action,2012,2.8
+Hayride,Crime,2012,3.4
+Bai wan ju e,Action,2012,4.2
+The Watermen,Horror,2012,3.0
+Confession of a Child of the Century,Drama,2012,4.2
+Ticket Out,Thriller,2012,4.6
+Ishaqzaade,Action,2012,6.6
+La vida precoz y breve de Sabina Rivas,Adventure,2012,6.8
+The Story of Luke,Comedy,2012,7.3
+Jik zin,Action,2012,6.0
+Hold Your Breath,Horror,2012,3.2
+Teddy Bear,Drama,2012,7.2
+Home Run Showdown,Family,2012,4.9
+Wi-heom-han gyan-gye,Drama,2012,5.9
+Devil Seed,Horror,2012,4.2
+Filmistaan,Comedy,2012,7.3
+Comes a Bright Day,Romance,2012,6.1
+Hon zin,Action,2012,6.7
+Una pistola en cada mano,Comedy,2012,6.5
+Ship of Theseus,Drama,2012,8.2
+Not Waving But Drowning,Drama,2012,6.3
+Magnifica presenza,Comedy,2012,6.7
+Tai Chi Hero,Action,2012,6.2
+Broken Kingdom,Drama,2012,6.0
+Tulpa - Perdizioni mortali,Horror,2012,4.7
+Maladies,Drama,2012,5.2
+Vicky Donor,Comedy,2012,7.8
+The Encounter: Paradise Lost,Drama,2012,6.2
+Paradies: Liebe,Drama,2012,7.1
+The We and the I,Drama,2012,6.1
+Zombibi,Comedy,2012,4.9
+Last Call,Comedy,2012,4.5
+Jackie,Comedy,2012,6.9
+Belyy tigr,Action,2012,6.1
+Vampire Dog,Comedy,2012,4.4
+Due West: Our Sex Journey,Comedy,2012,5.3
+Shiver,Thriller,2012,4.6
+True Bloodthirst,Action,2012,4.1
+Montana Amazon,Adventure,2012,5.0
+Bez wstydu,Drama,2012,5.4
+Insensibles,Fantasy,2012,6.2
+Mosquita y Mari,Drama,2012,6.1
+Errors of the Human Body,Drama,2012,5.3
+Da-reun na-ra-e-seo,Drama,2012,6.4
+The Knot,Comedy,2012,4.4
+Save Your Legs!,Comedy,2012,5.4
+Crave,Drama,2012,5.4
+Maria Bamford: The Special Special Special!,Comedy,2012,7.1
+In-lyu-myeol-mang-bo-go-seo,Comedy,2012,5.9
+Holmes & Watson. Madrid Days,Drama,2012,4.0
+Find Me,Drama,2012,5.9
+Des morceaux de moi,Comedy,2012,7.3
+Schutzengel,Action,2012,5.8
+I Do,Drama,2012,6.5
+Come non detto,Comedy,2012,6.6
+Goltzius and the Pelican Company,Biography,2012,6.8
+War Flowers,Drama,2012,4.2
+Just Like a Woman,Drama,2012,5.6
+Yi jiu si er,Drama,2012,6.9
+Du zhan,Action,2012,7.0
+Among Friends,Comedy,2012,4.6
+Hemel,Drama,2012,5.8
+Die Wand,Drama,2012,6.8
+Le capital,Drama,2012,6.5
+Hoi-sa-won,Action,2012,6.7
+Sofia,Action,2012,3.6
+Sammy's avonturen 2,Animation,2012,5.7
+Rowdy Rathore,Action,2012,5.8
+Todos tenemos un plan,Crime,2012,5.5
+Ek Tha Tiger,Action,2012,5.4
+Fetih 1453,Action,2012,7.4
+Knife Fight,Drama,2012,5.1
+Blue Like Jazz,Comedy,2012,6.0
+Fat Kid Rules the World,Comedy,2012,6.5
+Barricade,Horror,2012,4.5
+Paradies: Glaube,Drama,2012,6.8
+New Hope,Drama,2012,5.8
+Caroline and Jackie,Drama,2012,6.7
+Tomorrow You're Gone,Thriller,2012,3.8
+Hello Herman,Drama,2012,5.8
+The Last Will and Testament of Rosalind Leigh,Horror,2012,5.3
+The Haunting of Helena,Horror,2012,4.7
+The Kitchen,Comedy,2012,5.0
+Run for Your Wife,Comedy,2012,2.5
+Zombies Vs. Strippers,Comedy,2012,3.5
+Good Vibrations,Biography,2012,7.2
+Dragon Age: Dawn of the Seeker,Animation,2012,5.9
+Autoreiji: Biyondo,Action,2012,6.7
+The Exhibitionists,Drama,2012,7.2
+Rise of the Zombies,Action,2012,3.7
+Amazing Love,Drama,2012,6.6
+Ao no ekusoshisuto: Gekijouban,Animation,2012,7.3
+Augustine,Drama,2012,6.0
+OMG: Oh My God!,Comedy,2012,8.3
+La leggenda di Kaspar Hauser,Drama,2012,6.7
+The Battery,Adventure,2012,6.5
+Any Questions for Ben?,Comedy,2012,5.8
+Shanghai Calling,Comedy,2012,6.3
+Dark Canyon,Western,2012,4.9
+Night of the Naked Dead,Horror,2012,2.8
+La mante religieuse,Drama,2012,5.7
+Still Mine,Drama,2012,7.4
+For Ellen,Drama,2012,6.0
+Players,Action,2012,4.0
+Move On,Action,2012,5.8
+The Rise & Fall of a White Collar Hooligan,Crime,2012,5.2
+Keith Lemon: The Film,Comedy,2012,2.6
+See Girl Run,Drama,2012,5.1
+Heroine,Drama,2012,5.0
+Evidence,Horror,2012,5.1
+You & Me Forever,Drama,2012,5.6
+FDR: American Badass!,Action,2012,5.5
+La Lectora,Action,2012,6.0
+Free Samples,Comedy,2012,5.6
+Agent Vinod,Action,2012,5.1
+Halloween: Resurgence,Thriller,2012,5.7
+Die Vermessung der Welt,Drama,2012,5.8
+Detention of the Dead,Comedy,2012,4.5
+The History of Future Folk,Comedy,2012,7.4
+Reality,Comedy,2012,6.7
+Over Kanten,Drama,2012,4.8
+Picture Day,Comedy,2012,6.4
+Recalled,Thriller,2012,4.8
+Last Kind Words,Drama,2012,4.9
+Biohazard: Damnation,Animation,2012,6.5
+Bindlestiffs,Comedy,2012,4.4
+The Haunting of Whaley House,Horror,2012,3.9
+Dysfunctional Friends,Comedy,2012,5.4
+The Wedding Video,Comedy,2012,5.4
+Parasitic,Horror,2012,2.1
+The Mark,Action,2012,3.8
+Where the Dead Go to Die,Animation,2012,4.5
+Red Hook Summer,Drama,2012,5.0
+Gyakuten saiban,Comedy,2012,6.7
+Bigfoot: The Lost Coast Tapes,Horror,2012,4.5
+Kelly + Victor,Drama,2012,5.7
+The Mule,Crime,2012,4.2
+Zwei Leben,Drama,2012,7.1
+Grupo 7,Action,2012,6.5
+The Kill Hole,Action,2012,3.9
+You Can't Kill Stephen King,Comedy,2012,3.8
+Devoured,Drama,2012,5.5
+Bad Kids Go to Hell,Comedy,2012,4.5
+Harodim,Thriller,2012,5.4
+Midnight's Children,Drama,2012,6.1
+The Dinosaur Project,Adventure,2012,4.7
+The Reef 2: High Tide,Animation,2012,3.9
+Stash House,Thriller,2012,4.9
+Sassy Pants,Comedy,2012,6.3
+The Aggression Scale,Action,2012,5.9
+Hamilton: I nationens intresse,Action,2012,6.3
+Hotel Noir,Crime,2012,5.9
+Inara, the Jungle Girl,Adventure,2012,2.2
+Jewtopia,Comedy,2012,4.4
+Price Check,Comedy,2012,5.5
+Papadopoulos & Sons,Comedy,2012,6.1
+Ambrosia,Drama,2012,4.2
+The Skinny,Comedy,2012,6.5
+The Motel Life,Drama,2012,6.0
+The Last Ride,Biography,2012,5.8
+Hijacked,Action,2012,3.8
+Outpost: Black Sun,Action,2012,5.0
+The Courier,Action,2012,4.5
+Keep the Lights On,Drama,2012,6.3
+Soldiers of Fortune,Action,2012,4.3
+She Wants Me,Comedy,2012,6.3
+Best Laid Plans,Drama,2012,6.3
+The Devil's Carnival,Horror,2012,6.5
+Joven y Alocada,Comedy,2012,6.1
+The Falls,Drama,2012,6.7
+The Barrens,Horror,2012,4.6
+Butcher Boys,Action,2012,3.5
+Interview with a Hitman,Action,2012,6.4
+Para Elisa,Thriller,2012,4.2
+Klip,Drama,2012,5.8
+Entity,Drama,2012,4.7
+In Their Skin,Horror,2012,5.3
+Eega,Comedy,2012,8.0
+Dead Before Dawn 3D,Adventure,2012,4.9
+King Kelly,Drama,2012,5.1
+Darling Companion,Comedy,2012,5.1
+Adventures in the Sin Bin,Comedy,2012,5.6
+16-Love,Comedy,2012,5.8
+El artista y la modelo,Drama,2012,6.6
+Columbus Circle,Crime,2012,6.0
+Battlefield America,Drama,2012,2.6
+Dorothy and the Witches of Oz,Action,2012,4.5
+Dragon Eyes,Action,2012,4.5
+The Girl,Drama,2012,6.2
+Not Suitable for Children,Comedy,2012,5.9
+Hello I Must Be Going,Comedy,2012,6.2
+St George's Day,Action,2012,5.1
+Las aventuras de Tadeo Jones,Animation,2012,5.9
+It's a Disaster,Comedy,2012,6.5
+Io e te,Drama,2012,6.6
+Student of the Year,Comedy,2012,5.5
+Paan Singh Tomar,Action,2012,8.3
+Scary or Die,Horror,2012,4.0
+E la chiamano estate,Drama,2012,4.6
+White Frog,Drama,2012,6.9
+Citadel,Drama,2012,5.5
+Sorority Party Massacre,Horror,2012,3.4
+The Girl from the Naked Eye,Action,2012,4.9
+Crooked Arrows,Drama,2012,6.0
+Kahaani,Drama,2012,8.2
+Amber Alert,Horror,2012,4.5
+The Thompsons,Drama,2012,4.7
+Shahid,Biography,2012,8.4
+Renoir,Biography,2012,6.6
+Pieta,Drama,2012,7.2
+Last Ounce of Courage,Drama,2012,4.3
+O Som ao Redor,Drama,2012,7.1
+Revenge for Jolly!,Comedy,2012,4.6
+Snezhnaya koroleva,Animation,2012,5.3
+Simon Killer,Drama,2012,6.2
+Static,Drama,2012,5.4
+V tumane,Drama,2012,6.8
+La fille de nulle part,Drama,2012,6.3
+Hellbenders,Comedy,2012,4.8
+English Vinglish,Comedy,2012,7.9
+The Comedy,Comedy,2012,6.5
+Post Tenebras Lux,Drama,2012,6.6
+Belle du Seigneur,Drama,2012,5.3
+When the Lights Went Out,Horror,2012,5.4
+Divorce Invitation,Comedy,2012,4.6
+Tabu,Drama,2012,7.4
+7 Below,Horror,2012,3.2
+Mince alors!,Comedy,2012,5.3
+Un bonheur n'arrive jamais seul,Comedy,2012,6.5
+The Philly Kid,Action,2012,5.7
+100 Bloody Acres,Comedy,2012,6.0
+Bad Boy Street,Drama,2012,6.3
+Le magasin des suicides,Animation,2012,6.2
+Jesus Henry Christ,Comedy,2012,6.4
+Saints and Soldiers: Airborne Creed,Action,2012,5.6
+Road to Ninja: Naruto the Movie,Animation,2012,7.8
+Talaash,Crime,2012,7.3
+The Black Dahlia Haunting,Crime,2012,5.0
+Les saveurs du Palais,Biography,2012,6.4
+Rufus,Drama,2012,6.2
+Underground: The Julian Assange Story,Biography,2012,6.8
+Inescapable,Drama,2012,5.2
+Daddy's Little Girl,Horror,2012,5.8
+Bending the Rules,Comedy,2012,5.1
+The Letter,Drama,2012,3.7
+Rites of Passage,Thriller,2012,4.1
+Like Someone in Love,Drama,2012,6.9
+Dino Time,Animation,2012,4.7
+Between Us,Drama,2012,4.6
+Hirokin,Action,2012,3.4
+The Butterfly Room,Horror,2012,5.6
+7 cajas,Thriller,2012,7.2
+Gayby,Comedy,2012,6.1
+Walking the Halls,Drama,2012,5.8
+28 Hotel Rooms,Drama,2012,5.8
+Transit,Action,2012,5.8
+Branded,Drama,2012,4.7
+Aftermath,Action,2012,4.7
+ATM,Horror,2012,4.7
+Tim and Eric's Billion Dollar Movie,Comedy,2012,5.3
+Girls Against Boys,Drama,2012,4.8
+Found,Drama,2012,5.9
+The Forger,Drama,2012,5.4
+ThanksKilling 3,Comedy,2012,3.5
+Sleepwalk with Me,Comedy,2012,6.8
+Black November,Action,2012,5.6
+6 Bullets,Action,2012,6.1
+Maximum Conviction,Action,2012,4.9
+Populaire,Comedy,2012,6.9
+Wadjda,Comedy,2012,7.6
+Freaky Deaky,Comedy,2012,6.5
+The Rise,Crime,2012,6.6
+Cowgirls 'n Angels,Family,2012,6.1
+Yellow,Drama,2012,5.9
+Agneepath,Action,2012,7.0
+Dupa dealuri,Drama,2012,7.6
+Girls Gone Dead,Comedy,2012,3.5
+Come Out and Play,Horror,2012,4.7
+Tiger Eyes,Drama,2012,6.4
+The Giant Mechanical Man,Comedy,2012,6.7
+Generation Um...,Drama,2012,4.1
+Dodookdeul,Action,2012,6.8
+Middle of Nowhere,Drama,2012,6.5
+Barbara,Drama,2012,7.2
+Playback,Horror,2012,4.2
+Black Rock,Horror,2012,4.7
+Johan Falk: Kodnamn: Lisa,Action,2012,7.5
+Won't Back Down,Drama,2012,6.4
+The Color of Time,Biography,2012,4.6
+A Little Bit Zombie,Comedy,2012,5.3
+Frankie Go Boom,Comedy,2012,6.0
+Silent But Deadly,Comedy,2012,5.9
+Best Man Down,Comedy,2012,6.4
+Atlas Shrugged II: The Strike,Drama,2012,5.5
+My Brother the Devil,Drama,2012,6.6
+Jab Tak Hai Jaan,Drama,2012,6.9
+Blood,Crime,2012,6.0
+Morgan,Drama,2012,6.9
+Filly Brown,Drama,2012,5.6
+Any Day Now,Drama,2012,7.5
+Linhas de Wellington,Drama,2012,6.3
+Puhdistus,Crime,2012,7.2
+Mental,Comedy,2012,6.1
+Meeting Evil,Crime,2012,5.3
+Madea's Witness Protection,Comedy,2012,4.8
+Eden,Crime,2012,6.7
+Comme un chef,Comedy,2012,6.6
+Thale,Fantasy,2012,5.6
+The Oogieloves in the Big Balloon Adventure,Adventure,2012,6.8
+Blancanieves,Drama,2012,7.5
+Jayne Mansfield's Car,Drama,2012,6.3
+Small Apartments,Comedy,2012,6.1
+Noobz,Comedy,2012,4.9
+Call Girl,Drama,2012,6.5
+Greetings from Tim Buckley,Drama,2012,6.1
+The End of Love,Drama,2012,6.0
+Sir Billi,Animation,2012,4.8
+Why Stop Now?,Comedy,2012,5.6
+2 Days in New York,Comedy,2012,6.0
+Song for Marion,Comedy,2012,7.0
+Oh Boy,Drama,2012,7.4
+Dracula 3D,Horror,2012,3.6
+Wrong,Comedy,2012,6.2
+A Glimpse Inside the Mind of Charles Swan III,Comedy,2012,4.8
+Flukt,Action,2012,6.1
+Tower Block,Thriller,2012,5.9
+Attack of the 50 Foot Cheerleader,Comedy,2012,4.5
+Zambezia,Animation,2012,5.8
+30 Beats,Comedy,2012,4.1
+Apartment 1303 3D,Horror,2012,2.6
+Dead Europe,Drama,2012,5.4
+Rakkauden rasvaprosentti,Comedy,2012,5.6
+Lore,Drama,2012,7.1
+Son of Sardaar,Action,2012,4.0
+The Guest House,Romance,2012,3.6
+Sushi Girl,Crime,2012,6.0
+Storage 24,Horror,2012,4.4
+Elefante blanco,Drama,2012,6.5
+Love Never Dies,Drama,2012,7.1
+Last Dance,Drama,2012,6.1
+K-11,Drama,2012,5.2
+Pusher,Crime,2012,5.5
+Breaking Wind,Comedy,2012,2.5
+Hannah Arendt,Biography,2012,7.1
+One in the Chamber,Action,2012,5.2
+The Marriage Chronicles,Comedy,2012,4.9
+Hate Story,Drama,2012,5.2
+Neuk-dae-so-nyeon,Fantasy,2012,7.4
+I Want Your Love,Drama,2012,5.3
+Snabba cash II,Action,2012,6.2
+Paulette,Comedy,2012,6.6
+Cheerful Weather for the Wedding,Comedy,2012,5.6
+Space Milkshake,Comedy,2012,7.2
+Cocktail,Comedy,2012,6.2
+McKenna Shoots for the Stars,Drama,2012,6.0
+Mysterious Island,Adventure,2012,3.5
+Freeloaders,Comedy,2012,4.3
+L'enfant d'en haut,Crime,2012,7.1
+Nae-ga sal-in-beom-i-da,Action,2012,7.0
+Imaginaerum,Drama,2012,6.2
+40 Days and Nights,Action,2012,2.4
+The Liability,Comedy,2012,5.9
+My Awkward Sexual Adventure,Comedy,2012,6.1
+Piggy,Thriller,2012,5.6
+Sightseers,Adventure,2012,6.5
+Fire with Fire,Action,2012,5.7
+Wish You Were Here,Drama,2012,5.9
+The Seasoning House,Drama,2012,6.1
+The Magic of Belle Isle,Comedy,2012,7.0
+Robot & Frank,Comedy,2012,7.1
+The Facility,Horror,2012,4.7
+Stitches,Comedy,2012,5.7
+Offender,Thriller,2012,6.1
+The Sweeney,Action,2012,6.1
+And While We Were Here,Drama,2012,5.7
+The Devil Inside,Horror,2012,4.2
+Cleanskin,Crime,2012,6.3
+Laurence Anyways,Drama,2012,7.6
+Chained,Horror,2012,6.4
+Universal Soldier: Day of Reckoning,Action,2012,5.0
+Ginger & Rosa,Drama,2012,6.3
+Joyful Noise,Comedy,2012,5.7
+Fast Girls,Drama,2012,6.2
+The Brass Teapot,Comedy,2012,6.4
+Jurassic Shark,Action,2012,1.5
+Airborne,Comedy,2012,3.9
+The Bay,Horror,2012,5.6
+Grave Encounters 2,Horror,2012,5.1
+The Tall Man,Crime,2012,6.0
+Bad Ass,Action,2012,5.5
+Jack & Diane,Drama,2012,4.5
+The Scapegoat,Drama,2012,7.2
+It's Such a Beautiful Day,Animation,2012,8.3
+Dans la maison,Comedy,2012,7.4
+Starship Troopers: Invasion,Animation,2012,5.9
+Smashed,Drama,2012,6.8
+Vamps,Comedy,2012,5.1
+Breaking the Girls,Crime,2012,5.0
+The Sapphires,Biography,2012,7.1
+The Reluctant Fundamentalist,Drama,2012,6.9
+The Angels' Share,Comedy,2012,7.0
+Shadow Dancer,Drama,2012,6.2
+The Factory,Crime,2012,5.8
+Marfa Girl,Drama,2012,5.4
+Good Deeds,Comedy,2012,5.4
+The Samaritan,Crime,2012,5.6
+Mr. Pip,Drama,2012,7.2
+A Fantastic Fear of Everything,Comedy,2012,5.9
+Kiss of the Damned,Drama,2012,5.6
+Under the Bed,Horror,2012,4.6
+Unconditional,Drama,2012,7.2
+Bel Ami,Drama,2012,5.4
+Girl Most Likely,Comedy,2012,5.8
+To Write Love on Her Arms,Biography,2012,6.6
+Barfi!,Adventure,2012,8.2
+Casa de mi Padre,Comedy,2012,5.5
+Antiviral,Horror,2012,5.7
+Extracted,Drama,2012,6.6
+Cockneys vs Zombies,Action,2012,5.9
+Silent Night,Comedy,2012,5.2
+Out in the Dark,Drama,2012,7.6
+Grabbers,Comedy,2012,6.3
+Black & White & Sex,Drama,2012,5.6
+Girl in Progress,Comedy,2012,5.6
+The Truth,Action,2012,5.6
+Private Peaceful,Drama,2012,6.2
+Brake,Thriller,2012,6.1
+Being Flynn,Drama,2012,6.4
+Dead Souls,Horror,2012,4.5
+A Late Quartet,Drama,2012,7.2
+If I Were You,Comedy,2012,7.1
+LUV,Crime,2012,6.0
+Goats,Comedy,2012,5.9
+Steekspel,Comedy,2012,6.2
+Lola Versus,Comedy,2012,5.4
+Not Fade Away,Drama,2012,6.0
+Sparkle,Drama,2012,5.7
+Un plan parfait,Comedy,2012,6.3
+No,Drama,2012,7.4
+Arthur Newman,Drama,2012,5.7
+Jism 2,Drama,2012,3.0
+Freelancers,Action,2012,4.6
+Berberian Sound Studio,Drama,2012,6.2
+Electrick Children,Drama,2012,6.9
+Ill Manors,Crime,2012,7.1
+ACAB - All Cops Are Bastards,Action,2012,6.6
+Mine Games,Mystery,2012,5.3
+Resolution,Horror,2012,6.2
+Camp Fred,Comedy,2012,3.4
+U.F.O.,Comedy,2012,3.2
+Dark Tide,Adventure,2012,4.3
+Hyde Park on Hudson,Biography,2012,5.9
+Cirque du Soleil: Worlds Away,Fantasy,2012,6.8
+Guns, Girls and Gambling,Comedy,2012,5.5
+What Richard Did,Drama,2012,6.3
+Gallowwalkers,Action,2012,3.6
+Kapringen,Drama,2012,7.2
+Truth or Dare,Horror,2012,5.6
+Nobody Walks,Drama,2012,5.4
+Emperor,Drama,2012,6.5
+House Arrest,Comedy,2012,4.2
+The Frozen,Horror,2012,4.3
+Arcadia,Drama,2012,6.2
+Thuppakki,Action,2012,7.8
+The Boarder,Drama,2012,6.3
+Paradis perdu,Drama,2012,6.0
+Chingari,Action,2012,5.7
+Fairhaven,Comedy,2012,5.2
+The Garlock Incident,Horror,2012,7.0
+The Woodcarver,Drama,2012,7.1
+2 Jacks,Comedy,2012,5.2
+Route of Acceptance,Drama,2012,7.0
+Refuge,Drama,2012,5.9
+Yak,Animation,2012,6.0
+1920: Evil Returns,Drama,2012,4.8
+Bye Bye Blondie,Comedy,2012,5.1
+All the Light in the Sky,Drama,2012,6.3
+The Door,Drama,2012,6.6
+Sune i Grekland - All Inclusive,Comedy,2012,4.0
+Reipu zonbi: Lust of the dead,Horror,2012,3.9
+The Mine,Adventure,2012,3.8
+Jannat 2,Crime,2012,6.1
+Mars et Avril,Drama,2012,5.9
+Adventures Into the Woods: A Sexy Musical,Comedy,2012,6.6
+The Unlikely Girl,Drama,2012,5.4
+Junction,Thriller,2012,5.9
+Dag,Adventure,2012,7.5
+Nativity 2: Danger in the Manger!,Comedy,2012,5.4
+The Ghastly Love of Johnny X,Comedy,2012,5.7
+The Anniversary,Horror,2012,3.9
+Vinyl,Comedy,2012,5.9
+Transatlantic Coffee,Comedy,2012,7.1
+Silent Youth,Drama,2012,5.9
+A Green Story,Biography,2012,5.9
+Alleen maar nette mensen,Comedy,2012,5.7
+Si da ming bu,Action,2012,5.8
+Mugamoodi,Action,2012,5.0
+Rebel,Action,2012,4.3
+One Hit from Home,Drama,2012,4.6
+Nanban,Comedy,2012,7.8
+In Our Nature,Drama,2012,5.7
+Blood Money,Action,2012,4.5
+Creeper,Horror,2012,5.4
+We Made This Movie,Comedy,2012,8.1
+Ren zai jiong tu: Tai jiong,Adventure,2012,6.3
+Jump,Drama,2012,6.5
+Smitty,Drama,2012,5.3
+Araf,Drama,2012,6.2
+Sur la piste du Marsupilami,Adventure,2012,5.5
+Tutti i santi giorni,Comedy,2012,6.8
+Ferrari Ki Sawaari,Comedy,2012,6.5
+Lemale et ha'halal,Drama,2012,6.7
+Ishq,Comedy,2012,7.3
+Billa 2,Action,2012,6.3
+Thaandavam,Action,2012,6.0
+The Cottage,Thriller,2012,4.8
+Puppet Master X: Axis Rising,Action,2012,4.2
+Hated,Drama,2012,8.0
+Crowsnest,Action,2012,3.8
+Mighty Fine,Comedy,2012,5.0
+Hoa-cha,Mystery,2012,6.7
+Die vierte Macht,Thriller,2012,6.1
+California Solo,Drama,2012,6.3
+Du hast es versprochen,Drama,2012,5.8
+Elliot Loves,Comedy,2012,6.4
+Community,Horror,2012,4.3
+Scars,Horror,2012,6.1
+Least Among Saints,Drama,2012,6.4
+Meant to Be,Drama,2012,6.0
+Cloclo,Biography,2012,6.9
+Department,Action,2012,3.2
+Hardflip,Action,2012,5.6
+Poklosie,Drama,2012,7.3
+Art of Submission,Action,2012,4.5
+Toad Road,Horror,2012,5.1
+Lost Lake,Horror,2012,3.4
+Z-108 qi cheng,Horror,2012,3.4
+Magic Boys,Adventure,2012,3.0
+Nae anaeui modeun geot,Comedy,2012,6.7
+Bella addormentata,Drama,2012,6.3
+Tong que tai,Drama,2012,5.5
+Besties,Drama,2012,6.2
+Dogman,Thriller,2012,3.1
+Housos vs. Authority,Comedy,2012,5.5
+Hillbilly Highway,Comedy,2012,3.6
+General Education,Comedy,2012,4.4
+Eye of the Hurricane,Drama,2012,5.4
+Unicorn City,Comedy,2012,5.7
+I Hate Love,Comedy,2012,6.2
+The Unbroken,Thriller,2012,5.4
+Do Not Disturb,Comedy,2012,4.9
+Cold Blood,Thriller,2012,7.8
+Deep in the Heart,Drama,2012,5.6
+A Deadly Obsession,Action,2012,4.5
+Little Monsters,Crime,2012,5.0
+A Big Love Story,Comedy,2012,6.4
+The 25th Reich,Action,2012,3.3
+Laz Vampir Tirakula,Comedy,2012,2.6
+The Vortex,Action,2012,2.3
+Rebelle,Drama,2012,7.1
+Dukhless,Comedy,2012,6.5
+Ha-wool-ling,Thriller,2012,6.2
+Wolf,Drama,2012,8.2
+Apostle Peter and the Last Supper,Drama,2012,6.8
+23 Minutes to Sunrise,Drama,2012,4.1
+La vie d'une autre,Comedy,2012,6.4
+Changing Hearts,Family,2012,6.2
+The Domino Effect,Drama,2012,6.2
+Night of the Living Dead 3D: Re-Animation,Action,2012,3.0
+Mafia,Action,2012,4.1
+Ta-weo,Action,2012,6.5
+Pretty Obsession,Thriller,2012,4.4
+MoniKa,Action,2012,4.1
+Bathing Franky,Comedy,2012,8.0
+Julayi,Action,2012,7.2
+The Child,Thriller,2012,4.2
+The Disappeared,Drama,2012,6.1
+Terumae romae,Comedy,2012,6.4
+O Theos agapaei to haviari,Adventure,2012,6.0
+Another Dirty Movie,Comedy,2012,3.8
+The Bates Haunting,Horror,2012,3.2
+True Love,Thriller,2012,5.0
+Life Is Beautiful,Drama,2012,6.5
+Dead Man's Burden,Drama,2012,5.4
+Na-eui PS pa-teu-neo,Comedy,2012,6.8
+Sadistic Eroticism,Comedy,2012,7.4
+Crazy Eyes,Comedy,2012,4.0
+The Lost Episode,Horror,2012,2.4
+Masters of the Universe: The Fountain of Life,Fantasy,2012,3.4
+Thomas & Friends: Blue Mountain Mystery,,2012,6.8
+Dabbe: Bir Cin Vakasi,Horror,2012,6.5
+The Mistress,Drama,2012,6.6
+Low Tide,Drama,2012,7.1
+The Man Inside,Crime,2012,6.8
+Jeom-bak-i: Han-ban-do-eui Gong-ryong 3D,Animation,2012,5.6
+Animals,Drama,2012,6.1
+El cielo en tu mirada,Romance,2012,5.7
+Woman Thou Art Loosed: On the 7th Day,Drama,2012,4.9
+Ustad Hotel,Comedy,2012,8.4
+Bol Bachchan,Action,2012,5.5
+The Sleeper,Horror,2012,4.0
+Future Weather,Drama,2012,6.1
+Everyday,Drama,2012,6.3
+Vittra,Horror,2012,5.1
+Christmas Miracle,Family,2012,5.0
+Xiao shi de zi dan,Action,2012,6.6
+Sag Salim,Comedy,2012,6.8
+Surviving Family,Drama,2012,8.0
+De Marathon,Comedy,2012,7.5
+Sick Boy,Horror,2012,3.7
+Night Claws,Horror,2012,2.3
+Kohta 18,Drama,2012,6.3
+I Am ZoZo,Horror,2012,3.7
+Yeon-ga-si,Drama,2012,6.3
+Roundabout American,Comedy,2012,6.1
+Semi-Soet,Romance,2012,7.3
+Second Show,Crime,2012,7.1
+Reisen til julestjernen,Adventure,2012,5.9
+Couleur de peau: Miel,Animation,2012,7.3
+Supporting Characters,Comedy,2012,6.3
+Sawney: Flesh of Man,Horror,2012,4.5
+Jat jik,Crime,2012,5.1
+Raaz 3: The Third Dimension,Drama,2012,3.9
+Lizzie,Horror,2012,2.5
+Hoo-goong: Je-wang-eui cheob,Drama,2012,6.2
+To agori troei to fagito tou pouliou,Drama,2012,6.4
+The Good Life,Drama,2012,5.3
+Misfire,Action,2012,4.7
+Quiz,Thriller,2012,6.0
+Greystone Park,Horror,2012,3.2
+Kauwboy,Drama,2012,7.2
+Evelyn,Thriller,2012,6.0
+Khiladi 786,Action,2012,4.3
+In the Hive,Drama,2012,6.7
+Fuck Up,Comedy,2012,5.9
+Avarice,Sci-Fi,2012,4.3
+The Time Being,Mystery,2012,5.5
+Monsters in the Woods,Horror,2012,2.2
+The Pelayos,Action,2012,5.3
+Strange Frame: Love & Sax,Animation,2012,7.5
+Bad Parents,Comedy,2012,3.4
+Doctor Faustus,Comedy,2012,8.4
+Exposed,Drama,2012,6.8
+Vous n'avez encore rien vu,Drama,2012,6.4
+Khao riak phom wa kwam rak,Romance,2012,6.9
+Mancation,Comedy,2012,3.9
+Dead Weight,Drama,2012,5.4
+Play Hooky,Crime,2012,5.7
+Dead Moon Circus,Action,2012,6.8
+Not That Funny,Comedy,2012,5.3
+Ai,Drama,2012,6.7
+Fatal Call,Thriller,2012,4.4
+Che sau,Action,2012,6.0
+Yong-eui-ja X,Drama,2012,6.9
+The Nevsky Prospect,Thriller,2012,6.8
+All Wifed Out,Comedy,2012,4.9
+Riot,Crime,2012,4.7
+Fatso!,Comedy,2012,5.5
+Creep Van,Horror,2012,4.0
+Evil Things,Horror,2012,4.0
+Money Shot,Comedy,2012,2.5
+Kulman pojat,Comedy,2012,6.2
+Earthbound,Comedy,2012,5.6
+Patient Zero,Action,2012,4.4
+Benvenuti al nord,Comedy,2012,5.2
+Zombie Hamlet,Comedy,2012,6.5
+The Undershepherd,Drama,2012,6.2
+3 Day Test,Comedy,2012,4.6
+CLONED: The Recreator Chronicles,Drama,2012,4.3
+Sun Don't Shine,Crime,2012,6.3
+Dream World,Comedy,2012,6.4
+The Ghostmaker,Horror,2012,4.9
+Visible Scars,Thriller,2012,3.4
+Shesh Peamim,Drama,2012,6.1
+Maasiya Urbanit,Drama,2012,6.2
+Shanghai,Crime,2012,7.3
+Vuosaari,Drama,2012,6.5
+Naduvula Konjam Pakkatha Kaanom,Comedy,2012,8.2
+Blood Pressure,Drama,2012,6.8
+Complacent,Drama,2012,6.8
+Oass,Drama,2012,6.9
+From Beneath,Thriller,2012,5.9
+After Death,Comedy,2012,4.3
+Hemlock Society,Comedy,2012,7.4
+Bojhena Shey Bojhena,Comedy,2012,7.7
+Jodi Breakers,Comedy,2012,3.5
+Skeleton Lake,Action,2012,4.2
+Model Minority,Drama,2012,7.1
+Interludes,Drama,2012,6.9
+Abel's Field,Drama,2012,6.4
+Kath & Kimderella,Comedy,2012,5.2
+Xue di zi,Action,2012,4.7
+3 A.M. 3D,Horror,2012,5.7
+Barrio Tales,Horror,2012,4.0
+The Grind,Crime,2012,2.7
+Teri Meri Kahaani,Comedy,2012,4.7
+Romanzo di una strage,Drama,2012,7.2
+Trapped,Adventure,2012,5.0
+Zaytoun,Adventure,2012,6.6
+El Gringo,Action,2012,5.4
+The Man with the Iron Fists,Action,2012,5.4
+Safety Not Guaranteed,Comedy,2012,7.0
+Upside Down,Drama,2012,6.4
+Liberal Arts,Comedy,2012,6.7
+Erased,Action,2012,6.1
+The Apparition,Horror,2012,4.1
+Frances Ha,Comedy,2012,7.4
+Disconnect,Drama,2012,7.6
+The Odd Life of Timothy Green,Comedy,2012,6.6
+Hitchcock,Biography,2012,6.9
+Safe,Action,2012,6.5
+Now Is Good,Drama,2012,7.2
+American Mary,Crime,2012,6.3
+Parental Guidance,Comedy,2012,6.1
+Ruby Sparks,Comedy,2012,7.2
+Red Lights,Drama,2012,6.2
+Excision,Drama,2012,6.1
+El cuerpo,Mystery,2012,7.5
+The Lords of Salem,Horror,2012,5.1
+The Three Stooges,Comedy,2012,5.1
+The Words,Drama,2012,7.1
+Spike Island,Drama,2012,6.4
+Get the Gringo,Action,2012,7.0
+Foodfight!,Animation,2012,1.7
+Great Expectations,Drama,2012,6.4
+Fun Size,Adventure,2012,5.4
+To the Wonder,Drama,2012,6.0
+Iron Sky,Action,2012,5.9
+ParaNorman,Animation,2012,7.0
+Premium Rush,Action,2012,6.5
+Hit and Run,Action,2012,6.1
+So Undercover,Action,2012,5.0
+Hope Springs,Comedy,2012,6.3
+Paranormal Activity 4,Horror,2012,4.6
+The Cold Light of Day,Action,2012,4.9
+Beasts of the Southern Wild,Drama,2012,7.3
+Frankenweenie,Animation,2012,7.0
+Diary of a Wimpy Kid: Dog Days,Comedy,2012,6.4
+The Possession,Horror,2012,5.9
+The Company You Keep,Drama,2012,6.4
+Stolen,Action,2012,5.5
+One for the Money,Action,2012,5.3
+Shell,Drama,2012,6.4
+The Collection,Action,2012,6.1
+Housefull 2,Comedy,2012,5.3
+Passion,Crime,2012,5.3
+Bullet to the Head,Action,2012,5.7
+Thanks for Sharing,Comedy,2012,6.4
+Promised Land,Drama,2012,6.6
+Chernobyl Diaries,Horror,2012,5.0
+Alex Cross,Action,2012,5.1
+What Maisie Knew,Drama,2012,7.5
+Kon-Tiki,Adventure,2012,7.2
+Amour,Drama,2012,7.9
+A Perfect Ending,Drama,2012,5.9
+Playing for Keeps,Comedy,2012,5.7
+Into the White,Biography,2012,7.2
+Arbitrage,Drama,2012,6.6
+Much Ado About Nothing,Comedy,2012,7.2
+The Guilt Trip,Comedy,2012,5.8
+Thunderstruck,Comedy,2012,5.2
+The Sessions,Biography,2012,7.2
+Celeste & Jesse Forever,Comedy,2012,6.7
+Broken,Drama,2012,7.3
+A Thousand Words,Comedy,2012,5.9
+Smiley,Comedy,2012,3.5
+John Dies at the End,Comedy,2012,6.4
+At Any Price,Drama,2012,5.7
+Ookami kodomo no Ame to Yuki,Animation,2012,8.2
+Big Miracle,Biography,2012,6.5
+Tengo ganas de ti,Drama,2012,7.0
+The Broken Circle Breakdown,Drama,2012,7.8
+Lay the Favorite,Comedy,2012,4.8
+Gambit,Comedy,2012,5.7
+Save the Date,Comedy,2012,5.8
+People Like Us,Drama,2012,7.1
+Memoirs of a Vampire,Horror,2012,5.4
+Aftershock,Action,2012,4.8
+Starlet,Drama,2012,6.8
+Celebrity Sex Tape,Comedy,2012,2.9
+Bloodwork,Horror,2012,5.1
+No One Lives,Horror,2012,6.0
+Strippers vs Werewolves,Comedy,2012,3.1
+StreetDance 2,Drama,2012,5.7
+Dark Blood,Thriller,2012,6.7
+Cosmopolis,Drama,2012,5.0
+The Pact,Horror,2012,5.8
+Holy Motors,Drama,2012,7.1
+Deadfall,Crime,2012,6.3
+Venuto al mondo,Drama,2012,7.4
+B.A. Pass,Crime,2012,6.6
+The ABCs of Death,Comedy,2012,4.7
+Mac & Devin Go to High School,Comedy,2012,4.5
+After,Fantasy,2012,5.4
+The Babymakers,Comedy,2012,5.0
+The Conspiracy,Horror,2012,6.4
+Sap ji sang ciu,Action,2012,6.2
+Compliance,Biography,2012,6.4
+For a Good Time, Call...,Comedy,2012,6.0
+Secret of the Wings,Animation,2012,7.2
+The Pirates! In an Adventure with Scientists!,Animation,2012,6.7
+Maniac,Horror,2012,6.1
+Struck by Lightning,Comedy,2012,6.4
+The Passenger,Crime,2012,4.7
+Business Man,Action,2012,7.2
+Metamorphosis,Drama,2012,6.1
+Bloody Bloody Bible Camp,Comedy,2012,5.0
+Museum Hours,Drama,2012,6.9
+Sleepaway Camp IV: The Survivor,Horror,2012,1.6
+Bhooter Bhabishyat,Comedy,2012,8.1
+Da Wu Dang zhi tian di mi ma,Action,2012,5.2
+Please Kill Mr. Know It All,Comedy,2012,4.6
+The Inside,Drama,2012,3.2
+The Meat Puppet,Horror,2012,6.6
+Found in Time,Sci-Fi,2012,5.1
+Judge Archer,Action,2012,6.7
+Legion of the Black,Music,2012,7.9
+Ko-ri-a,Drama,2012,7.2
+Beyond the Blood,Crime,2012,7.7
+Golfstrim pod aysbergom,Drama,2012,6.5
+Hitman,Action,2012,5.9
+The Obama Effect,Comedy,2012,2.0
+Fray,Drama,2012,7.2
+5 cm,Adventure,2012,7.2
+Suddenly It's Magic,Comedy,2012,6.1
+Tezz,Action,2012,4.0
+Taped,Thriller,2012,6.3
+Lost and Found in Armenia,Comedy,2012,6.3
+House on the Hill,Crime,2012,3.1
+Graceland,Crime,2012,6.7
+Slaughter Daughter,Horror,2012,4.9
+Brutal,Action,2012,4.6
+Bloody Homecoming,Horror,2012,3.6
+186 Dollars to Freedom,Action,2012,5.1
+Paradox Alice,Sci-Fi,2012,3.7
+Battle Force,Action,2012,3.3
+Life's a Beach,Comedy,2012,3.9
+L,Comedy,2012,5.5
+Bekas,Drama,2012,7.4
+Het Meisje en de Dood,Drama,2012,6.4
+Despre oameni si melci,Comedy,2012,7.3
+Gekijouban Blood-C: The Last Dark,Animation,2012,6.0
+Back to the Sea,Animation,2012,4.5
+Foxfire,Crime,2012,6.2
+Two Little Boys,Comedy,2012,5.8
+I Am a Ghost,Drama,2012,6.1
+Into the Woods,Thriller,2012,2.6
+BuzzKill,Comedy,2012,4.7
+Thanatomorphose,Horror,2012,4.7
+Sleeper's Wake,Thriller,2012,5.6
+Er ci pu guang,Crime,2012,5.5
+Colosio: El asesinato,Thriller,2012,7.3
+God's Country,Comedy,2012,4.6
+Hvidsten gruppen,Drama,2012,6.6
+Imagine,Drama,2012,7.4
+Forgetting the Girl,Drama,2012,5.2
+Margarita,Comedy,2012,6.3
+Het Bombardement,Drama,2012,3.8
+Old Stock,Comedy,2012,6.6
+Fu cheng mi shi,Crime,2012,6.3
+Camilla Dickinson,Family,2012,8.3
+Careless Love,Drama,2012,6.1
+Sonja i bik,Comedy,2012,7.2
+De verbouwing,Thriller,2012,6.0
+The Hot Potato,Drama,2012,5.2
+Uskyld,Drama,2012,5.9
+Birds of a Feather,Drama,2012,6.3
+Saltwater,Romance,2012,4.6
+In the House of Flies,Thriller,2012,5.7
+A Secret Affair,Drama,2012,5.0
+Little Thirteen,Drama,2012,5.5
+Sadako 3D,Horror,2012,3.8
+Miss Lovely,Crime,2012,6.7
+Anything Goes,Comedy,2012,6.0
+Treto poluvreme,Drama,2012,8.0
+Supernatural Activity,Comedy,2012,2.9
+The Adored,Drama,2012,4.8
+The Cohasset Snuff Film,Crime,2012,5.3
+Healed by Grace,Drama,2012,6.9
+The Unspeakable Act,Drama,2012,5.9
+Cold Blooded,Action,2012,5.5
+Kirikou et les hommes et les femmes,Animation,2012,6.6
+Kirishima, bukatsu yamerutteyo,Drama,2012,7.4
+407 Dark Flight 3D,Horror,2012,4.2
+Trailer Park Jesus,Comedy,2012,6.9
+Ashura,Animation,2012,6.8
+Because I Love You,Action,2012,3.8
+Yes, We're Open,Comedy,2012,6.6
+You, Me & The Circus,Musical,2012,7.8
+La senda,Horror,2012,5.0
+USS Seaviper,Action,2012,2.5
+Dai juk hei kek,Comedy,2012,6.4
+Six Lovers,Drama,2012,6.0
+Xingu,Action,2012,7.1
+Evim Sensin,Fantasy,2012,4.9
+Snow White: A Deadly Summer,Horror,2012,2.2
+Horror House,Horror,2012,4.9
+6 Degrees of Hell,Horror,2012,2.6
+Apartment 4E,Drama,2012,5.1
+Kuma,Drama,2012,6.7
+11 settembre 1683,Adventure,2012,4.1
+Mariachi Gringo,Comedy,2012,6.3
+Bro',Action,2012,3.5
+Outside Bet,Comedy,2012,4.9
+Burrraahh,Comedy,2012,6.9
+The Playroom,Drama,2012,5.3
+Dangerous Ishhq,Romance,2012,4.0
+Los ilusionautas,Animation,2012,3.3
+The Dark Side of Love,Drama,2012,4.6
+Rachcha,Action,2012,4.4
+Carry on Jatta,Comedy,2012,8.3
+Thattathin Marayathu,Drama,2012,7.4
+Uzun Hikaye,Drama,2012,7.7
+Slumber Party Slaughter,Drama,2012,6.5
+3 Days of Normal,Comedy,2012,5.5
+Dictado,Horror,2012,5.5
+The King of the Streets,Action,2012,5.0
+Jatt & Juliet,Comedy,2012,7.6
+Naan,Crime,2012,7.4
+Halimin put,Drama,2012,8.2
+Deranged,Horror,2012,3.2
+Hulluna Saraan,Comedy,2012,5.7
+An...,Drama,2012,6.9
+Barbie: The Princess & the Popstar,Animation,2012,5.6
+Fetish Dolls Die Laughing,Comedy,2012,2.2
+Shpion,Action,2012,5.3
+Gli equilibristi,Drama,2012,6.9
+Payback Season,Drama,2012,3.5
+The Mooring,Horror,2012,4.4
+Bigfoot County,Horror,2012,2.8
+22 Female Kottayam,Crime,2012,7.4
+The Silent Thief,Thriller,2012,5.6
+All in Good Time,Comedy,2012,5.7
+Inside,Horror,2012,4.1
+6 Plots,Thriller,2012,3.9
+Heiter bis wolkig,Comedy,2012,6.8
+Much Ado About Nothing,Comedy,2012,7.7
+London Paris New York,Romance,2012,5.7
+Gong-mo-ja-deul,Action,2012,6.4
+Tiktik: The Aswang Chronicles,Action,2012,5.6
+Robin Hood: Ghosts of Sherwood,Action,2012,1.8
+Bitchkram,Drama,2012,6.0
+The Millionaire Tour,Action,2012,6.4
+Inside the Whore,Horror,2012,2.1
+Geon-chook-hak-gae-ron,Drama,2012,7.3
+Al-too-bi: Riteon too beiseu,Action,2012,6.1
+Art Machine,Comedy,2012,7.1
+Ambuli,Action,2012,5.1
+Gabe the Cupid Dog,Comedy,2012,4.2
+No quiero dormir sola,Drama,2012,6.5
+Scooby-Doo! Music of the Vampire,Animation,2012,6.5
+Joker,Comedy,2012,2.6
+Revenant,Horror,2012,4.4
+Sarocharu,Drama,2012,4.7
+Eddie,Comedy,2012,5.7
+The Golden Couple,Comedy,2012,7.8
+The Swan Princess Christmas,Animation,2012,3.5
+A Thousand Cuts,Thriller,2012,5.3
+Wang de Shengyan,Action,2012,5.7
+009 Re: Cyborg,Animation,2012,6.0
+Gan-gi-nam,Comedy,2012,5.8
+Russendisko,Comedy,2012,5.5
+Trois mondes,Drama,2012,6.5
+Match,Drama,2012,5.5
+Ljudozder vegetarijanac,Drama,2012,7.3
+Sunset Stories,Comedy,2012,6.9
+Das Haus der Krokodile,Adventure,2012,6.5
+Awaken,Drama,2012,6.4
+Baat seng bou hei,Comedy,2012,5.4
+Decision,Drama,2012,5.8
+Children of Sorrow,Horror,2012,4.3
+Dust Up,Action,2012,5.0
+Christmas Oranges,Drama,2012,6.9
+Avunu,Horror,2012,6.9
+Invasor,Action,2012,5.6
+Yoko,Adventure,2012,4.8
+Impepata di nozze,Comedy,2012,4.6
+The Healing,Horror,2012,6.4
+2 Coelhos,Action,2012,7.4
+Aurora,Romance,2012,6.1
+A Busca,Drama,2012,6.7
+Off Season,Drama,2012,7.9
+Cockpit,Comedy,2012,5.8
+Tepenin Ardi,Drama,2012,7.3
+Gali Gali Chor Hai,Drama,2012,5.1
+Theatre of the Deranged,Comedy,2012,4.8
+The Warning,Horror,2012,2.8
+Songs for Amy,Comedy,2012,7.7
+Dhammu,Action,2012,5.4
+DisOrientation,Comedy,2012,3.0
+Hang Loose,Comedy,2012,5.6
+Ting feng zhe,Crime,2012,6.1
+One Last Look,Thriller,2012,6.4
+Thomas & Friends: A Very Thomas Christmas,,2012,4.8
+The Rental,Comedy,2012,2.5
+Paziraie sadeh,Comedy,2012,7.0
+Redd Inc.,Horror,2012,5.8
+My Funny Valentine,Drama,2012,7.2
+The Revenant,Horror,2012,6.5
+3,Drama,2012,7.2
+Jan Dara pathommabot,Drama,2012,5.7
+The Hooligan Wars,Crime,2012,3.9
+Ajab Gazabb Love,Romance,2012,4.0
+Flying Blind,Drama,2012,5.7
+Genghis: The Legend of the Ten,Action,2012,5.9
+Peddlers,Drama,2012,7.1
+Alyah,Drama,2012,6.1
+Nice Guy,Crime,2012,7.1
+The Normals,Comedy,2012,4.7
+Frost,Horror,2012,3.7
+Return of the Killer Shrews,Horror,2012,2.7
+Bert & Dickie,Drama,2012,6.8
+Chaar Din Ki Chandni,Comedy,2012,4.2
+Cesare deve morire,Drama,2012,7.4
+The Foreigner,Comedy,2012,6.9
+Jalpari: The Desert Mermaid,Drama,2012,7.2
+Une nuit,Crime,2012,6.7
+Camp Virginovich,Adventure,2012,7.4
+Dracula: Reborn,Horror,2012,3.3
+Carmina o revienta,Comedy,2012,6.3
+Cameraman Ganga tho Rambabu,Action,2012,5.9
+Terrible Angels,Mystery,2012,6.4
+Ayalum Njanum Thammil...,Drama,2012,7.9
+The Most Fun You Can Have Dying,Drama,2012,6.5
+Junkie,Comedy,2012,4.9
+Life's an Itch,Comedy,2012,4.0
+Nor'easter,Drama,2012,5.4
+Ai to makoto,Musical,2012,6.4
+90 minutter,Drama,2012,6.2
+The Eves,Thriller,2012,4.3
+Rise of the Black Bat,Action,2012,1.5
+Just Crazy Enough,Comedy,2012,3.0
+Kompani Orheim,Drama,2012,7.0
+Christmas in Compton,Comedy,2012,4.1
+City of Dreamers,Drama,2012,7.8
+Led,Drama,2012,6.0
+Mixed Kebab,Drama,2012,6.3
+Deviation,Thriller,2012,4.2
+Hannah Has a Ho-Phase,Comedy,2012,7.1
+Hard Shoulder,Thriller,2012,3.7
+Sisterakas,Comedy,2012,5.6
+5 Minutes,Drama,2012,8.1
+Cherchez Hortense,Comedy,2012,6.2
+Unconditional,Drama,2012,6.2
+Was bleibt,Drama,2012,6.6
+Viola,Drama,2012,6.1
+Hell and Mr. Fudge,Drama,2012,6.4
+Die Vampirschwestern,Adventure,2012,5.6
+Pablo,Animation,2012,7.0
+Viva l'Italia,Comedy,2012,6.3
+Zenne Dancer,Drama,2012,7.3
+Brigada: Naslednik,Action,2012,3.2
+Fu sing,Drama,2012,6.4
+Jesus Loves Me,Comedy,2012,5.5
+Jue se wu qi,Action,2012,4.9
+Mees Kees,Comedy,2012,6.7
+Suave patria,Adventure,2012,5.0
+Izmena,Drama,2012,6.3
+Marco Macaco,Animation,2012,4.0
+Mi-hwak-in-dong-yeong-sang,Crime,2012,4.7
+Saturday Morning Massacre,Comedy,2012,4.5
+Dead Shadows,Horror,2012,3.8
+8 Minutes Idle,Comedy,2012,5.4
+A Beautiful Soul,Drama,2012,6.6
+Daruvu,Action,2012,4.8
+Minte-ma frumos,Comedy,2012,7.1
+Kevin Bridges: The Story Continues...,Comedy,2012,8.1
+Les chevaux de Dieu,Drama,2012,7.3
+Sick,Horror,2012,2.9
+Sou suo,Drama,2012,6.5
+12 Dogs of Christmas: Great Puppy Rescue,Comedy,2012,4.9
+Theevram,Crime,2012,6.2
+Deddo sushi,Action,2012,5.9
+Bittoo Boss,Romance,2012,4.1
+Lost Woods,Action,2012,2.2
+Cannibal Diner,Horror,2012,2.1
+Cell Count,Horror,2012,3.7
+The Comedian,Drama,2012,5.5
+Que pena tu familia,Comedy,2012,5.1
+Rush,Thriller,2012,3.6
+The Most Fun I've Ever Had with My Pants On,Drama,2012,6.8
+Lamma shoftak,Drama,2012,6.5
+The Movie Out Here,Comedy,2012,4.5
+Maattrraan,Action,2012,5.8
+Bedroom,Drama,2012,6.0
+Lizard Man,Sci-Fi,2012,5.6
+Missed Connections,Comedy,2012,5.3
+Todo es silencio,Drama,2012,4.9
+Titanic: 100 Years On,,2012,7.4
+City Slacker,Romance,2012,5.1
+Am Himmel der Tag,Drama,2012,7.0
+D'Agostino,Drama,2012,4.8
+3 of a Kind,Crime,2012,6.0
+Cha hyung-sa,Comedy,2012,5.8
+Exit Strategy,Comedy,2012,3.3
+3 Bachelors,Comedy,2012,3.3
+The Chrysalis,Drama,2012,5.7
+Undeva la Palilula,Drama,2012,7.2
+Population: 2,Drama,2012,2.4
+Gangsters, Guns & Zombies,Comedy,2012,3.9
+Golden Winter,Comedy,2012,4.0
+Halley,Drama,2012,5.6
+Baramgwa hamjje sarajida,Action,2012,6.3
+Back Then,Comedy,2012,5.4
+This Guy's in Love with U Mare!,Comedy,2012,6.9
+The Olivia Experiment,Comedy,2012,6.8
+Reel Evil,Horror,2012,3.5
+Diamond Necklace,Thriller,2012,7.2
+Vamperifica,Comedy,2012,3.8
+How to Meet Girls from a Distance,Comedy,2012,6.1
+Identical,Thriller,2012,3.6
+The Diary of Preston Plummer,Drama,2012,6.2
+Allez, Eddy!,Comedy,2012,6.4
+Grandmaster,Mystery,2012,7.1
+Tere Naal Love Ho Gaya,Comedy,2012,5.8
+Frisch gepresst,Comedy,2012,4.8
+Charm,Comedy,2012,5.8
+Shutter,Thriller,2012,7.7
+Sol,Sci-Fi,2012,3.5
+Decay,Horror,2012,3.8
+Up There,Comedy,2012,6.0
+The Newest Pledge,Comedy,2012,4.6
+Pele akher,Drama,2012,7.5
+Chun Kiu yi Chi Ming,Comedy,2012,7.0
+The Reunion,Comedy,2012,5.8
+Ya tozhe khochu,Drama,2012,6.4
+Bana Bir Soygun Yaz,Comedy,2012,4.9
+Mr Bhatti on Chutti,Comedy,2012,4.1
+Deadline,Drama,2012,4.9
+Nairobi Half Life,Drama,2012,7.4
+Don keu-ra-i ma-mi,Drama,2012,6.3
+El regreso,Drama,2012,7.3
+La cripta de las condenadas,Horror,2012,8.7
+Oblawa,Drama,2012,6.5
+Entrance,Drama,2012,4.9
+Circle of Lies,Drama,2012,4.8
+Dai zeoi bou,Action,2012,6.5
+El Santos vs la Tetona Mendoza,Animation,2012,6.4
+Wilt,,2012,8.4
+Jack London's Love of Life,Adventure,2012,8.1
+Rubberneck,Drama,2012,5.2
+El-Maslaha,Action,2012,7.1
+Beyond the Trophy,Action,2012,5.2
+Countdown,Horror,2012,6.5
+The Frontier Boys,Action,2012,5.1
+Vettai,Action,2012,6.0
+Kevi Rite Jaish,Comedy,2012,8.1
+26 nyeon,Drama,2012,6.5
+Sinapupunan,Drama,2012,7.0
+Aunt Bam's Place,,2012,2.4
+Le jour des corneilles,Animation,2012,7.3
+The Neighbors,Thriller,2012,6.4
+Pinocchio,Animation,2012,6.0
+Chakradhaar,Action,2012,4.4
+Project 12,Sci-Fi,2012,7.5
+Stud Life,Drama,2012,5.7
+Ninjas vs. Monsters,Action,2012,4.7
+Crossroad,Drama,2012,5.1
+Rzhevskiy protiv Napoleona,Comedy,2012,3.3
+Sparrows Dance,Comedy,2012,6.8
+Vazhakku Enn 18/9,Crime,2012,8.3
+Joshua Tree, 1951: A Portrait of James Dean,Drama,2012,5.9
+Christmas. Uncensored,Drama,2012,5.8
+Moo-seo-woon I-ya-gi,Horror,2012,5.7
+Tango libre,Drama,2012,6.1
+Sophomore,Comedy,2012,7.3
+Home Sweet Home,Thriller,2012,4.5
+Chakravyuh,Drama,2012,6.9
+I Spill Your Guts,Horror,2012,2.4
+Nous York,Comedy,2012,4.3
+2nd Serve,Comedy,2012,6.1
+Booked Out,Comedy,2012,7.6
+She: Their Love Story,Drama,2012,6.0
+Art of Darkness,Horror,2012,3.1
+Eungyo,Drama,2012,6.8
+Avgust. Vosmogo,Action,2012,5.7
+Offline,Drama,2012,7.2
+?: A Question Mark,Horror,2012,5.4
+It's in the Blood,Drama,2012,4.7
+Ekk Deewana Tha,Romance,2012,5.8
+Engagement,Mystery,2012,5.0
+Hua yang,Drama,2012,5.4
+Nate and Margaret,Comedy,2012,6.2
+The Legends of Nethiah,Action,2012,3.7
+Faith, Love and Whiskey,Drama,2012,5.9
+My Uncle Rafael,Comedy,2012,5.7
+Gimme the Loot,Comedy,2012,6.6
+Strawberry Fields,Drama,2012,4.5
+De Ontmaagding van Eva van End,Drama,2012,6.6
+First Winter,Drama,2012,4.9
+Wedding Day,Drama,2012,5.1
+Mauvaise fille,Drama,2012,5.1
+Folklore,Comedy,2012,6.6
+Aux yeux de tous,Thriller,2012,6.0
+Kill Me Now,Comedy,2012,5.9
+Empress Vampire,Action,2012,5.4
+Television,Drama,2012,8.3
+Eu te amo Renato,Drama,2012,5.2
+Memory Lane,Crime,2012,6.8
+Superstar,Comedy,2012,5.3
+Should've Been Romeo,Comedy,2012,6.7
+Cross Bearer,Horror,2012,3.3
+Orda,Drama,2012,6.3
+Lan Kwai Fong 2,Comedy,2012,4.8
+Hard Boiled Sweets,Crime,2012,4.7
+One Direction: All for One,Biography,2012,5.6
+Profile of a Killer,Thriller,2012,6.0
+Laptop,Drama,2012,7.0
+Redemption of a Dog,Comedy,2012,6.5
+Morgana,Horror,2012,3.7
+Becoming Redwood,Drama,2012,6.0
+Long-Distance Princess,Comedy,2012,6.2
+Stars in Shorts,Comedy,2012,6.6
+The Gospel of Us,Drama,2012,5.5
+Pearblossom Hwy,Drama,2012,7.1
+Shirin Farhad Ki Toh Nikal Padi,Romance,2012,4.3
+Kid-Thing,Drama,2012,6.4
+Die Abenteuer des Huck Finn,Adventure,2012,5.8
+Vulnerables,Thriller,2012,3.5
+Mer eller mindre mann,Comedy,2012,5.9
+Tot altijd,Drama,2012,7.2
+Death from Above,Adventure,2012,3.1
+Dead Man Talking,Comedy,2012,7.0
+Deer Crossing,Crime,2012,3.4
+The Voices from Beyond,Thriller,2012,4.0
+Alien Dawn,Action,2012,2.3
+Watashi no dorei ni narinasai,Drama,2012,5.5
+Perahu kertas,Drama,2012,7.2
+The Strange Case of Wilhelm Reich,Biography,2012,6.1
+Varg Veum - Kalde hjerter,Crime,2012,6.0
+Blondie,Drama,2012,4.7
+24/7 in Love,Comedy,2012,7.1
+Je me suis fait tout petit,Comedy,2012,5.9
+Deadtime,Horror,2012,2.2
+Kokoko,Drama,2012,6.7
+American Maniacs,Drama,2012,3.1
+Roulette,Drama,2012,5.1
+Deliverance from Evil,Horror,2012,2.9
+El mundo es nuestro,Comedy,2012,6.7
+Der Mondmann,Animation,2012,6.4
+Shal,Action,2012,7.3
+Power Rangers Samurai: A New Enemy (vol. 2),,2012,7.0
+Material,Comedy,2012,7.8
+Echo Jew Gong Lok,Animation,2012,5.7
+Baek-ya,Drama,2012,6.5
+Broche de Oro,Comedy,2012,7.5
+Born & Raised,Drama,2012,5.0
+Foreign Letters,Comedy,2012,6.9
+Nan fang xiao yang mu chang,Comedy,2012,6.6
+Savage Love,Adventure,2012,3.7
+The Four,Action,2012,3.8
+Rhymes with Banana,Comedy,2012,7.2
+S Novym godom, mamy!,,2012,6.7
+Consuming Spirits,Animation,2012,7.8
+Rigodon,Drama,2012,5.8
+Gabbar Singh,Action,2012,7.2
+Toata lumea din familia noastra,Drama,2012,7.5
+Bad Film,Action,2012,6.0
+Sen Kimsin?,Comedy,2012,5.0
+Willa,Drama,2012,6.2
+Andala Rakshasi,Romance,2012,7.0
+Elf-Man,Comedy,2012,3.6
+Satellite Boy,Adventure,2012,6.5
+Tie pohjoiseen,Comedy,2012,6.5
+Sione's 2: Unfinished Business,Comedy,2012,5.9
+Ape,Comedy,2012,5.8
+The Exquisite Corpse Project,Comedy,2012,6.9
+Berlin Kaplani,Comedy,2012,5.2
+Yeralti,Drama,2012,7.2
+Destiny Road,Drama,2012,6.8
+Gnade,Drama,2012,6.8
+Italian Movies,Comedy,2012,6.0
+Saint Dracula 3D,Horror,2012,3.0
+Skull Forest,Action,2012,2.9
+Cendrillon au Far West,Animation,2012,3.9
+Attakathi,Comedy,2012,7.1
+The 6th Extinction,Horror,2012,1.8
+Nippu,Action,2012,3.8
+Batman Revealed,Action,2012,5.1
+The Message,Thriller,2012,7.3
+DGK: Parental Advisory,Sport,2012,7.4
+Crack Whore,Comedy,2012,6.9
+Theresa Is a Mother,Comedy,2012,6.9
+Bokura ga ita: Zenpen,Drama,2012,6.8
+La sirga,Drama,2012,6.7
+10 regole per fare innamorare,Comedy,2012,4.7
+La playa DC,Drama,2012,6.0
+You're Nobody 'til Somebody Kills You,Horror,2012,3.2
+Palitan,Drama,2012,7.1
+Yuma,Action,2012,6.1
+Battlefield Death Tales,Horror,2012,2.2
+2: Voodoo Academy,Horror,2012,4.4
+Must Come Down,Comedy,2012,8.0
+Dick Little,Comedy,2012,5.4
+Aayna Ka Bayna,Music,2012,5.8
+Ang nawawala,Drama,2012,8.1
+Kenneth,Comedy,2012,7.5
+Teen Yaari Katha,Comedy,2012,7.3
+Sins Expiation,Action,2012,2.5
+Rock Jocks,Comedy,2012,5.3
+Negeri 5 Menara,Drama,2012,7.2
+Skate Proof,Crime,2012,5.9
+Scream: Generations,Horror,2012,7.0
+Mommy Is Coming,Comedy,2012,5.3
+El Presidente,Action,2012,6.5
+Axed,Drama,2012,3.7
+Kung Fu Man,Action,2012,5.8
+Zhit,Drama,2012,7.3
+Inheritance,Drama,2012,6.0
+Cash Flow,Action,2012,6.6
+My Best Day,Comedy,2012,5.2
+Nesting,Comedy,2012,5.8
+Yeto Vellipoyindhi Manasu,Drama,2012,7.2
+Razza bastarda,Drama,2012,6.5
+Du Bunui Gyulhonsikgwa Han Bunui Jangryesik,Comedy,2012,6.4
+Ai de mian bao hun,Comedy,2012,6.2
+Funeral Kings,Comedy,2012,6.3
+My Boss,Comedy,2012,6.3
+Plan C,Comedy,2012,6.5
+Damarukam,Action,2012,5.5
+Abar Byomkesh,Mystery,2012,6.9
+Heathens and Thieves,Mystery,2012,5.2
+Making Change,Drama,2012,6.8
+Little Women, Big Cars,Comedy,2012,7.1
+Marudukku sukuranburu: Haiki,Animation,2012,6.6
+Legend of Hell,Action,2012,2.7
+Brooklyn Gangster: The Story of Jose Lucas,Biography,2012,8.3
+Red Balls,Comedy,2012,3.2
+Girlfriend Boyfriend,Drama,2012,6.9
+Life Ki Toh Lag Gayi,Comedy,2012,5.9
+The Hunt,Action,2012,4.6
+Phone Swap,Comedy,2012,8.1
+Ha-Mashgihim,Drama,2012,6.9
+Main dans la main,Musical,2012,6.1
+Down the Road,Horror,2012,3.1
+Dhoni,Drama,2012,6.9
+Love, Lies and Seeta,Comedy,2012,8.2
+Exhibit X,Crime,2012,4.8
+Transpapa,Drama,2012,6.7
+Jessica's Journey,Drama,2012,7.8
+La cripta de las condenadas: Parte II,Horror,2012,8.4
+Neethaane En Ponvasantham,Romance,2012,6.5
+Immaturi - Il viaggio,Comedy,2012,5.9
+Glenn Beck: Unelectable 2012,Comedy,2012,5.1
+No One Will Know,Action,2012,4.5
+Boxing Day,Drama,2012,5.9
+Blood Rush,Comedy,2012,4.1
+Todo el mundo tiene a alguien menos yo,Drama,2012,7.1
+Offroad,Action,2012,5.3
+Nono, het Zigzag Kind,Adventure,2012,6.7
+Ghost,Horror,2012,2.3
+War of the Worlds the True Story,Action,2012,7.3
+Thirst,Drama,2012,7.1
+Myeong-wang-song,Crime,2012,6.5
+Wer's glaubt, wird selig,Comedy,2012,6.2
+Zui xiong,Thriller,2012,4.8
+Loot,Crime,2012,7.9
+Shabdo,Drama,2012,7.9
+Murder University,Horror,2012,4.5
+The Telemachy,Adventure,2012,8.5
+Mammas pojkar,Comedy,2012,4.6
+Baad el mawkeaa,Drama,2012,5.5
+Malaikat tanpa sayap,Drama,2012,8.0
+Jakali onda,Action,2012,5.2
+Jaque mate!,Drama,2012,7.1
+I Heart Shakey,Adventure,2012,3.8
+Colegas,Adventure,2012,6.9
+Dead Collections,Horror,2012,3.8
+Ala Gothety,Comedy,2012,6.3
+Rentaneko,Comedy,2012,7.1
+Broadway's Finest,Action,2012,6.6
+Moy paren - angel,Comedy,2012,6.6
+Red Flag,Comedy,2012,5.4
+Selkirk, el verdadero Robinson Crusoe,Animation,2012,6.6
+Bellicher: Cel,Action,2012,6.3
+Putzel,Comedy,2012,6.7
+P.O.E.: Project of Evil,Horror,2012,3.1
+Mona,Drama,2012,7.2
+Roadside Massacre,Horror,2012,2.7
+Trivandrum Lodge,Comedy,2012,6.5
+The Strangers,Action,2012,5.9
+A Beer Tale,Comedy,2012,4.6
+Miel de naranjas,Drama,2012,5.7
+Holy Knight,Animation,2012,6.0
+Mai morire,Drama,2012,6.6
+Le monde doit m'arriver?,Comedy,2012,8.6
+Kismet Love Paisa Dilli,Adventure,2012,4.3
+Jessica's Room,Horror,2012,3.4
+Stealing Las Vegas,Crime,2012,4.0
+Spy,Action,2012,6.5
+Radiostars,Comedy,2012,6.1
+Du vent dans mes mollets,Comedy,2012,6.8
+I Am Bad,Thriller,2012,5.9
+Dance Off,Musical,2012,3.8
+Creeping Crawling,Horror,2012,5.5
+King of the Travellers,Drama,2012,4.8
+Kadhalil Sodhappuvadhu Yeppadi,Comedy,2012,7.3
+Rudyard Kipling's Mark of the Beast,Horror,2012,6.0
+Gib mir noch ein Jahr,Drama,2012,7.2
+Maximum,Crime,2012,5.1
+Temple Wood: A Quest for Freedom,Drama,2012,7.1
+Aftermath,Action,2012,5.3
+Pridyider,Horror,2012,4.5
+Wu yan,Drama,2012,6.0
+36,Drama,2012,7.1
+Amy Winehouse: Fallen Star,Biography,2012,1.7
+Wolwedans in die Skemer,Thriller,2012,5.8
+Delivering the Goods,Comedy,2012,6.5
+Day of the Flowers,Comedy,2012,5.4
+Dzhungli,Adventure,2012,5.3
+La demora,Drama,2012,7.2
+Hiding in Plain Sight,Drama,2012,7.9
+Psychotic,Action,2012,4.3
+Kurtulus Son Durak,Comedy,2012,6.1
+Stand Off,Crime,2012,5.1
+Poker Face,Comedy,2012,6.0
+Endukante... Premanta,Comedy,2012,6.2
+Ghetu Putro Komola,Drama,2012,7.5
+Crna Zorica,Comedy,2012,4.5
+Stalnaya babochka,Crime,2012,7.3
+Anata e,Drama,2012,7.0
+Ni guang fei xiang,Drama,2012,7.5
+El rey de Najayo,Crime,2012,6.9
+Will You Marry Me,Comedy,2012,5.6
+Smrt coveka na Balkanu,Comedy,2012,7.5
+Ventanas al mar,Drama,2012,5.6
+Burlesque Assassins,Comedy,2012,5.2
+Pi fu,Drama,2012,5.4
+Slasher House,Horror,2012,3.7
+For the Glory,Drama,2012,7.0
+La suerte en tus manos,Comedy,2012,5.7
+Hanni & Nanni 2,Family,2012,4.8
+Falling Uphill,Comedy,2012,4.7
+August 2,Thriller,2012,4.7
+The Zombinator,Horror,2012,2.5
+The Woodsman,Adventure,2012,6.7
+C'mon Man,Comedy,2012,3.8
+The Infliction,Horror,2012,4.5
+Posti in piedi in paradiso,Comedy,2012,6.2
+Borrowed Time,,2012,5.8
+Una famiglia perfetta,Comedy,2012,6.5
+Rak chan yaa kid teung chan,Horror,2012,5.7
+English: An Autumn in London,Drama,2012,6.1
+The Eschatrilogy: Book of the Dead,Fantasy,2012,5.3
+Ustanicka ulica,Drama,2012,6.7
+Don-eui mat,Drama,2012,5.8
+Cornouaille,Drama,2012,5.0
+Refuge from the Storm,Drama,2012,7.9
+Chitrangada,Drama,2012,6.1
+Doo gae-eui dal,Horror,2012,5.9
+Esterdad,History,2012,6.3
+Friday,Family,2012,6.0
+Thomas and Friends: Curious Cargo,,2012,6.7
+Last Flight to Abuja,Action,2012,7.0
+Ira Finkelstein's Christmas,Comedy,2012,5.8
+Soda Springs,Drama,2012,5.7
+Sanctuary; Quite a Conundrum,Comedy,2012,5.5
+B4,Sci-Fi,2012,5.2
+Hitting the Cycle,Drama,2012,6.5
+May I Kill U?,Comedy,2012,5.7
+Bu Son Olsun,Comedy,2012,5.8
+Comrade Kim Goes Flying,Comedy,2012,6.6
+Gong jeong sa hoe,Crime,2012,6.0
+Recognize,Action,2012,3.4
+A Beary Scary Movie,Comedy,2012,7.4
+Altered States of Plaine,Drama,2012,5.5
+9-Ball,Drama,2012,6.3
+Life, Love, Soul,Drama,2012,5.6
+Betroit,Drama,2012,6.4
+Cinema Six,Comedy,2012,6.9
+The Architect,Crime,2012,7.4
+Sky Force 3D,Animation,2012,4.0
+Bumboo,Comedy,2012,3.6
+Sea, No Sex & Sun,Comedy,2012,4.3
+Djeca,Drama,2012,6.4
+Life's a Jungle: Africa's Most Wanted,Animation,2012,2.0
+Spirit,Comedy,2012,7.5
+Indigo Children,Drama,2012,8.1
+Down by the River,Drama,2012,6.3
+Mere Dost Picture Abhi Baaki Hai,Comedy,2012,3.5
+Queen of Montreuil,Comedy,2012,6.5
+The Monogamy Experiment,Comedy,2012,7.0
+Iconoclast,Fantasy,2012,2.5
+Atom the Amazing Zombie Killer,Comedy,2012,4.6
+Il comandante e la cicogna,Comedy,2012,6.3
+Il peggior Natale della mia vita,Comedy,2012,5.3
+The Becoming,Horror,2012,3.3
+Die Kirche bleibt im Dorf,Comedy,2012,6.2
+Los condenados,Drama,2012,5.8
+De Groeten van Mike!,Family,2012,6.7
+Bad vs Worse,Comedy,2012,5.3
+Dormi trezeste-te,Thriller,2012,3.6
+As High as the Sky,Comedy,2012,7.1
+Dystopia: 2013,Sci-Fi,2012,3.3
+Little Black Spiders,Drama,2012,6.3
+My Last Valentine in Beirut in 3D,Comedy,2012,6.5
+Locked in a Room,Horror,2012,3.3
+All's Well That Ends Well,Comedy,2012,7.2
+Dancing Queen,Comedy,2012,6.4
+Login,Drama,2012,6.2
+Trashology,Comedy,2012,5.8
+California Winter,Drama,2012,8.0
+V ozhidanii morya,Fantasy,2012,6.7
+Das Wochenende,Drama,2012,5.9
+Doktor Rej i djavoli,Biography,2012,6.1
+Veer Hamirji - Somanath ni Sakhate,History,2012,8.1
+Come Morning,Drama,2012,5.9
+Xuan hong,Comedy,2012,5.5
+Qing mi,Drama,2012,5.6
+Tortoise in Love,Comedy,2012,5.4
+Missing Pieces,Drama,2012,7.3
+El paseo 2,Comedy,2012,2.7
+Frauensee,Drama,2012,5.6
+Nerawareta gakuen,Animation,2012,6.3
+Run Baby Run,Comedy,2012,6.8
+The Devil's Nightmare,Horror,2012,7.0
+El eco del miedo,Horror,2012,5.8
+La noche de enfrente,Drama,2012,6.1
+Hush Hush,Drama,2012,5.5
+On Air,Horror,2012,5.2
+A Wedding Most Strange,Comedy,2012,4.6
+Killing Brooke,Horror,2012,6.3
+The Owner,Drama,2012,7.1
+Dark Shade Creek,Horror,2012,3.9
+Bienvenue parmi nous,Drama,2012,5.9
+Chorabali,Action,2012,7.6
+Som du ser meg,Comedy,2012,6.8
+Terminal Legacy,Action,2012,6.0
+Android Insurrection,Action,2012,1.9
+The Taiwan Oyster,Adventure,2012,5.8
+Changing the Game,Action,2012,5.9
+Francine,Drama,2012,5.8
+Kimmy Dora and the Temple of Kiyeme,Comedy,2012,6.3
+9-9-81,Horror,2012,5.5
+Turning Point,Drama,2012,7.8
+Mamy,Comedy,2012,7.0
+Remember,Family,2012,5.6
+When Death Calls,Horror,2012,6.0
+Bachelor Party,Action,2012,4.4
+The Avengers,Action,2012,8.1
+Hemingway,Comedy,2012,7.8
+Mold!,Horror,2012,5.0
+An Oversimplification of Her Beauty,Animation,2012,6.1
+Aujourd'hui,Drama,2012,6.5
+J'enrage de son absence,Drama,2012,6.3
+Big Love,Drama,2012,5.5
+Gebo et l'ombre,Drama,2012,6.6
+Modified,Sci-Fi,2012,5.0
+Boner Police: The Movie,Comedy,2012,7.3
+Noor,Drama,2012,7.3
+Silent Echo,Action,2012,7.5
+Poe,Crime,2012,3.3
+Doodslag,Drama,2012,6.8
+New Order,Fantasy,2012,3.5
+Barf rooye kajha,Drama,2012,6.9
+Comme un lion,Drama,2012,6.2
+8 pervykh svidaniy,Comedy,2012,6.4
+Man from Shaolin,Action,2012,5.4
+El resquicio,Drama,2012,3.8
+The Last Movie,Thriller,2012,7.2
+100% Love,Comedy,2012,6.1
+Here Build Your Homes,Drama,2012,7.5
+Els nens salvatges,Drama,2012,6.6
+Deal,Comedy,2012,6.8
+Koning van Katoren,Adventure,2012,6.0
+Rakugo eiga,Comedy,2012,8.2
+7 dni hrichu,Drama,2012,5.4
+Highway,Drama,2012,6.8
+Darkest Night,Drama,2012,3.6
+Dzhentlmeny, udachi!,Comedy,2012,3.3
+Under My Nails,Crime,2012,6.0
+The Dark Knight Rises,Action,2012,8.5
+Margarine Wars,Comedy,2012,6.3
+Sanghaj,Drama,2012,7.3
+Mann tut was Mann kann,Comedy,2012,6.0
+I Do Bidoo Bidoo: Heto nApo sila!,Comedy,2012,7.8
+The Hunger Games,Adventure,2012,7.3
+Tenchi meisatsu,Drama,2012,7.0
+Look at Me,,2012,7.0
+Django Unchained,Drama,2012,8.5
+David et Madame Hansen,,2012,6.0
+Ruben's Place,Drama,2012,5.7
+Secrets in the Snow,Drama,2012,7.4
+Mountain Mafia,Action,2012,5.9
+Two Hundred Thousand Dirty,Comedy,2012,7.1
+Oba Nathuwa Oba Ekka,Drama,2012,7.2
+Ali,Drama,2012,6.4
+In the Dark Half,Drama,2012,5.7
+Saguni,Action,2012,4.1
+The Summer of Massacre,Horror,2012,2.6
+Vampires: Rise of the Fallen,History,2012,3.2
+Soongava,Drama,2012,7.3
+Zerre,Drama,2012,6.6
+Pitch Perfect,Comedy,2012,7.2
+Snow White and the Huntsman,Action,2012,6.1
+The Perks of Being a Wallflower,Drama,2012,8.0
+Zero Dark Thirty,Drama,2012,7.4
+Prometheus,Adventure,2012,7.0
+The Cabin in the Woods,Fantasy,2012,7.0
+Spring Breakers,Crime,2012,5.3
+The Twilight Saga: Breaking Dawn - Part 2,Adventure,2012,5.5
+Silver Linings Playbook,Comedy,2012,7.8
+21 Jump Street,Action,2012,7.2
+The Hobbit: An Unexpected Journey,Adventure,2012,7.9
+The Amazing Spider-Man,Action,2012,7.0
+Magic Mike,Comedy,2012,6.1
+The Place Beyond the Pines,Crime,2012,7.3
+Battleship,Action,2012,5.9
+Wreck-It Ralph,Animation,2012,7.8
+Skyfall,Action,2012,7.8
+Cloud Atlas,Drama,2012,7.5
+Dark Shadows,Comedy,2012,6.2
+Looper,Action,2012,7.4
+Lawless,Crime,2012,7.3
+This Is 40,Comedy,2012,6.2
+The Dictator,Comedy,2012,6.4
+Total Recall,Action,2012,6.3
+Jagten,Drama,2012,8.3
+Argo,Biography,2012,7.7
+Would You Rather,Horror,2012,5.8
+Sinister,Horror,2012,6.8
+John Carter,Action,2012,6.6
+Rock of Ages,Comedy,2012,5.9
+Hotel Transylvania,Animation,2012,7.1
+Underworld: Awakening,Action,2012,6.4
+American Reunion,Comedy,2012,6.7
+Jack Reacher,Action,2012,7.0
+Moonrise Kingdom,Adventure,2012,7.8
+Lo imposible,Drama,2012,7.6
+End of Watch,Crime,2012,7.7
+This Means War,Action,2012,6.3
+Savages,Crime,2012,6.5
+Ted,Comedy,2012,7.0
+Life of Pi,Adventure,2012,8.0
+The Bourne Legacy,Action,2012,6.7
+Mud,Drama,2012,7.4
+Red Tails,Action,2012,5.9
+Anna Karenina,Drama,2012,6.6
+The First Time,Comedy,2012,7.0
+The Lucky One,Drama,2012,6.5
+Stuck in Love,Comedy,2012,7.3
+Dredd,Action,2012,7.1
+The Vow,Drama,2012,6.8
+Flight,Drama,2012,7.3
+Lincoln,Biography,2012,7.4
+Brave,Animation,2012,7.2
+What to Expect When You're Expecting,Comedy,2012,5.7
+That's My Boy,Comedy,2012,5.6
+The Master,Drama,2012,7.1
+Project X,Comedy,2012,6.7
+Abraham Lincoln: Vampire Hunter,Action,2012,5.9
+Wrath of the Titans,Action,2012,5.8
+Trouble with the Curve,Drama,2012,6.8
+Chronicle,Drama,2012,7.1
+Men in Black 3,Action,2012,6.8
+Seven Psychopaths,Comedy,2012,7.2
+LOL,Comedy,2012,4.3
+Safe House,Action,2012,6.8
+The Expendables 2,Action,2012,6.7
+Silent Hill: Revelation 3D,Adventure,2012,5.0
+The Campaign,Comedy,2012,6.2
+The Baytown Outlaws,Action,2012,6.3
+The Woman in Black,Drama,2012,6.4
+Ice Age: Continental Drift,Animation,2012,6.7
+The Iceman,Biography,2012,6.9
+Rise of the Guardians,Animation,2012,7.3
+Journey 2: The Mysterious Island,Action,2012,5.8
+Mirror Mirror,Adventure,2012,5.6
+Bait,Horror,2012,5.2
+Resident Evil: Retribution,Action,2012,5.4
+Piranha 3DD,Comedy,2012,3.8
+Taken 2,Action,2012,6.3
+Madagascar 3: Europe's Most Wanted,Animation,2012,6.9
+On the Road,Adventure,2012,6.1
+Gone,Drama,2012,5.9
+Man on a Ledge,Action,2012,6.6
+House at the End of the Street,Drama,2012,5.6
+Seeking a Friend for the End of the World,Adventure,2012,6.7
+De rouille et d'os,Drama,2012,7.5
+Here Comes the Boom,Action,2012,6.5
+The Lorax,Animation,2012,6.5
+Stand Up Guys,Comedy,2012,6.5
+The Five-Year Engagement,Comedy,2012,6.2
+Killing Them Softly,Crime,2012,6.2
+Lockout,Action,2012,6.1
+The Great Divide,Comedy,2012,5.1
+Caesar and Otto's Deadly Xmas,Comedy,2012,4.3
+Riot on Redchurch Street,Crime,2012,6.8
+Bank Roll,Comedy,2012,3.2
+Worth: The Testimony of Johnny St. James,Drama,2012,6.3
+The Watch,Action,2012,5.7
+Act of Valor,Action,2012,6.5
+Vir,Action,2012,6.9
+Santa's Dog,Family,2012,3.3
+Wo lao gong m sheng xing,Comedy,2012,5.7
+Ende der Schonzeit,Drama,2012,7.0
+Hemorrhage,Horror,2012,4.1
+Who's Watching the Kids,Comedy,2012,4.3
+Steve Jobs: Visionary Genius,Biography,2012,5.1
+Sangharsh Aur Vijay,Action,2012,7.3
+Kad svane dan,Drama,2012,7.2
+5 Shells,Drama,2012,4.7
+Bachelorette,Comedy,2012,5.3
+Think Like a Man,Comedy,2012,6.6
+Frank,Drama,2012,6.9
+Wanderlust,Comedy,2012,5.6
+Chasing Mavericks,Biography,2012,7.2
+Supercapitalist,Thriller,2012,3.9
+Rock Ba-Casba,Action,2012,6.7
+Agent Ranjid rettet die Welt,Comedy,2012,3.2
+Ultrasonic,Drama,2012,7.1
+Heart String Marionette,Animation,2012,6.0
+Gangs of Wasseypur,Action,2012,8.3
+Photo,Drama,2012,5.6
+Path of Souls,Drama,2012,8.0
+Scary Story Slumber Party,Horror,2012,5.7
+The Kings of Yorktown,Comedy,2012,7.2
+Step Up Revolution,Drama,2012,6.5
+Lilet Never Happened,Drama,2012,6.4
+Trattoria,Comedy,2012,7.2
+Monday Morning,Drama,2012,8.2
+Two Hands to Mouth,Drama,2012,7.3
+Acciaio,Drama,2012,5.6
+Silver Case,Action,2012,7.3
+Second Marriage Dot Com,Drama,2012,7.7
+All Dark Places,Horror,2012,2.9
+Red Dawn,Action,2012,5.4
+Papa,Drama,2012,7.1
+El sheita elli fat,Drama,2012,7.0
+Of All the Things,Comedy,2012,7.6
+La pirogue,Drama,2012,6.7
+Those City Girls (Koyekti Meyer Golpo),Crime,2012,4.7
+Nebesnye zheny lugovykh mari,Drama,2012,6.8
+This Is Ours,Drama,2012,7.2
+Padroni di casa,Drama,2012,6.1
+Field of Amapolas,Drama,2012,7.9
+Das Missen Massaker,Comedy,2012,4.2
+Quartet,Comedy,2012,6.8
+Juan in a Million,Drama,2012,4.8
+Krishna Aur Kans,Animation,2012,6.4
+To Rome with Love,Comedy,2012,6.3
+Parlez-moi de vous,Drama,2012,6.3
+Leelai,Comedy,2012,6.5
+The Man from Orlando,Comedy,2012,6.2
+Westerland,Drama,2012,5.0
+Broken Faith,Action,2012,7.6
+Gao hai ba zhi lian II,Drama,2012,6.1
+Skyler,Crime,2012,7.5
+Nu ren ru hua,Drama,2012,6.8
+88,Thriller,2012,2.8
+The Paperboy,Drama,2012,5.8
+Contraband,Action,2012,6.5
+The Raven,Crime,2012,6.4
+V/H/S,Fantasy,2012,5.8
+About Cherry,Drama,2012,4.8
+Byzantium,Drama,2012,6.5
+Wir wollten aufs Meer,Drama,2012,6.6
+Annie and the Gypsy,Drama,2012,6.1
+Dylan Dog: Il Trillo Del Diavolo [Fan-Film],Action,2012,8.2
+Kumki,Drama,2012,7.2
+El Manzano Azul,Family,2012,7.0
+Liars, Fires and Bears,Comedy,2012,6.8
+Dui mian de nu hai sha guo lai,Comedy,2012,7.0
+Aglaja,Biography,2012,6.9
+Jalan kembali: Bohsia 2,Comedy,2012,7.5
+Sean Banan inuti Seanfrika,Comedy,2012,1.5
+Madame Solario,Drama,2012,5.4
+Solid State,Action,2012,2.4
+Waiting for Dracula,,2012,6.6
+El clan,Action,2012,7.2
+Devudu Chesina Manushulu,Action,2012,3.5
+Falling Away,Drama,2012,5.1
+Espacio interior,Drama,2012,6.8
+Bowling,Comedy,2012,4.9
+After the Dawn,Action,2012,3.6
+Dark Journey,Fantasy,2012,5.7
+Brammetje Baas,Family,2012,6.9
+The Last Day of August,Drama,2012,7.9
+Le Marquis de la Croix,Fantasy,2012,6.2
+Namyeong-dong 1985,Drama,2012,7.0
+Nightscape,Fantasy,2012,3.0
+The Amazing Adventures of the Living Corpse,Animation,2012,3.7
+Blood Reunion,Horror,2012,5.4
+Poker Generation,Drama,2012,4.8
+8 Reels of Sewage,Comedy,2012,7.8
+Stealing Roses,Comedy,2012,6.9
+Visceral: Entre las cuerdas de la locura,Horror,2012,5.3
+Suomen Marsalkka,Drama,2012,2.6
+Cut/Print,Horror,2012,6.1
+Poppins,Drama,2012,4.4
+Summertime,Comedy,2012,4.8
+Sha sheng,Drama,2012,6.5
+Return to Blood Fart Lake,Horror,2012,4.4
+Close Quarters,Comedy,2012,6.3
+Sweetwater,Drama,2012,5.8
+W sypialni,Drama,2012,5.5
+Satellite of Love,Drama,2012,5.6
+Weekend aan Zee,Drama,2012,4.7
+Nothing Without You,Action,2012,7.3
+Nancy, Please,Drama,2012,5.6
+Ee Adutha Kaalath,Thriller,2012,7.7
+Serie B,Comedy,2012,4.0
+Challo Driver,Comedy,2012,6.2
+Visi Suli Gsurs,Comedy,2012,8.4
+POV: Norowareta firumu,Horror,2012,5.8
+N'apcaz simdi?,Comedy,2012,3.1
+Mieganciu drugeliu tvirtove,Drama,2012,7.2
+Bokura ga ita: Kouhen,Drama,2012,7.2
+Shoping-tur,Comedy,2012,4.7
+Meitantei Conan: Juichi-ninme no Striker,Animation,2012,6.4
+Sodoma... L'altra faccia di Gomorra,Comedy,2012,5.0
+Rumah kentang,Horror,2012,6.1
+Mon Ami,Comedy,2012,5.8
+Babamin Sesi,Drama,2012,6.5
+De jueves a domingo,Drama,2012,6.4
+Thadayara Thakka,Action,2012,7.1
+Carl,Horror,2012,2.7
+Die Lebenden,Drama,2012,6.0
+Au nom du fils,Drama,2012,6.3
+Letting Go,Drama,2012,6.5
+Atarashii kutsu wo kawanakucha,Drama,2012,6.6
+Leones,Drama,2012,5.4
+Neer Paravai,Drama,2012,7.2
+Rat King,Drama,2012,5.3
+Against the Grain,Drama,2012,6.9
+Hero of the Day,Drama,2012,9.0
+Corazon: Ang unang aswang,Drama,2012,6.0
+Elephant Sighs,Comedy,2012,5.5
+Zlo,Horror,2012,4.9
+Homecoming,Comedy,2012,7.9
+Meeting Leila,Comedy,2012,6.7
+La banda Picasso,Comedy,2012,5.4
+The Best Red vs. Blue. Ever. Of All Time,,2012,7.9
+Family Bonds,Comedy,2012,7.4
+Firefall: An Epic Family Adventure,Adventure,2012,7.6
+Les vacances de Ducobu,Comedy,2012,4.2
+Little Big Boy,Comedy,2012,4.6
+Chick Magnets,Comedy,2012,7.4
+Raising Wolves,Action,2012,7.6
+Rodencia y el Diente de la Princesa,Animation,2012,5.3
+Tower,Drama,2012,5.8
+Life Just Is,Drama,2012,3.4
+Bao dao shuang xiong,Action,2012,4.6
+Purification,Horror,2012,5.9
+Armynel,Mystery,2012,5.7
+Acliga Doymak,Drama,2012,6.3
+Qwerty,Comedy,2012,6.1
+Al cielo,Drama,2012,5.6
+Al-khoroug lel-nahar,Drama,2012,7.5
+Veer!,Comedy,2012,7.7
+Sesir profesora Koste Vujica,Comedy,2012,7.3
+The Aviation Cocktail,Drama,2012,7.0
+Tukaram,Biography,2012,7.4
+Absolute Fear,Thriller,2012,3.0
+Miles to Go,Drama,2012,7.9
+Cole Younger & The Black Train,Western,2012,3.7
+In No Particular Order,Drama,2012,6.6
+La mala luz,Thriller,2012,5.9
+Vampire Camp,Comedy,2012,7.2
+The Last Man(s) on Earth,Adventure,2012,3.4
+Taur Mittran Di,Action,2012,6.5
+The Next Day,Drama,2012,4.4
+Aparajita Tumi,Drama,2012,6.2
+The Paternal House,Drama,2012,7.2
+L'affaire Dumont,Drama,2012,6.9
+Colpi di fulmine,Comedy,2012,5.3
+Billi Pig,Comedy,2012,3.7
+Hidden Reality,Drama,2012,7.2
+Super Zeroes,Comedy,2012,6.3
+Booster,Crime,2012,5.1
+Kashikoi inu wa hoezuni warau,Thriller,2012,7.0
+Tina & Bettina - The Movie,Comedy,2012,3.5
+The Black Dove,Drama,2012,5.1
+Il rosso e il blu,Drama,2012,6.3
+Sin Reaper 3D,Horror,2012,2.9
+Ne-beu-en-ding-seu-to-ri,Comedy,2012,6.5
+Paanch Adhyay,Drama,2012,7.9
+Casanovva,Action,2012,3.9
+El bosc,Drama,2012,5.5
+Der kleine Rabe Socke,Animation,2012,6.8
+Enemy of the Mind,Crime,2012,6.8
+Agnus Dei,Drama,2012,7.6
+We Were Children,Drama,2012,7.4
+Isdraken,,2012,6.1
+Like the Water,Drama,2012,7.2
+Talenttyven,Comedy,2012,4.6
+The Night Never Sleeps,Action,2012,8.1
+El Arribo de Conrado Sierra,Drama,2012,6.7
+Marina,Comedy,2012,5.6
+Domestic,Comedy,2012,7.0
+Abigail Harm,Drama,2012,6.8
+Cybornetics,Action,2012,7.0
+Dead Dad,Comedy,2012,7.4
+Dense Fear Bloodline,Horror,2012,5.5
+Love Tomorrow,Romance,2012,6.6
+No Entry: Pudhe Dhoka Aahey,Comedy,2012,5.6
+Padmasree Bharat Dr. Saroj Kumar,Comedy,2012,4.1
+Havana 57,Drama,2012,5.2
+El muerto y ser feliz,Drama,2012,5.6
+Schuld sind immer die Anderen,Drama,2012,7.2
+Paglu 2,Drama,2012,5.2
+La pelea de mi vida,Family,2012,5.9
+7 Welcome to London,Drama,2012,6.6
+Tony 10,Family,2012,5.7
+Vares - Pimeyden tango,Crime,2012,5.3
+Kiwi Flyer,Family,2012,5.8
+Transcendence,Drama,2012,6.0
+Zindagi Tere Naam,Romance,2012,4.7
+Train to Kandy,Crime,2012,7.5
+Blind Turn,Drama,2012,6.1
+Parviz,Drama,2012,7.5
+Watching TV with the Red Chinese,Comedy,2012,7.3
+Zima mertvetsov. Metelitsa,Action,2012,4.5
+Camera Shy,Comedy,2012,7.4
+The Death of April,Horror,2012,4.8
+Challenge 2,Action,2012,5.7
+Shadowed,Mystery,2012,6.2
+Les mouvements du bassin,,2012,4.7
+Janeane from Des Moines,Drama,2012,8.1
+Die Wonderwerker,Drama,2012,7.1
+Showstopper,Mystery,2012,7.9
+Nos plus belles vacances,,2012,5.1
+Gaigimet,Comedy,2012,7.3
+Stars 80,Comedy,2012,5.2
+Gary Owen: True Story,Comedy,2012,6.4
+Balada le'aviv ha'bohe,Drama,2012,7.4
+Teen Kanya,Thriller,2012,6.1
+Mi gente linda, mi gente bella,Comedy,2012,4.3
+Stones in the Sun,Drama,2012,7.9
+Stalker,Thriller,2012,6.4
+El limpiador,Drama,2012,6.3
+10Terrorists,Comedy,2012,5.1
+Rocker,Drama,2012,6.4
+Buscando a Eimish,Drama,2012,6.5
+House of Horrors: Gates of Hell,Horror,2012,5.3
+The Hardy Boys,Mystery,2012,8.3
+Just 45 Minutes from Broadway,Drama,2012,5.2
+Un giorno speciale,Drama,2012,5.6
+The Phoenix Rises,Sci-Fi,2012,2.3
+Waterfront Nightmare,Action,2012,3.5
+Preciosa,Drama,2012,7.2
+Sloppy the Psychotic,Horror,2012,5.7
+Perahu kertas 2,Drama,2012,6.8
+Bukunja Tekunja Mitti: The Cannibals,Action,2012,7.9
+Moron 5 and the Crying Lady,Comedy,2012,5.2
+The Sinner,Action,2012,7.9
+Heavy Duty,Thriller,2012,5.8
+The Harsh Light of Day,Horror,2012,4.3
+Brokenhearts,Drama,2012,7.1
+I'm That Kind of Woman,Drama,2012,5.4
+Spectres,Horror,2012,5.7
+In Love with Alma Cogan,Comedy,2012,7.3
+Fourplay,Comedy,2012,6.9
+Pure Punjabi,Comedy,2012,6.7
+Maman,Drama,2012,5.1
+Soldier of Destiny,Action,2012,4.2
+Coin,Horror,2012,4.3
+Carlos Spills the Beans,Comedy,2012,6.9
+Xin tian sheng yi dui,Family,2012,5.6
+Existence,Drama,2012,4.5
+Chasing Happiness,Comedy,2012,6.8
+Champions of the Deep,Action,2012,7.8
+Serena and the Ratts,Action,2012,3.7
+Leo-beu-pik-syeon,Comedy,2012,6.3
+Kiss the Abyss,Horror,2012,4.3
+Joe Vampire,Horror,2012,4.7
+Pinky Moge Wali,Comedy,2012,4.8
+Husbands in Goa,Comedy,2012,3.7
+Flimmer,Comedy,2012,5.8
+Da Thadiya,Drama,2012,6.0
+Max,Comedy,2012,5.0
+La Cama,Comedy,2012,4.8
+Heder 514,Drama,2012,6.4
+Mr. Viral,Comedy,2012,7.8
+Mallu Singh,Comedy,2012,4.9
+Brave Hearts: Umizaru,Action,2012,6.8
+Miss Farkku-Suomi,Comedy,2012,6.5
+Xiao Hong,Drama,2012,6.0
+Test Pack,Comedy,2012,7.5
+Absinthe,Horror,2012,6.2
+DAR HE: The Lynching of Emmett Till,Drama,2012,7.6
+F Tipi Film,Drama,2012,6.8
+Vares - Kaidan tien kulkijat,Crime,2012,5.9
+Goodbye Morocco,Drama,2012,6.6
+Le monde nous appartient,Drama,2012,6.3
+Ctyri slunce,Comedy,2012,6.2
+Fecha de caducidad,Drama,2012,7.3
+End Roll,Horror,2012,5.6
+Pontianak vs. Orang Minyak,Comedy,2012,7.0
+What She Wants for Christmas,Family,2012,4.3
+I'm Santana: The Movie,Comedy,2012,6.7
+Reis e Ratos,Comedy,2012,4.9
+Sosy Problems,Comedy,2012,4.8
+El yazisi,Comedy,2012,6.0
+The Lackey,Action,2012,8.1
+Edge of Salvation,Drama,2012,6.4
+Broken Roads,Drama,2012,4.8
+Bolo gaseirneba,Drama,2012,7.5
+Kazoku no kuni,Drama,2012,7.2
+Ride Along,Action,2012,5.2
+Buona giornata,Comedy,2012,4.5
+Angel Falls in Love,Comedy,2012,6.9
+Kid,Drama,2012,6.7
+Unter Frauen,Comedy,2012,4.3
+Inkognitiv,Comedy,2012,3.9
+Social Anxiety,Comedy,2012,8.3
+Archaeology of a Woman,Drama,2012,8.1
+Formentera,Drama,2012,5.8
+Ruby Skye P.I.: The Haunted Library,Family,2012,8.2
+Raven's Cabin,Drama,2012,4.3
+Bola,Drama,2012,5.8
+180 Segundos,Action,2012,6.2
+Blood and Bone China,Horror,2012,5.8
+Congratulations,Comedy,2012,8.0
+Sleeper,Action,2012,4.6
+Muge,Drama,2012,6.4
+Skyhook,Crime,2012,3.9
+Il volto di un'altra,Drama,2012,5.2
+Halloween Party,Comedy,2012,8.2
+SoulMate: True Evil Never Dies,Horror,2012,5.4
+Bavuttiyude Namathil,Comedy,2012,5.5
+Eastalgia,Drama,2012,7.3
+Goliad Uprising,Sci-Fi,2012,6.8
+Artiljero,Drama,2012,4.4
+Puthiya Theerangal,Comedy,2012,4.6
+Death of a Gangster,Drama,2012,8.0
+Las paredes hablan,Drama,2012,5.3
+Kozi pribeh se syrem,Animation,2012,4.7
+Frost Bite,Action,2012,4.3
+Devils Inside,Drama,2012,7.5
+Tied in Blood,Drama,2012,3.5
+Pitupoom,Drama,2012,6.4
+The Housewife Slasher,Horror,2012,3.9
+Silent City,Drama,2012,6.3
+Masters,Action,2012,5.7
+Ghosts with Shit Jobs,Comedy,2012,6.6
+Everyone Must Die!,Horror,2012,4.6
+Camion,Drama,2012,6.8
+Silence,Drama,2012,6.4
+The Wailer 3,Horror,2012,4.2
+Pictures of Superheroes,Comedy,2012,6.7
+Rose,Crime,2012,7.5
+Playing the Moldovans at Tennis,Comedy,2012,7.5
+Welcome to Pine Hill,Drama,2012,6.1
+The Henchman's War,Crime,2012,8.0
+Sandbar,Comedy,2012,7.1
+The United,Action,2012,6.8
+At the End of 8th Street,Drama,2012,6.4
+Fuzz Track City,Mystery,2012,7.1
+1812. Ulanskaya ballada,Adventure,2012,2.5
+Sudoeste,Drama,2012,7.4
+Sons of Ram,Animation,2012,7.6
+The Children's Republic,,2012,5.7
+Rezeta,Comedy,2012,6.4
+Oglum bak git,Comedy,2012,2.3
+Phoenix Rising,Thriller,2012,7.3
+Dorm of the Dead,Action,2012,2.6
+Grand comme le Baobab,Adventure,2012,7.0
+The Norwegian,Adventure,2012,8.9
+The Witness,Drama,2012,6.4
+Mont Reve,Comedy,2012,7.6
+Paranormal Adoption,Drama,2012,7.1
+Ausgerechnet Sibirien,Comedy,2012,6.2
+Happily Never After,Comedy,2012,5.8
+Young Europe,Drama,2012,6.9
+Kidnapped Souls,Horror,2012,4.0
+Beom-joe-so-nyeon,Crime,2012,6.7
+Nana to Kaoru: Chapter 2,Drama,2012,5.0
+Schatzritter,Adventure,2012,6.3
+Things We Do for Love,Romance,2012,8.1
+Barbazul,Horror,2012,6.5
+Bapi Bari Jaa,Comedy,2012,6.6
+Topos,Fantasy,2012,6.2
+Hero,Action,2012,3.8
+Crimes of Mike Recket,Drama,2012,5.1
+George Biddle, CPA,Action,2012,6.6
+Jonas,Drama,2012,6.8
+La casa nel vento dei morti,Crime,2012,4.8
+Sapnu komanda 1935,Comedy,2012,8.1
+Girls Like Us! Part 1,Comedy,2012,5.0
+Splash Area,Horror,2012,4.9
+The Killing Games,Drama,2012,4.3
+Mejor no hablar (de ciertas cosas),Drama,2012,6.8
+Melaza,Comedy,2012,6.9
+Ai wo utau yori ore ni oborero!,Comedy,2012,7.4
+The Final Shift,Sci-Fi,2012,5.4
+Hans Kloss. Stawka wieksza niz smierc,Action,2012,4.6
+L'oncle Charles,Comedy,2012,4.4
+Kotsutsubo,Horror,2012,5.0
+El taaib,Drama,2012,5.9
+Acedia,Horror,2012,5.1
+Angus Buchan's Ordinary People,Drama,2012,6.0
+The Lies We Tell But the Secrets We Keep,Drama,2012,5.6
+Bwakaw,Drama,2012,7.2
+The Tale of the Voodoo Prostitute,Horror,2012,4.3
+Dotto hakku: Sekai no mukou ni,Animation,2012,6.7
+La clinique de l'amour!,Comedy,2012,5.5
+White Men Can't Dance,Drama,2012,4.5
+Operation Terror,Thriller,2012,7.6
+Truckstop Bloodsuckers,Comedy,2012,5.8
+Jestes Bogiem,Biography,2012,6.8
+Atomnyy Ivan,Comedy,2012,5.5
+Los salvajes,Drama,2012,5.9
+Scrooge & Marley,Drama,2012,7.3
+WWW.,Crime,2012,5.0
+The Vessel,Horror,2012,4.6
+Pretty Little Things,Drama,2012,8.2
+Love Me Not,Comedy,2012,6.0
+The Contradictions of Fair Hope,,2012,8.2
+Le noir (te) vous va si bien,Drama,2012,6.2
+Stilte,Drama,2012,5.6
+Boa Sorte, Meu Amor,Drama,2012,6.6
+Easton's Article,Drama,2012,4.9
+Jump,Drama,2012,7.4
+Jiseul,Drama,2012,6.8
+Stefan v/s Kramer,Comedy,2012,6.0
+Prince of the City,Action,2012,3.9
+Arjun: The Warrior Prince,Animation,2012,7.0
+The Sound of the Spirit,Drama,2012,7.7
+Welcome to Harlem,Comedy,2012,6.4
+ATypical Love,Comedy,2012,7.8
+Sanandresito,Comedy,2012,6.3
+The Romance of Loneliness,Music,2012,8.1
+Dak teol,Crime,2012,5.1
+5 Ghantey Mien 5 Crore,Thriller,2012,5.1
+Drama,Comedy,2012,7.0
+Le sac de farine,Drama,2012,7.3
+Florbela,Biography,2012,6.6
+The Last Act,Action,2012,7.4
+Holiday Road,Comedy,2012,7.8
+Restless,Drama,2012,3.4
+Clean Ops the Chronicles of V,Action,2012,6.9
+Crawl,Drama,2012,6.0
+Daylight Savings,Comedy,2012,7.4
+Srecen za umret,Comedy,2012,7.2
+Desperate Endeavors,Comedy,2012,7.2
+September Runs Red,Thriller,2012,3.5
+Tom und Hacke,Adventure,2012,6.4
+Visionary,Drama,2012,9.2
+Jiwa taiko,Action,2012,4.2
+Zombies from Outer Space,Comedy,2012,4.7
+In God We Trust,Action,2012,7.8
+Now, Forager,Drama,2012,6.5
+Je ne suis pas mort,Drama,2012,6.4
+Fynbos,Drama,2012,6.4
+Clutch,Action,2012,8.5
+Little Red,Drama,2012,5.7
+Exorcismo Documentado,Horror,2012,5.7
+Kueki ressha,Drama,2012,6.9
+Kvarteret Skatan reser till Laholm,Comedy,2012,5.2
+Shirdi Sai,Biography,2012,7.2
+Backroad,Drama,2012,4.9
+I Am Nasrine,Drama,2012,7.6
+Moskova'nin Sifresi Temel,Comedy,2012,3.9
+Doch,Drama,2012,7.5
+Stitch in Time,Crime,2012,6.2
+Fei yue lao ren yuan,Drama,2012,6.7
+Dark Fist,Action,2012,6.3
+Do You Like My Basement,Comedy,2012,3.5
+The Prophet's Son,Drama,2012,5.2
+The Confidant,Comedy,2012,6.3
+Dracula 0.9,Horror,2012,5.7
+A Portrait of Female Desperation,Comedy,2012,7.0
+Lowlife,Drama,2012,7.8
+De Pernas pro Ar 2,Comedy,2012,5.8
+No One Lives Forever,Action,2012,5.6
+Chhodo Kal Ki Baatein,Drama,2012,7.3
+A.L.F.,Drama,2012,8.4
+The King and the Commissioner,Action,2012,3.3
+Good as You,Comedy,2012,5.4
+The Blue Eyes,Horror,2012,6.4
+As pik,Drama,2012,5.9
+Tutto tutto niente niente,Comedy,2012,5.2
+Lockdown: Red Moon Escape,Action,2012,6.4
+Electric Man,Action,2012,7.4
+Polvo,Drama,2012,5.7
+Suspicion,Drama,2012,4.4
+Play Dead,Thriller,2012,8.5
+Jaaneman,Action,2012,6.1
+Ya budu ryadom,Drama,2012,7.1
+Animen: The Galactic Battle,Animation,2012,3.8
+Money Kills,Action,2012,6.0
+Kita no kanaria-tachi,Mystery,2012,6.7
+Stillleben,Drama,2012,6.7
+Distraction,Sci-Fi,2012,6.2
+We Not Naughty,Comedy,2012,6.0
+B.O.Y.D.,Comedy,2012,7.5
+Gonzaga: De Pai pra Filho,Biography,2012,7.3
+To Redemption,Drama,2012,7.4
+Caleuche: El llamado del Mar,Drama,2012,5.3
+Zombie A-Hole,Horror,2012,5.2
+Made in Denmark: The Movie,Drama,2012,6.6
+Matadouro,Horror,2012,5.5
+Doc. 33,Horror,2012,6.9
+3 Simoa,Comedy,2012,6.5
+Si-che-ga Dol-a-wass-da,Comedy,2012,6.2
+Shambala,Drama,2012,7.2
+Detroit Unleaded,Comedy,2012,6.3
+Verde verde,Drama,2012,6.2
+The Naughty Room,Comedy,2012,7.2
+Dealing,Comedy,2012,9.3
+Dunderland,Horror,2012,2.9
+The Corpse Grinders 3,Comedy,2012,5.4
+Sat2Mon,Comedy,2012,6.7
+The Great Chameleon,Comedy,2012,7.2
+House of Ghosts,Horror,2012,6.6
+OK, Good,Drama,2012,6.9
+Driving Me Crazy,Comedy,2012,7.4
+Shots Fired,Comedy,2012,7.0
+Suburban Backlot,Comedy,2012,9.8
+Breve storia di lunghi tradimenti,Drama,2012,6.0
+Nightmare Fuel,Horror,2012,7.1
+Unknowns,Horror,2012,6.4
+Visa Girl,Drama,2012,7.6
+Saa'a wi Nos,Drama,2012,7.3
+Heretic,Horror,2012,3.4
+Arike,Romance,2012,7.3
+Lay chong nguoi ta,Thriller,2012,8.7
+Als je verliefd wordt,Romance,2012,4.4
+Elar Char Adhyay,Drama,2012,5.3
+Posas,Drama,2012,6.9
+The Son of an Afghan Farmer,Drama,2012,7.4
+Things I Don't Understand,Drama,2012,7.5
+Four Corners Road,Drama,2012,6.4
+Alice,Drama,2012,5.5
+Love in Time,Comedy,2012,5.9
+Los Chidos,Comedy,2012,6.4
+Richard's Wedding,Comedy,2012,6.4
+Das Falsche Herz,Drama,2012,7.4
+Torpedo,Comedy,2012,6.4
+Haolam Mats'hik,Drama,2012,7.1
+Yaraan Naal Baharaan 2,Comedy,2012,8.3
+The Mask of Sanity,Thriller,2012,8.9
+K3 Bengeltjes,Family,2012,6.5
+Good Satan,Comedy,2012,7.4
+Bejbi blues,Drama,2012,4.9
+Las cosas como son,Drama,2012,6.4
+I Kissed a Girl,Comedy,2012,6.9
+Z'olushka,Comedy,2012,4.3
+Solovey-Razboynik,Action,2012,5.5
+Up&Down,Comedy,2012,6.9
+Asfouri,Drama,2012,7.7
+Steve Jobs: Consciously Genius,Biography,2012,4.1
+Istanbul aku datang!,Comedy,2012,7.5
+Na-neun wang-i-ro-so-i-da,Comedy,2012,6.2
+Ozhimuri,Drama,2012,7.3
+Mael Lambong,Action,2012,4.4
+Himitsu no Akko-chan,Comedy,2012,6.0
+White Fox Mask,Drama,2012,6.0
+Boy,Drama,2012,6.4
+Taste It: A Comedy About the Recession,Comedy,2012,5.1
+33 Days,Action,2012,5.4
+Greencastle,Drama,2012,7.7
+The Dead Mile,Horror,2012,6.1
+Ying zi ai ren,Drama,2012,4.6
+Frames,Drama,2012,6.0
+Derelict,Crime,2012,7.7
+Vares - Uhkapelimerkki,Crime,2012,4.9
+Student,Drama,2012,5.4
+Break Away,Drama,2012,6.6
+Tian mi mi,Drama,2012,3.4
+Pavilion,Drama,2012,6.5
+DIVA hua li zi jun,Drama,2012,5.8
+Sushi in Suhl,Comedy,2012,6.4
+Loverboy,Horror,2012,5.3
+Spanien,Drama,2012,5.9
+Sleepless Knights,Drama,2012,4.0
+Empty Rooms,Drama,2012,4.5
+The Happy Lands,Drama,2012,6.8
+Vechnoe vozvrashchenie,Drama,2012,6.9
+The Casebook of Eddie Brewer,Drama,2012,6.3
+Yume uru futari,Crime,2012,6.8
+Astro Zombies: M4 - Invaders from Cyberspace,Comedy,2012,4.9
+Le Halwa Le,Comedy,2012,6.1
+Kleine Morde,Crime,2012,5.4
+Blood Kisses,Drama,2012,6.3
+Killing Time,Crime,2012,5.5
+Larin izbor: Izgubljeni princ,Drama,2012,3.8
+Portrait of a Zombie,Comedy,2012,3.7
+Season of Darkness,Horror,2012,6.7
+Making Off,Horror,2012,4.9
+Krivina,Drama,2012,6.4
+Ultimul Corupt din Romania,Comedy,2012,6.5
+Apples and Oranges,Comedy,2012,8.3
+Exit Elena,Comedy,2012,6.8
+The Shadow of Death,Comedy,2012,6.5
+Hit 'n Strum,Drama,2012,7.1
+A Zombie Invasion,Horror,2012,6.2
+Science Friction,Drama,2012,2.3
+Dead in France,Comedy,2012,4.7
+Photographic,Horror,2012,4.6
+Candle to Water,Drama,2012,5.0
+Dutta Vs. Dutta,Drama,2012,6.8
+Cuoi Ngay Keo Lo,Comedy,2012,6.7
+Shiawase no pan,Comedy,2012,6.8
+Will Power,Comedy,2012,7.6
+Take Care,Drama,2012,8.1
+Jaanu,Action,2012,6.4
+Balukabela.com,Comedy,2012,4.8
+El secreto de los 24 escalones,Adventure,2012,3.2
+Birth of a Warrior,Action,2012,5.3
+Woggie,Comedy,2012,8.0
+Gao ding yue fu da ren,Comedy,2012,5.6
+Moya bezumnaya semya,Comedy,2012,5.0
+Patlak Sokaklar: Gerzomat,Comedy,2012,5.4
+The Many Monsters of Sadness,Drama,2012,7.7
+Rugaru,Horror,2012,7.0
+Man Madar Hastam,Drama,2012,6.8
+Paura 3D,Horror,2012,5.1
+Dolls Can't Cry,Drama,2012,7.7
+Privacy,Thriller,2012,7.0
+Faces in the Mirror,Drama,2012,7.7
+Falling...,Drama,2012,7.0
+Zombie eXs,Comedy,2012,3.3
+Bian jing feng yun,Crime,2012,6.8
+Agon,Drama,2012,6.6
+Peloton,Action,2012,6.1
+Unknown Land,Drama,2012,6.4
+Omamamia,Comedy,2012,5.8
+Body Complete,Drama,2012,6.8
+Misseu Go,Action,2012,5.8
+Blood for Irina,Horror,2012,3.6
+Zabic bobra,Action,2012,5.2
+Zombiefied,Horror,2012,4.2
+Carmen G,Drama,2012,8.6
+Hall of Fame,Drama,2012,9.0
+We Was Homeboyz,Drama,2012,7.9
+Bucle,,2012,6.2
+The Throwaways,Drama,2012,6.5
+Cinema Company,Comedy,2012,5.9
+Larisa empisteftiko,Comedy,2012,3.5
+Revaka plus,Comedy,2012,5.0
+Nahrani me z besedami,Drama,2012,6.6
+2012: Kurse a di Xtabai,Comedy,2012,5.4
+Railway Children,Horror,2012,4.8
+The Demon Within,,2012,4.2
+Hantu Gangster,Comedy,2012,5.5
+Hard Stop,Drama,2012,6.7
+Rock Bottom Creek,Comedy,2012,8.4
+Love: As You Like It,Comedy,2012,8.4
+Ini Avan,Drama,2012,8.0
+Thatsamayam Oru Penkutty,Drama,2012,3.7
+Gallino, the Chicken System,Comedy,2012,5.8
+Wu jian zui,Horror,2012,3.6
+Masala,Comedy,2012,7.3
+Berlin Dance Battle 3D,Music,2012,3.8
+Life! Camera Action...,Drama,2012,6.3
+Ivan Megharoopan,Biography,2012,7.1
+Gold Fools,Adventure,2012,7.9
+Narenji Poush,Comedy,2012,5.1
+Why Do Men Cheat? The Movie,Drama,2012,7.5
+Taylor Swift: American Beauty,Biography,2012,5.5
+Deadly Obsession,Thriller,2012,3.0
+Bijuka,Drama,2012,6.9
+29 Februari,Drama,2012,6.9
+Always Whitney Houston,,2012,6.4
+The Experiment,Horror,2012,2.4
+Treasure Chest of Horrors,Comedy,2012,5.1
+Shadowland, the Legend,Adventure,2012,3.6
+Das Pferd auf dem Balkon,Family,2012,6.3
+Dead by Friday,Drama,2012,7.8
+Terror of Dracula,Horror,2012,3.8
+One More Dream,Comedy,2012,6.4
+Bodyguard,Action,2012,5.3
+The Blackest Days,Crime,2012,8.2
+Florentina Hubaldo, CTE,Drama,2012,6.7
+Carne de Perro,Drama,2012,5.5
+Cage Fight,Action,2012,4.6
+Roulette City,Drama,2012,7.8
+He dong shi hou 2,Comedy,2012,4.0
+The Rochdale Pioneers,Drama,2012,7.7
+Aparisyon,Drama,2012,7.5
+Welcome to Nowhere (Bullet Hole Road),Fantasy,2012,8.7
+The Look of Love,Comedy,2012,9.4
+Huang jin da jie an,Drama,2012,5.8
+Hotaru no hikari,Drama,2012,6.1
+Love Lifting,Drama,2012,5.8
+Fat Cat,Action,2012,9.1
+La segunda muerte,Fantasy,2012,4.8
+I 2 soliti idioti,Comedy,2012,3.7
+Blissful Lies,Drama,2012,6.1
+Sex, Lies & Depravity,Drama,2012,7.6
+Del lado del verano,Comedy,2012,5.9
+Bhoopadathil Illatha Oridam,Comedy,2012,3.2
+Jeomjaengyideul,Comedy,2012,5.7
+Boy Pick-Up: The Movie,Comedy,2012,5.1
+Pistolet, Kufar i 3 smurdyashti varela,Action,2012,5.5
+Darbare 111 dokhtar,Drama,2012,7.3
+Les gars,Comedy,2012,7.2
+Parts of the Heart,Drama,2012,7.6
+Walk-In,Drama,2012,5.6
+Buoy,Drama,2012,8.7
+Agent Provocateur,Action,2012,7.4
+Possession,Horror,2012,6.0
+Opposite Blood,Action,2012,7.8
+A Light in the Dark,Horror,2012,7.1
+Igor & the Cranes' Journey,Adventure,2012,7.4
+Tian sheng ai qing wang,Comedy,2012,5.1
+Mapa Para Conversar,Drama,2012,5.8
+The Dry Blade,Action,2012,5.4
+The Detective's Lover,Mystery,2012,6.4
+Real oni gokko 3,Horror,2012,5.9
+A Girl, a Guy, a Space Helmet,Comedy,2012,7.8
+Not in Tel Aviv,Comedy,2012,6.1
+Bao mi qia qia,Comedy,2012,6.9
+Breakfast with Curtis,Drama,2012,6.8
+Cove Road,Drama,2012,7.6
+The Day Hollywood Died,Action,2012,5.6
+Baba,Comedy,2012,4.1
+Nu hai huai huai,Comedy,2012,2.3
+Celluloid Bloodbath: More Prevues from Hell,Horror,2012,5.4
+In Search of the American Dream,Drama,2012,6.2
+Re ai dao,Comedy,2012,2.9
+Lan to fu dau lan to chai,Comedy,2012,5.3
+Harag W' Marag,Drama,2012,7.0
+The Longer Day of Happiness,Comedy,2012,6.3
+Estrada de Palha,Adventure,2012,6.0
+Milosc,Drama,2012,7.1
+Jana Gana Mana,Comedy,2012,7.4
+Manam Kothi Paravai,Comedy,2012,4.7
+Plan de table,Comedy,2012,5.5
+Hecho en China,Adventure,2012,5.9
+Lyubov s aktsentom,Comedy,2012,5.7
+The Queen,War,2012,6.8
+Blood Rites,Horror,2012,4.3
+Latvia,Drama,2012,7.7
+My Life on Planet B,Comedy,2012,6.7
+Immortal Kiss: Queen of the Night,Horror,2012,4.4
+Jawan of Vellimala,Action,2012,4.6
+Chal Pichchur Banate Hain,Comedy,2012,6.4
+Aberrations,Horror,2012,7.2
+Karma Yodha,Crime,2012,4.2
+Stab 6: Ghostface Returns,Horror,2012,7.3
+En el ombligo del cielo,Comedy,2012,7.3
+To ploio gia tin Palaistini,Drama,2012,5.6
+Elveda Katya,Drama,2012,6.0
+2013 Menos 1,Comedy,2012,6.7
+Helm Aziz,Drama,2012,5.9
+Mary's Buttons,Drama,2012,7.8
+Solei-Man,Drama,2012,8.8
+Zendegi-e Khosousi-e Agha Va Khanom-e Mim,Drama,2012,5.9
+Between Friends,Drama,2012,5.8
+Unexpected Places,Drama,2012,6.0
+Two Days in February,Drama,2012,7.4
+Pustoy dom,Drama,2012,7.9
+Sztos 2,Action,2012,4.0
+Crazy and Thief,Fantasy,2012,7.6
+The Fugue,Horror,2012,4.9
+The Children of Terra Firma,Comedy,2012,6.3
+Adventures of Bailey: Christmas Hero,Family,2012,7.1
+Barney: I Love My Friends,Family,2012,8.2
+Young Blood: Evil Intentions,Horror,2012,7.9
+The Other Side of the Mountain,Drama,2012,7.0
+Dominican,Action,2012,8.2
+Vasaku jala reede,Comedy,2012,6.8
+Za Marksa...,Drama,2012,6.3
+Sharqiya,Drama,2012,6.6
+Soegija,Drama,2012,7.5
+Gekijouban Tiger & Bunny: The Beginning,Animation,2012,6.9
+Pervertigo,Comedy,2012,7.3
+Depression: The Movie,Comedy,2012,7.5
+Pursuit of Loneliness,Drama,2012,7.1
+Plastic,Thriller,2012,2.4
+Lal Gece,Drama,2012,6.4
+Klappe Cowboy!,Comedy,2012,6.2
+The End of Our Lives,Drama,2012,7.9
+Poslednyaya skazka Rity,Drama,2012,7.0
+Possession,Drama,2012,7.8
+Hayuta and Berl,Drama,2012,7.3
+Bol-cheu-wa Beul-lib,Animation,2012,5.9
+Vaje v objemu,Drama,2012,7.4
+Slug Street Scrappers: Rise of Ryuken,Action,2012,8.3
+Puppe, Icke & der Dicke,Comedy,2012,6.4
+Transcendent,Mystery,2012,6.3
+Rengaine,Drama,2012,6.3
+O Grande Kilapy,Comedy,2012,6.4
+Hemmeligheden,Drama,2012,6.8
+I Feel Sleepy,Comedy,2012,5.9
+Faith in Destiny,Drama,2012,7.1
+Lethal Commission,Action,2012,8.0
+Anna's Struggle,Crime,2012,7.3
+BBS xiang min de zheng yi,Drama,2012,5.7
+Skopje Remixed,Animation,2012,7.2
+Desma aimatos,Drama,2012,5.8
+Fred Won't Move Out,Drama,2012,5.3
+Ordinary,Comedy,2012,6.4
+Assim assim,Comedy,2012,6.4
+Tot eshchyo Karloson!,,2012,5.3
+Lucifer's Unholy Desire,Horror,2012,5.5
+The Mommy Returns,Comedy,2012,6.8
+Khokababu,Comedy,2012,6.0
+Tukkaa Fitt,Drama,2012,6.4
+Peter Capusotto y sus 3 dimensiones,Comedy,2012,7.2
+Dating a Zombie,Comedy,2012,6.2
+The Nightingale of Tibet,Drama,2012,7.7
+Demon,Horror,2012,6.7
+Jelena, Katarina, Marija,Drama,2012,4.7
+Tennessee Queer,Comedy,2012,6.7
+Paranoia,Thriller,2012,6.2
+Red Scare,Comedy,2012,7.8
+A Man of Honor,Drama,2012,6.4
+A Tale of Delight,Drama,2012,7.5
+Little Ghost Grabbers,Family,2012,3.1
+M.O.G. Redux,Comedy,2012,7.4
+Bis zum Horizont, dann links!,Comedy,2012,5.6
+The Whirlpool,Drama,2012,7.5
+Victory Blvd,Drama,2012,7.9
+Kevin Nealon: Whelmed, But Not Overly,Comedy,2012,6.5
+Fugainai boku wa sora o mita,Drama,2012,6.8
+La Cicatrice,Drama,2012,6.0
+Book of 1000 Deaths,Horror,2012,5.2
+The Spirit of Albion,Musical,2012,6.9
+Tutti i rumori del mare,Thriller,2012,5.3
+Destinea, Our Island,Drama,2012,7.2
+What You Will,Drama,2012,5.0
+Mar de Fondo,Drama,2012,5.9
+Tri bogatyrya na dalnikh beregakh,Animation,2012,5.2
+Invasion,Comedy,2012,6.1
+Cooper,Drama,2012,6.1
+The Rocka,Comedy,2012,4.4
+Dyuet,Drama,2012,5.7
+Black Shuck,Horror,2012,1.7
+Pegado a tu almohada,Comedy,2012,5.6
+Gasht-e ershad,Comedy,2012,5.6
+Sonny Days,Comedy,2012,7.9
+Trooper and the Legend of the Golden Key,Family,2012,5.8
+Cilveki tur/Lyudi tam,Crime,2012,7.0
+The Freeway,Drama,2012,5.3
+Pie Head: A Kinda' True Story,Comedy,2012,7.6
+Poker AM,Comedy,2012,6.9
+D' Kilabots Pogi Brothers Weh?!?,Comedy,2012,6.6
+The Animals,Drama,2012,4.7
+Motel 666,Horror,2012,5.6
+Gothic Assassins,Action,2012,5.5
+Toti copiii domnului,Drama,2012,7.3
+Addhuri,Romance,2012,6.5
+Love or War,Comedy,2012,7.2
+Assisted Fishing,Comedy,2012,7.6
+Divorced Dudes,Comedy,2012,6.8
+How Do You Write a Joe Schermann Song,Comedy,2012,7.7
+Jules Dongu Saves the World,Animation,2012,7.7
+Sahri,Horror,2012,3.7
+Simdiki Zaman,Drama,2012,5.9
+Parapsychology 101,Drama,2012,6.4
+A Woman's Worth,Comedy,2012,8.8
+They're Coming,Adventure,2012,6.7
+Tuddal,Horror,2012,5.5
+Tanets Deli,Drama,2012,7.1
+The Jet Movie,Action,2012,7.5
+Cvetat na hameleona,Comedy,2012,5.9
+Eles Voltam,Drama,2012,5.9
+Requiem for the Damned,Horror,2012,6.3
+Super Nada,Comedy,2012,5.7
+45RPM,Comedy,2012,8.2
+Chaika,Drama,2012,7.2
+Ella ja kaverit,Comedy,2012,5.1
+Jigsaw Puzzle,Comedy,2012,7.4
+The Three Ages of Sasha,Drama,2012,8.9
+Fathers,Drama,2012,5.5
+Das Hochzeitsvideo,Comedy,2012,5.0
+Reclusion,Horror,2012,4.1
+Lal Tip,Romance,2012,5.6
+LA Underground,Comedy,2012,8.7
+In Montauk,Drama,2012,7.2
+Conquering the Rose,Drama,2012,7.0
+O Inventor de Sonhos,Drama,2012,3.3
+El Xendra,Sci-Fi,2012,5.7
+The Nullarbor Nymph,Comedy,2012,7.1
+Knuckleheads,Drama,2012,6.6
+Meeting on the Stairs,Drama,2012,7.9
+Chinese Burns,Drama,2012,8.1
+Fly with the Crane,Drama,2012,6.4
+Pata Nahi Rabb Kehdeyan Rangan Ch Raazi,Comedy,2012,6.9
+Simhasanam,Action,2012,3.1
+Los mejores temas,Drama,2012,5.7
+Akashathinte Niram,Drama,2012,7.1
+Clear Lake,Drama,2012,6.5
+Hickory Never Bleeds,Sci-Fi,2012,7.0
+Demons and Doors,Drama,2012,5.7
+Iniquity,Drama,2012,7.2
+Zhen tou,Comedy,2012,6.8
+You Became I: The War Within,Drama,2012,8.3
+Payback Jack,Action,2012,6.9
+Blood Angel,Action,2012,6.9
+Villains,Crime,2012,6.4
+Catimini,Drama,2012,7.2
+Sygharitiria stous aisiodoxous?,Drama,2012,6.4
+O Gorila,,2012,6.7
+The Significant Other,Comedy,2012,7.8
+Aliens vs. A-holes,Adventure,2012,4.4
+Kashi-ggot,Drama,2012,6.2
+Ghesh Al Zawgeyya,Comedy,2012,4.8
+Black & White in Colors,Animation,2012,6.8
+Midnight Cabaret,Action,2012,6.4
+Sin Padre,Drama,2012,8.0
+El Hoyo del Diablo,Horror,2012,4.5
+U Mugs,Horror,2012,2.0
+The Diary of Alice Applebe,Drama,2012,7.0
+Polski film,Comedy,2012,6.4
+Shoplifting from American Apparel,Comedy,2012,7.4
+Hidden in Vicinity,Action,2012,5.5
+Qiong ren, liu lian, ma yao, tou du ke,Drama,2012,5.7
+Celestial Run,Drama,2012,8.5
+Mr. Engagement,Comedy,2012,7.0
+Narcizas,Drama,2012,6.6
+Red Sheep,Drama,2012,7.1
+Partir to live,Drama,2012,4.3
+Le nez dans le ruisseau,Drama,2012,7.3
+Purgatory,Thriller,2012,3.9
+Intenzivni udarac u glavu,Thriller,2012,7.6
+Ziba,Drama,2012,5.6
+Kalayaan,Drama,2012,6.8
+Hylo,Horror,2012,5.6
+Drei Stunden,Comedy,2012,6.4
+My Little Demon,Mystery,2012,7.6
+Smash,Crime,2012,6.3
+The Accidental Missionary,Comedy,2012,7.2
+Ho Ho Ho 2: O loterie de familie,Comedy,2012,6.4
+The Way of the Spur,Action,2012,8.1
+Deemonid,Drama,2012,7.2
+Isolate,Mystery,2012,7.4
+The Making of 'Pusher',Action,2012,7.4
+Bastardi 3,Crime,2012,2.5
+So mnoyu vot chto proiskhodit,Comedy,2012,7.3
+Blues,Drama,2012,9.1
+Live East Die Young,Drama,2012,6.2
+Pseudo,Action,2012,6.9
+Sint & Diego en de Magische Bron van Myra,Family,2012,6.6
+The Burning Within,Action,2012,3.5
+Criminal Hunter,Action,2012,6.4
+Fatalis,Drama,2012,8.2
+Gunfight at Yuma,Western,2012,4.1
+A Mancunian Story,Crime,2012,6.0
+Disappearing Bakersfield,Adventure,2012,7.4
+Natalie's Lose Lose,Thriller,2012,6.6
+Acorralados,Drama,2012,5.8
+869,Horror,2012,5.1
+A Measure of Faith,Drama,2012,7.2
+Undocumented Executive,Comedy,2012,6.9
+Furyou shounen: 3,000-nin no atama,Action,2012,7.0
+Red City,Sci-Fi,2012,6.2
+Tom's Video,Mystery,2012,8.2
+Ti stimo fratello,Comedy,2012,4.3
+Winning Favor,Family,2012,4.5
+Reality XL,Sci-Fi,2012,5.4
+Dead Herring,Comedy,2012,5.9
+Matt Mercury, Plot of the Galactic Mastermind,Sci-Fi,2012,6.2
+Un Mundo Secreto,,2012,5.9
+High School, I Hate You,Comedy,2012,8.4
+Aaron's House,Horror,2012,5.1
+Beijing Blues,Action,2012,6.6
+South of Sanity,Horror,2012,5.1
+Catch of a Lifetime,Romance,2012,6.6
+Democracy at Work,Comedy,2012,6.8
+Was weg is, is weg,Comedy,2012,6.2
+Hawk(e): The Movie,Comedy,2012,8.3
+Ordinary Wilderness,Comedy,2012,8.2
+Cowboy Spirit,Western,2012,7.2
+Totalmente Inocentes,Comedy,2012,3.6
+Sleep Debt,Drama,2012,8.5
+Dani the Ranch Hand,Drama,2012,8.5
+Khoja: Xoca,Drama,2012,6.7
+Right to Love,Romance,2012,5.8
+Muj vysvlecenej denik,Comedy,2012,5.9
+Nad zycie,Biography,2012,5.5
+Torn Soul,Drama,2012,6.2
+Ayaz,Action,2012,3.3
+Hand of Glory,Drama,2012,6.9
+A Play Entitled Sehnsucht,Fantasy,2012,9.2
+Dying 2 Meet U,Comedy,2012,6.5
+The Wooden Bridge,Romance,2012,5.6
+Edegarike,Crime,2012,7.3
+Blood Fare,Action,2012,4.6
+Be Good,Comedy,2012,6.4
+Molly Aunty Rocks,Drama,2012,6.0
+Henry VIII at Shakespeare's Globe,History,2012,9.4
+Supernaturalz: Weird, Creepy & Random,Comedy,2012,5.9
+Community Service the Movie,Horror,2012,7.7
+Circuito chiuso,Thriller,2012,3.7
+Four Twenty,Comedy,2012,8.4
+Hassel - Privatspanarna,Comedy,2012,4.9
+Manthrikan,Comedy,2012,3.7
+Strange, Stranger,Horror,2012,7.4
+The Village,Comedy,2012,6.9
+The Dinner Date,Comedy,2012,7.9
+Duresori: The Voice of East,,2012,7.4
+The Pattern,Horror,2012,7.3
+A Confident Man,Action,2012,6.8
+The Backpack,Crime,2012,8.8
+El Pozo,Drama,2012,6.2
+Matinee,Romance,2012,5.7
+Kaleidoscope,Comedy,2012,8.8
+Laughter,Horror,2012,4.8
+Keys to the City,Drama,2012,7.2
+Plump Revolution,Comedy,2012,5.4
+Redlegs,Drama,2012,7.0
+It's Not That Simple,Comedy,2012,7.0
+Hvala za Sunderland,Comedy,2012,6.6
+First World Problems,Comedy,2012,7.5
+Percival's Big Night,Comedy,2012,8.7
+Staub auf unseren Herzen,Drama,2012,6.2
+Three Days Happiness,Drama,2012,7.0
+Iowa,Drama,2012,7.0
+Chao shi kong jiu bing,Fantasy,2012,5.3
+The Farm,Horror,2012,6.1
+Blood Lodge,Horror,2012,5.5
+Lamma dehket Monaliza,Comedy,2012,7.1
+The Rule of Law,Action,2012,6.2
+The Count,Horror,2012,6.3
+Kolah Ghermezi Va Bache Nane,Comedy,2012,6.3
+Kraanthiveera Sangolli Raayanna,Drama,2012,7.3
+The Red House,Drama,2012,7.0
+All You Can Dream,Comedy,2012,6.4
+She's Dead,Horror,2012,7.1
+S.I.N. Theory,Drama,2012,7.0
+Idiots,Comedy,2012,3.6
+Ninah's Dowry,Biography,2012,8.5
+Metal Maniac,Horror,2012,7.0
+Canon,Drama,2012,8.0
+Supermarket,Thriller,2012,5.5
+10i mera,Drama,2012,5.8
+Kuchisake onna Returns,Horror,2012,4.2
+Kosnice,Comedy,2012,7.6
+Del Shores: Sordid Confessions,Comedy,2012,8.9
+Kunduz: The Incident at Hadji Ghafur,Action,2012,7.7
+Private Life,Drama,2012,5.3
+Placebo,Drama,2012,8.9
+Pommes essen,Family,2012,6.0
+Ghalb-e Yakhi Season 3,Thriller,2012,7.0
+The Last Eagle Scout,,2012,6.5
+Nocni brodovi,Drama,2012,7.2
+Happy Birthday Woody Allen & Keep Going,Comedy,2012,8.2
+Home: Itoshi no Zashiki Warashi,Drama,2012,6.7
+Kunjaliyan,Comedy,2012,2.9
+President Wolfman,Comedy,2012,5.6
+Camera Phone,Horror,2012,4.5
+Day of a Thousand Screams,Comedy,2012,6.4
+The Captain of Nakara,Comedy,2012,7.8
+When Time Becomes a Woman,Drama,2012,7.5
+Nidra,Drama,2012,6.5
+Because You're Too Nice,Comedy,2012,5.7
+Goretech: Bienvenidos al planeta hijo de puta,Action,2012,7.8
+Los Traficantes,Biography,2012,7.8
+Mesawar Qateel,Crime,2012,7.1
+Little District,Thriller,2012,5.1
+Murt Ramirez Wants to Kick My Ass,Comedy,2012,7.9
+The Land of Eb,Drama,2012,7.4
+Idiot,Drama,2012,7.7
+Villanelle,Horror,2012,6.8
+Lycka till och ta hand om varandra,Comedy,2012,6.3
+Gei Ye Shou Xian Hua,Action,2012,6.5
+Hermanos de sangre,Thriller,2012,7.1
+Ready or Not,Horror,2012,4.1
+At Stake: Vampire Solutions,Comedy,2012,7.1
+The Crumbles,Comedy,2012,7.4
+Menatek Ha-maim,Drama,2012,6.4
+Shi er xing zuo li qi shi jian,Horror,2012,5.0
+Dzien kobiet,Drama,2012,6.1
+I Hate Toronto: A Love Story,Comedy,2012,7.6
+Death of Love,Comedy,2012,7.6
+La plegaria del vidente,,2012,6.2
+Myoho,Drama,2012,7.4
+Ins Blaue,Drama,2012,5.9
+Yeong-geon tam-jeong-sa-mu-so,Action,2012,6.0
+Drinking Games,Drama,2012,5.7
+Gambil,Action,2012,7.8
+Il Professore,Drama,2012,7.3
+Silveraven,Action,2012,4.9
+Zagrebacke price vol. 2,Drama,2012,7.8
+Orson West,,2012,5.4
+Thumb N It,Crime,2012,2.9
+5-baek-man-bool-eui Sa-na-i,Comedy,2012,6.0
+The Dealers,Comedy,2012,6.4
+Teen Spirit,Drama,2012,8.3
+Cobra,Comedy,2012,2.5
+Anima Sola,Horror,2012,8.3
+Kac Wawa,Comedy,2012,1.4
+Soft Gun.,Comedy,2012,6.7
+The Complex,Comedy,2012,5.4
+Viva Baseball,Drama,2012,4.7
+Missing You,Comedy,2012,7.5
+How Embarrassing,Biography,2012,7.5
+Kalpana,Comedy,2012,6.4
+Operation Libertad,Drama,2012,6.6
+Unnam,Drama,2012,3.3
+Ante',Action,2012,7.4
+Viaje a Surtsey,Comedy,2012,5.9
+Tinsel,Horror,2012,7.1
+Paseo de Oficina,Comedy,2012,4.1
+Technicolour Llama,Adventure,2012,7.7
+The Evolution of Andrew Andrews,Comedy,2012,5.2
+Tan xin gui jian gui,Comedy,2012,5.3
+The Yakuza and the Mermaid,Fantasy,2012,7.1
+In This Room,Drama,2012,8.2
+Morales, El Reformador,Action,2012,8.1
+In a Small World,Adventure,2012,8.5
+We Feel Fine,Drama,2012,7.5
+H5N1: Pandemonium,Horror,2012,6.8
+Uwharrie,Horror,2012,4.6
+Cornelia frente al espejo,Drama,2012,6.3
+Nervo Craniano Zero,Comedy,2012,6.9
+Umchi keulreonik,Comedy,2012,5.9
+Xi men ding,Comedy,2012,1.4
+Guns Don't Lie,Drama,2012,7.9
+Heavy Hands,Drama,2012,5.6
+Alaverdi,Drama,2012,6.3
+Avant que mon coeur bascule,Drama,2012,5.9
+Open Vacancy,Horror,2012,5.8
+Ghost Walk: The Farm,Drama,2012,4.0
+Fifteen,Crime,2012,6.4
+Spare Time Killers,Action,2012,7.9
+Talking to the Trees,Drama,2012,7.4
+Pincus,Comedy,2012,6.7
+Ryder Country,Thriller,2012,5.9
+Ghost on Air,Horror,2012,4.5
+Kidnap Party,Comedy,2012,8.3
+Biktima,Drama,2012,8.2
+Jidan he shitou,Drama,2012,5.9
+Ishalem. Memorias de un vampiro,Drama,2012,7.0
+Bikhod & Bi Jahat,Comedy,2012,6.7
+Mr Singh Wants PR,Comedy,2012,8.6
+In Carcosa,Drama,2012,7.2
+Arraianos,Drama,2012,6.9
+A Moral Conjugal,Drama,2012,6.8
+Le retour du fils,Drama,2012,8.8
+Jillian's Travels,Family,2012,7.0
+Rouge amargo,,2012,5.3
+The Kult,Action,2012,6.8
+Project 577,Adventure,2012,6.8
+Diente por diente,,2012,6.8
+Killing Heat,Action,2012,3.7
+Cabo,Drama,2012,7.2
+Discoverdale,Comedy,2012,8.0
+On Down the Line,Drama,2012,7.4
+A Teia de Gelo,Mystery,2012,5.0
+Dragoi ehiztaria,Drama,2012,4.5
+Waiting for Summer,Drama,2012,7.8
+Evolution Creek,Adventure,2012,5.4
+Your Roommate,Comedy,2012,6.6
+Byc jak Kazimierz Deyna,Comedy,2012,6.0
+DonT Stop,Drama,2012,6.4
+Continuity,Thriller,2012,6.8
+Sin Palabras,Drama,2012,6.7
+Bloody 27,Action,2012,4.3
+The Ripping,Horror,2012,4.2
+Pension Freiheit,Comedy,2012,5.6
+40 Point Plan,Drama,2012,9.3
+Si Agimat si Enteng Kabisote at si ako,Action,2012,7.7
+Killing Me,Comedy,2012,7.1
+Psychophony,Mystery,2012,3.3
+Marvin Seth and Stanley,Comedy,2012,6.6
+Az do mesta as,Drama,2012,5.8
+Sennen no yuraku,Drama,2012,6.6
+Cvjetni trg,Drama,2012,7.1
+Menos que nada,Drama,2012,6.6
+Ever Last,Drama,2012,8.1
+Less Lost,Drama,2012,8.7
+Undead Apocalypse,Horror,2012,5.8
+Squatch! Curse of the Tree Guardian,Fantasy,2012,4.5
+Night Is Day: The Movie,Action,2012,5.1
+De Martes a Martes,Drama,2012,6.2
+Berani punya budak,Action,2012,4.7
+365 Decision Time,Drama,2012,8.2
+Xiong xiong ai shang ni,Comedy,2012,5.2
+Journey of a Story,Drama,2012,7.4
+Apocalypse Theory,Comedy,2012,8.1
+The Wife Master,Comedy,2012,6.8
+Auf den zweiten Blick,Drama,2012,7.0
+Yedian gui tan,Thriller,2012,4.3
+Nemez,Drama,2012,6.3
+Real oni gokko 4,Horror,2012,6.0
+Orange,Drama,2012,4.5
+Zhen Xin Hua Da Mao Xian,Comedy,2012,5.0
+In nomine Satan,Crime,2012,7.4
+Accession,Drama,2012,7.3
+Will and Testament,Drama,2012,7.0
+Stuck,Comedy,2012,4.1
+Odoru daisousasen the Final: Aratanaru kibou,Action,2012,5.6
+Mei jie,,2012,7.4
+Cassos,Comedy,2012,5.8
+Vilamor,Drama,2012,5.3
+Secret Asian Man - Rise of the Zodiac!,Action,2012,7.0
+Casting Me...,Comedy,2012,6.5
+Hattrick,Action,2012,8.0
+From This Day,War,2012,7.0
+Mi loco Erasmus,Comedy,2012,6.2
+Panihida,Drama,2012,7.3
+Jin sun,Drama,2012,5.6
+Origins III: Destiny,Action,2012,6.2
+Tash Force,Comedy,2012,7.8
+Christ Complex,Comedy,2012,6.7
+Konvoy,Drama,2012,6.3
+Tragedy of a Mother and Son,Action,2012,8.4
+Dam California,Action,2012,7.1
+Bawali Unlimited,Comedy,2012,8.0
+If Only Everyone,Drama,2012,7.2
+Reoshian soseol,Drama,2012,6.8
+The Last Road,Action,2012,7.1
+Aziz Ayse,Drama,2012,4.3
+Schilf,Drama,2012,4.8
+Entre Vales,Drama,2012,6.6
+The Lost Number,Action,2012,8.2
+Oros,Drama,2012,7.3
+Dead Money,Action,2012,8.4
+Catching Hearts,Drama,2012,6.9
+Mumbai Cha Raja,Drama,2012,6.7
+Camp Kickitoo,Comedy,2012,6.8
+Bian shen nan nv,Comedy,2012,6.9
+Krapetz,Drama,2012,6.5
+Inspektor Martin i banda puzeva,Animation,2012,8.0
+Show Me Your Glory: The Movie,Drama,2012,6.3
+The Perception of Moving Targets,Drama,2012,7.4
+Slaughter Tales,Action,2012,5.0
+POP-U-larity!,Comedy,2012,6.6
+Let Me Out,Comedy,2012,6.5
+Dissensions,Drama,2012,8.6
+Dark Reunion,Horror,2012,7.6
+Yugo and Lala,Animation,2012,6.3
+Eagles,Drama,2012,6.8
+My Life as Abraham Lincoln,Comedy,2012,8.7
+Boyz of Summer,Drama,2012,8.3
+Cassandra,,2012,6.4
+The Package III: Deadfire,Animation,2012,7.5
+Two Shadows,Drama,2012,6.5
+Bleeding Through,Drama,2012,5.6
+El efecto K. El montador de Stalin,Adventure,2012,7.9
+Cruz del Sur,Comedy,2012,5.9
+Ace the Zombie: The Motion Picture,Comedy,2012,6.3
+Naples Never Dies... It Shoots!,Action,2012,6.2
+Qin ai,Drama,2012,7.3
+Berlin Telegram,Drama,2012,5.9
+La grosse commission,Comedy,2012,7.8
+Khawnglung Run,Action,2012,6.7
+Last Bench,Drama,2012,5.9
+Barmy,Comedy,2012,7.2
+Fathers Day,Drama,2012,5.7
+Sono yoru no samurai,Drama,2012,6.3
+Posel,Drama,2012,4.4
+Bullets for Jesus,Action,2012,8.3
+Den uchitelya,Drama,2012,5.4
+Grimas,Comedy,2012,7.6
+Waterwalk,Family,2012,7.2
+Odinokiy ostrov,Drama,2012,5.2
+7 Stones,Action,2012,4.3
+Detroit Winter,Comedy,2012,6.5
+Benjamin Wolf,Action,2012,6.4
+The Green Marker Scare,Animation,2012,6.7
+Dishonorable Vendetta,Action,2012,7.1
+Diablo,Drama,2012,7.0
+Win by Fall,Sport,2012,6.2
+Pembrook,Horror,2012,5.8
+Columbarium,Drama,2012,6.2
+Dynasti,Action,2012,4.8
+Garifuna in Peril,Drama,2012,9.2
+The Sleeping Soul,Horror,2012,6.5
+The Unusual Calling of Charlie Christmas,Action,2012,8.1
+Attonitas,Thriller,2012,4.9
+Psoro,Horror,2012,7.7
+Kame Koummando,Action,2012,4.9
+Prikrita skrivnost,Drama,2012,8.5
+Alan Smithee' S Frankenstein,Horror,2012,7.0
+Kufferten,Action,2012,4.7
+Onion Syrup,Comedy,2012,7.8
+Split Second,Drama,2012,8.3
+Disparos,Action,2012,5.6
+Ozu,,2012,7.6
+Dreaming Alaska,Comedy,2012,7.2
+Determinism,Crime,2012,5.8
+Poklonnitsa,Drama,2012,7.7
+VeggieTales: If I Sang a Silly Song,Animation,2012,7.1
+Las Bellas Durmientes,Comedy,2012,6.6
+Real oni gokko 5,Horror,2012,6.6
+Ibiza My Way or the High Way,,2012,7.1
+Choke on That,Comedy,2012,8.0
+A Simple Game of Catch,Drama,2012,8.9
+Meus Dois Amores,Comedy,2012,5.0
+Fog Island,Horror,2012,7.1
+In Over My Head,Comedy,2012,6.4
+Terror Telly,Comedy,2012,7.4
+Big Hit,Action,2012,6.2
+It's a Criminal World,Action,2012,7.7
+How to Make Movies at Home,Comedy,2012,8.6
+The Pharmacist,Drama,2012,8.0
+Spirit Lake,Fantasy,2012,6.7
+Meningen med Hugo,Comedy,2012,6.3
+Sins of the Dragon,Action,2012,7.4
+The Waters: Phase One,Action,2012,6.4
+Exploitation,Drama,2012,8.7
+The Mask of Love,Horror,2012,4.0
+Knight Knight,Comedy,2012,7.2
+Shades of Julia,Drama,2012,7.4
+The Big Noise,Comedy,2012,8.2
+La piel y el alma,Drama,2012,8.2
+I Love Me,Thriller,2012,3.8
+Transfer,Drama,2012,4.9
+Tokeasy,Comedy,2012,7.7
+Two Days,Drama,2012,7.7
+The Man Near Skitter Creek,Comedy,2012,7.2
+alaskaLand,Drama,2012,7.6
+Time Collectors,Mystery,2012,4.6
+Manigances,Mystery,2012,7.2
+The Dahl Dynasty,Drama,2012,3.5
+Trash and Progress,Drama,2012,4.6
+The Scrapper,Action,2012,6.9
+Rook,Crime,2012,8.0
+Goodbye Promise,Drama,2012,7.6
+SAM - Saya Amat Mencintaimu,Action,2012,6.6
+Wild and Precious,Drama,2012,8.5
+Race War: The Remake,Comedy,2012,6.4
+You-Zhong,Drama,2012,6.5
+Dealer,Drama,2012,5.9
+From Tehran to London,Drama,2012,7.3
+In diesem Moment,Thriller,2012,6.7
+Jodidos kabrones,Comedy,2012,4.6
+Il pasticciere,Thriller,2012,6.7
+Own Worst Enemy,Comedy,2012,7.0
+Otello,Drama,2012,7.6
+Savage Witches,Fantasy,2012,8.3
+Unavailable,Comedy,2012,7.6
+I'm Me,Drama,2012,7.7
+Ex Abyssus,Fantasy,2012,7.4
+Dixie Times,Comedy,2012,8.2
+Plyonki iz preispodney,Horror,2012,8.1
+Evil Deeds,Horror,2012,6.0
+Delusions of Grandeur,Drama,2012,7.8
+Komisarz Blond i Oko Sprawiedliwosci,Action,2012,2.6
+The Ghost from Hovrino,Horror,2012,7.1
+The Return of Lazarus,Drama,2012,7.8
+The Walkaround,Comedy,2012,6.2
+Mga mumunting lihim,Drama,2012,8.1
+The Murder of Hi Good,Western,2012,8.6
+The Velvet Elvis,Action,2012,7.5
+Madhirashi,Comedy,2012,3.2
+The Devil Made Me Do It,Crime,2012,6.4
+Shoggoth,Horror,2012,7.7
+El ojo del Diablo,Mystery,2012,5.5
+Ruta de la luna,Drama,2012,6.2
+Posledni vykrik,Crime,2012,3.2
+Psycho Killer,Horror,2012,7.2
+Attacked on Set,Horror,2012,6.2
+A Dark Day's Night,Thriller,2012,6.5
+Esruhumun eszamani,Drama,2012,4.6
+Generation Me,Comedy,2012,8.3
+Bao dao da bao zou,Comedy,2012,3.9
+Le fan tian,Comedy,2012,5.0
+Heavy Weight on the Block 2,Drama,2012,8.8
+Lo azul del cielo,Drama,2012,7.0
+Sekret,Drama,2012,5.3
+Jiggly Baby 3: The Curse of Adramelech,Horror,2012,7.9
+Dave O'Shea's Day Job,Horror,2012,7.7
+Sweet Old World,Drama,2012,6.5
+Artifacts of Idealism,Drama,2012,6.0
+Pulska veza,Action,2012,7.2
+Dinosaur Doomsday,Comedy,2012,3.3
+Second Sight,Drama,2012,7.1
+Jon,Horror,2012,7.4
+The Unrest,Horror,2012,7.1
+La Jubilada,Drama,2012,7.0
+Meeting Place,Drama,2012,7.6
+Plop wordt kabouterkoning,Family,2012,7.7
+Project October,Horror,2012,6.2
+Gut Instincts,Horror,2012,6.4
+Na Hannyate,Drama,2012,8.3
+N.F.A. (No Fixed Abode),Thriller,2012,7.2
+Hou niao lai de ji jie,Drama,2012,6.4
+Alpha Protocol: Solomon's Stele,Action,2012,8.8
+Incognita,Drama,2012,5.6
+Sexually Frank,Comedy,2012,8.4
+The Honey Cooler,Comedy,2012,8.5
+El Buen Pedro,Crime,2012,4.5
+A Man Called Nereus,Action,2012,6.7
+Losing Her,Drama,2012,8.2
+Janosch: Komm, wir finden einen Schatz,Animation,2012,5.9
+Spin,Drama,2012,7.5
+Namukku Parkkan,Drama,2012,5.2
+Brooklyn Breach,Drama,2012,8.2
+Zuo ri de ji yi,Drama,2012,4.5
+Towers,Drama,2012,7.1
+Hsien of the Dead,Comedy,2012,5.7
+Gone,Drama,2012,7.5
+The Legend of Cooley Moon,Horror,2012,5.3
+Drowned Out,Horror,2012,6.8
+Let's Make a Movie,Comedy,2012,8.2
+THG: The Beginning,Action,2012,7.7
+Exit 727,Action,2012,8.2
+La Chupilca del Diablo,Drama,2012,6.7
+Sao ren,Drama,2012,6.8
+Tian jin xian ren,Drama,2012,7.8
+Ixjana,Drama,2012,3.5
+Dire Digest,Fantasy,2012,8.2
+...Mama ei de tranzitie!?!,Comedy,2012,6.0
+Nightscape: Dark Reign of Thanatos,Fantasy,2012,4.9
+Black Eyed Sun,Drama,2012,8.5
+The Doorway,Horror,2012,5.3
+The Forest Is Red,Drama,2012,8.7
+The Hour of Living,Drama,2012,7.2
+Non me lo dire,Comedy,2012,4.7
+Billi & Theodore,Comedy,2012,8.2
+Whatever Happened to Pete Blaggit?,Comedy,2012,6.6
+Nomer 1000,Action,2012,7.1
+Money for Angels,Crime,2012,7.6
+Study,Drama,2012,6.5
+Kamera obskura,Drama,2012,7.2
+The Tragedy of Macbeth,Animation,2012,6.2
+Sort kaffe & vinyl,Drama,2012,7.2
+Brock Wilbur: 28 Years Later,Comedy,2012,6.0
+The Telegram,Drama,2012,5.2
+Iubire Elena,Drama,2012,8.5
+Qin ai de nai nai,Drama,2012,6.7
+I'll Be Homeless for Christmas,Family,2012,6.5
+Dos fragmentos/Eva,Drama,2012,4.7
+Mithivedi,Drama,2012,7.2
+River Ridge,Comedy,2012,7.6
+Chasing Home,Drama,2012,8.6
+Overbooked,Action,2012,6.7
+Smuggled,Drama,2012,7.4
+Temper's Karma,Drama,2012,8.2
+Rondo,Drama,2012,8.0
+Alabama Sasquatch,Comedy,2012,8.2
+Le prolongement de moi,Drama,2012,5.4
+Indemnity,Drama,2012,4.0
+Sosedska (ne)ljubezen,Family,2012,6.8
+A Year and a Day,Drama,2012,7.5
+La Espera Desespera,Comedy,2012,7.9
+Blood Cousins,Comedy,2012,7.7
+Soledad y Larguirucho,Animation,2012,3.2
+HaHaim Bentaim,Drama,2012,5.1
+The Mark,Comedy,2012,8.5
+Aima,Drama,2012,6.8
+The Holloway Story,Mystery,2012,8.1
+Aakasmikam,Drama,2012,5.2
+Coldwood,Thriller,2012,7.1
+Yang mei zhou,Drama,2012,6.8
+Doshhomi,Drama,2012,6.0
+Piata pora roku,Drama,2012,6.2
+Broken Down,Action,2012,7.7
+Zdjecie,Drama,2012,7.3
+The Professional Idiot,Comedy,2012,8.2
+Nederdood,Drama,2012,6.8
+The Arriviste,Crime,2012,7.8
+Slucajni prolaznik,Drama,2012,7.8
+Z-Baw,Animation,2012,4.7
+The Undertaker's Son,Crime,2012,5.1
+Evdeki yabancilar,Drama,2012,6.6
+29 kilometr,Drama,2012,7.8
+Weight,Drama,2012,8.0
+Pharmakon,Drama,2012,6.4
+Ming yun gou bu li,Comedy,2012,5.5
+Beautiful Brit Baker,Crime,2012,7.8
+Witness,Action,2012,5.4
+Tambylles,Drama,2012,6.2
+Noches Desveladas,Drama,2012,6.0
+O Fantasma do Novais,Biography,2012,6.0
+La presencia,Horror,2012,4.8
+Sagar,Comedy,2012,7.1
+Vinopiri: Krvni davek,Horror,2012,7.7
+Paris 60,Drama,2012,8.6
+The Legend of the 5ive,Horror,2012,4.8
+Welcome to Shirley,Comedy,2012,7.6
+In the Night,Comedy,2012,8.2
+Training for a Fight,Action,2012,1.5
+Genuine Risk,Drama,2012,6.0
+No. 66 Madura Bus,Drama,2012,3.5
+Even Eye,Drama,2012,6.7
+Drunk,Comedy,2012,8.2
+Mp2v,Horror,2012,5.9
+Hoagie,Comedy,2012,7.9
+The Cuddly Toy,Thriller,2012,5.9
+Shyamal Uncle Turns Off the Lights,Drama,2012,6.6
+The Happy Caterpillars,Drama,2012,8.4
+Dark Night of the Pumpkinman 2,Horror,2012,5.7
+Mayskiy dozhd,Comedy,2012,7.2
+Doktor,Drama,2012,5.5
+Angel in June,Biography,2012,7.7
+Graders,Mystery,2012,6.2
+A Gran Plan,Drama,2012,7.4
+Piita,Drama,2012,7.3
+Ballast,Drama,2012,6.4
+Poetic,Horror,2012,4.7
+Mr Self Destruct,Sci-Fi,2012,6.4
+Roughrider,Action,2012,7.9
+Luchakali,Crime,2012,6.9
+Captain Slickpants,Comedy,2012,7.5
+Goraay Gandogol,Comedy,2012,7.3
+Bad Guy,Action,2012,6.9
+AFK: Heroes of Prophecy,Comedy,2012,7.9
+Skolni vylet,Comedy,2012,2.0
+Villa Thalassa - helgen v. 48,Comedy,2012,5.2
+Demon Messenger,Horror,2012,5.7
+True Love Zombie,Comedy,2012,4.9
+Where the Sea Used to Be,Comedy,2012,7.0
+The Search for Kennyboy,Comedy,2012,7.6
+Armageddon Ed's Ticket to Hell,Horror,2012,6.1
+The Critic,Drama,2012,8.1
+Universal Ninjas,Action,2012,5.0
+Changing Diego,Comedy,2012,6.3
+One Scene,Comedy,2012,7.4
+Beer & Seed,Comedy,2012,6.7
+I'm Nathan,Comedy,2012,7.6
+Le djassa a pris feu,Crime,2012,3.7
+Footprints,Drama,2012,8.2
+Steve Phoenix: The Untold Story,Drama,2012,3.7
+Alal mad al basar,Drama,2012,5.1
+Mr 420,Comedy,2012,4.0
+Prelomnica,Crime,2012,5.1
+Pyat zvyozd,Drama,2012,7.7
+Vautrin,Drama,2012,6.6
+Gospel Good, Gospel Bad, Gospel Ugly,Drama,2012,7.2
+Writer's Block,Drama,2012,8.8
+Maudit soit le jour,Drama,2012,7.9
+The Vet: Surgically Degraded,Drama,2012,8.3
+Naughty Kids: Operation New Year,Family,2012,4.8
+Nae-mo-nan-won,Drama,2012,6.7
+Glasses of Oblivion,Drama,2012,7.3
+The First Aggregate,Drama,2012,5.7
+El espacio entre los dos,,2012,6.7
+Mondo Sacramento,Biography,2012,7.6
+Jenny's Book of Twilight,Drama,2012,8.3
+Chattakkari,Romance,2012,3.9
+Pantherion,Mystery,2012,5.5
+Closure,Comedy,2012,7.9
+Polk Road: The Homecoming,Comedy,2012,8.3
+Video Stop,Comedy,2012,8.1
+Tak pakhnet lyubov,Action,2012,7.3
+Assassin: The Origin of Curtis Duvalle,Crime,2012,5.1
+Hood Boogas: The Movie,Comedy,2012,5.2
+The Way of Glass,Drama,2012,8.7
+I Work,Comedy,2012,8.0
+A Kind of Wonderful Thing,Comedy,2012,7.6
+Tan cerca como pueda,,2012,5.2
+Doktor M.H. - Kes on Marie Johansson,Drama,2012,7.0
+

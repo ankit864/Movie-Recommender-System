@@ -1,11 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
-def main(max_pages = 1):
+def main(max_pages = 200):
 	page = 0
 	count = 0	
 	while page < max_pages:
 		index = page * 50 + 1
-		url = 'http://www.imdb.com/search/title?languages=en%7C1&num_votes=10000,&sort=user_rating,desc&start='+str(index)+'&title_type=feature'		
+		#url = 'http://www.imdb.com/search/title?languages=en%7C1&num_votes=10000,&sort=user_rating,desc&start='+str(index)+'&title_type=feature'		
+		url =  'http://www.imdb.com/search/title?sort=year&start='+str(index)+'&title_type=feature&year=2011,2016'
 		print url
 		source_code = requests.get(url)
 		plain_text = source_code.text
@@ -45,8 +46,11 @@ def get_single_item_data(url):
 		genres = []
 		for genre in subtext.findAll('a'):
 			genersobject = genre.find('span',{'class': 'itemprop','itemprop': 'genre'})
+			a=1
 			if not(genersobject is None):
 				genres.append(genersobject.string)
+				break
+				#print genres
 		genre = ', '.join(genres)
 		release_Date = subtext.find('a',{'title': 'See more release dates'}).contents[0].strip()
 		image = soup.find('div',{'class': 'poster'}).find('a').find('img')
@@ -73,9 +77,9 @@ def get_single_item_data(url):
 		director = ', '.join(directors)
 		writer = ', '.join(writers)
 		star = ', '.join(stars)
-		#print title + ',' + rating_Value
-		with open('imdb.txt','a') as f:
-			f.write(title + ',' + rating_Value + '\n')
+		print title + ',' + genre + ','+ rating_Value + ',' + year
+		with open('imdb1.txt','a') as f:
+			f.write(title + ','+ genre + ',' + year + ',' + rating_Value + '\n')
 		#print rating_Value
 		#print writer
 		#print star

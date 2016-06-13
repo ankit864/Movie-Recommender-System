@@ -1,0 +1,746 @@
+King Liar,Comedy,2016,6.3
+Natsamrat,Drama,2016,9.4
+Streets of East L.A.,Action,2016,4.1
+Creedmoria,Comedy,2016,7.5
+Love Addict,Comedy,2016,7.0
+94 Feet,Drama,2016,5.2
+Dispatch,Thriller,2016,6.4
+A Punters Prayer,Comedy,2016,9.0
+Aksbandh,Horror,2016,8.8
+The Alchemist Cookbook,Drama,2016,6.6
+Inhebek Hedi,Drama,2016,7.0
+Fado,Drama,2016,6.7
+Rodeo Girl,Family,2016,5.4
+Villisca,Horror,2016,9.4
+Fissa,Comedy,2016,4.8
+Knielen op een bed violen,Drama,2016,6.3
+Mimosas,,2016,5.6
+Search Engines,Comedy,2016,7.1
+Omphalos,Mystery,2016,7.1
+Out West,Comedy,2016,5.8
+Josephine,Drama,2016,8.7
+Broer,Comedy,2016,6.1
+Kidnapped in Romania,Drama,2016,5.3
+Zero,Fantasy,2016,6.4
+Elbow Grease,Comedy,2016,9.4
+Rainbow Time,Comedy,2016,7.8
+In the Hell of Dixie,Horror,2016,4.8
+En-To-Tre-Nu!,Drama,2016,7.7
+Chongqing Hot Pot,Thriller,2016,6.7
+Assolo,Comedy,2016,5.9
+Pattaya,Comedy,2016,5.3
+Welcome to Norway,Comedy,2016,6.3
+Ace the Case,Family,2016,6.9
+My Father, Die,Action,2016,8.1
+Just Our Luck,Romance,2016,6.7
+Hitler's Folly,Comedy,2016,5.4
+Adopte un veuf,Comedy,2016,6.4
+Cut to the Chase,Action,2016,8.5
+Suntan,Comedy,2016,7.4
+Almost Paris,Comedy,2016,8.4
+School Bus,Drama,2016,6.7
+Pencil,Mystery,2016,5.7
+All the Birds Have Flown South,Thriller,2016,8.4
+Pichaikkaran,Action,2016,7.9
+Rokjesdag,Comedy,2016,5.4
+I Love You Both,Comedy,2016,8.8
+We Go On,Drama,2016,8.3
+Zeta,Drama,2016,5.3
+Pure Pwnage,Comedy,2016,8.0
+The Contract,Action,2016,3.2
+Shelley,Drama,2016,7.1
+Prayer Never Fails,Drama,2016,8.2
+Modder en Bloed,Drama,2016,8.4
+Dependent's Day,Comedy,2016,6.6
+Shortwave,Sci-Fi,2016,8.8
+Jugni,Drama,2016,7.3
+Year by the Sea,Comedy,2016,8.5
+Jacobinte Swargarajyam,Biography,2016,7.8
+L'origine de la violence,Drama,2016,7.1
+The North Star,Drama,2016,5.3
+The Bodyguard,Action,2016,7.4
+Monday at 11:01 A.M.,Thriller,2016,5.8
+Love Records: Anna mulle Lovee,Biography,2016,5.7
+Godhi Banna Sadharana Mykattu,Drama,2016,9.7
+L'abbiamo fatta grossa,Comedy,2016,5.7
+His Double Life,Thriller,2016,5.9
+Playing with Dolls: Bloodlust,Horror,2016,2.2
+Transpecos,Thriller,2016,8.1
+Voir du pays,,2016,7.3
+Geroy,Action,2016,5.0
+Eshtebak,,2016,7.8
+Smrt u Sarajevu,Drama,2016,6.6
+A Dragon Arrives!,Adventure,2016,6.8
+Broke,Drama,2016,9.1
+Miss Stevens,Drama,2016,7.6
+Five,,2016,6.8
+Les malheurs de Sophie,Comedy,2016,6.3
+Siren Song,Horror,2016,4.2
+Spa Night,Drama,2016,7.4
+Channo Kamli Yaar Di,Drama,2016,7.0
+Bigfoot Vs. Zombies,Horror,2016,2.3
+Tri,Comedy,2016,9.2
+Junction 48,Action,2016,8.1
+Kamp Holland,Drama,2016,7.0
+Where Hearts Lie,Drama,2016,7.6
+Texas Heart,Drama,2016,9.2
+Mammal,,2016,6.5
+Uriyadi,Thriller,2016,9.0
+Dating Daisy,Comedy,2016,8.0
+Ponto Zero,Drama,2016,8.9
+De Helleveeg,Comedy,2016,7.2
+Ko 2,Thriller,2016,5.1
+La corona partida,Drama,2016,7.8
+Miami Beach,Comedy,2016,3.8
+Sardaar Gabbar Singh,Action,2016,5.5
+La mort de Louis XIV,,2016,7.8
+Zorawar,Action,2016,5.4
+Osman Pazarlama,Comedy,2016,3.0
+Jean of the Joneses,Comedy,2016,7.4
+Beyond Sleep,Drama,2016,6.6
+While the Women Are Sleeping,Drama,2016,6.3
+Kadhalum Kadanthu Pogum,Comedy,2016,7.3
+Trust Fund,Drama,2016,8.3
+Attack of the Lederhosenzombies,Comedy,2016,7.0
+Den allvarsamma leken,Drama,2016,7.0
+Prisoner X,Sci-Fi,2016,5.8
+Marseille,Comedy,2016,5.3
+Thai Jashe!,Drama,2016,8.6
+Ente gut!,Family,2016,4.7
+AWOL,Drama,2016,7.5
+Mah e Mir,Biography,2016,7.6
+Busco novio para mi mujer,Comedy,2016,6.0
+24 Wochen,Drama,2016,7.4
+The Transfiguration,Drama,2016,6.4
+Beijing Meets Seattle II: Book of Love,Romance,2016,6.5
+Sarrainodu,Action,2016,6.8
+Miles,Comedy,2016,7.7
+Bear with Us,Comedy,2016,8.8
+The Tiger Hunter,Comedy,2016,8.9
+Kicks,Adventure,2016,8.6
+Grandma's House,Drama,2016,8.4
+Apprentice,Drama,2016,6.6
+Do Lafzon Ki Kahani,Drama,2016,8.7
+Cassidy Way,Thriller,2016,4.2
+The Eyes of My Mother,Drama,2016,8.0
+Break-Up Nightmare,Drama,2016,5.8
+Grave,,2016,7.1
+Little Boxes,Comedy,2016,7.8
+Stevie D,Comedy,2016,9.5
+Union Bound,Action,2016,6.8
+Take Me Home,Horror,2016,6.1
+The Free World,Drama,2016,7.1
+Frankenstein Created Bikers,Action,2016,7.0
+Opening Night,Comedy,2016,8.1
+Veloce come il vento,Drama,2016,7.7
+Beyond the Call of Duty,Action,2016,5.2
+The People Garden,Drama,2016,6.4
+Madtown,Drama,2016,9.6
+Monsterland,Fantasy,2016,6.8
+Adult Life Skills,Comedy,2016,7.9
+American Conjuring,Horror,2016,5.6
+Du cheng feng yun III,Comedy,2016,1.5
+Ilegitim,Drama,2016,7.3
+Phantom of the Theatre,Fantasy,2016,7.3
+Antboy 3,Adventure,2016,7.3
+Zjednoczone stany milosci,Drama,2016,6.8
+El Americano: The Movie,Animation,2016,5.8
+Sin Filtro,Comedy,2016,5.5
+American Fable,Thriller,2016,8.0
+Agnes,Drama,2016,6.3
+Le convoi,Thriller,2016,5.3
+Mr. Pig,Drama,2016,6.7
+Maalik,Action,2016,9.4
+Folk Hero & Funny Guy,Comedy,2016,7.3
+Quo vado?,Comedy,2016,6.4
+Long Nights Short Mornings,Drama,2016,6.8
+Abduct,Mystery,2016,7.1
+Evil Bong: High 5,Comedy,2016,4.9
+Twenty Twenty-Four,Drama,2016,8.9
+Free State,Drama,2016,6.8
+Tout schuss,Comedy,2016,4.0
+Maheshinte Prathikaaram,Comedy,2016,8.2
+Tschiller: Off Duty,Action,2016,3.2
+Everlasting,Crime,2016,8.4
+Three Wise Cousins,Comedy,2016,9.1
+Little Miss Perfect,Drama,2016,7.3
+Project 12: The Bunker,Action,2016,4.6
+After the Reality,Comedy,2016,7.6
+Brasserie Valentijn,Romance,2016,5.0
+The Beautiful Ones,Crime,2016,9.6
+The Carer,Comedy,2016,8.8
+Po,Drama,2016,8.5
+As You Are,,2016,7.9
+Perfetti sconosciuti,Comedy,2016,7.6
+Goldstone,Crime,2016,8.0
+Toro,Crime,2016,6.0
+The Master Cleanse,Comedy,2016,6.9
+Alienate,Drama,2016,2.6
+Caged No More,Action,2016,7.1
+Laal Rang,Action,2016,8.4
+Here Alone,Drama,2016,9.0
+My Bakery in Brooklyn,Comedy,2016,5.5
+Lost & Found,Adventure,2016,5.3
+Ali and Nino,Drama,2016,8.7
+Tordenskjold & Kold,Comedy,2016,5.6
+Toni Braxton: Unbreak my Heart,Biography,2016,6.6
+Below the Surface,Thriller,2016,5.2
+Mythica: The Iron Crown,Fantasy,2016,5.8
+Swipe,Thriller,2016,4.9
+Mafiya: Igra na vyzhivanie,Action,2016,4.8
+LoveShhuda,Comedy,2016,4.6
+A Quiet Passion,Biography,2016,7.0
+Munafik,Horror,2016,8.0
+Harvest Lake,Drama,2016,5.8
+Koblic,Drama,2016,6.3
+Sold,Drama,2016,7.5
+The Paper Store,Drama,2016,9.0
+Rester vertical,Comedy,2016,7.3
+Essex Vendetta,Drama,2016,5.6
+The Blueberry Hunt,Thriller,2016,6.4
+Ma' Rosa,Drama,2016,7.0
+Les innocentes,Drama,2016,7.1
+11:55,Crime,2016,8.9
+American Wrestler: The Wizard,Drama,2016,9.0
+Native,Drama,2016,8.1
+Abad Va Yek Rooz,Drama,2016,8.2
+Nannaku Prematho,Action,2016,8.5
+Blood Sombrero,Action,2016,6.7
+A Weekend with the Family,Comedy,2016,4.8
+Umi yori mo mada fukaku,Drama,2016,7.9
+Kardesim Benim,,2016,6.2
+Dickshark,Comedy,2016,5.9
+And Punching the Clown,Comedy,2016,7.9
+Traded,Western,2016,5.5
+Wo de te gong ye ye,Action,2016,5.9
+Shepherds and Butchers,Drama,2016,7.2
+Buddha in a Traffic Jam,Crime,2016,7.6
+Teenage Cocktail,Drama,2016,6.5
+Fiore,Drama,2016,7.2
+Stressed to Kill,Comedy,2016,7.6
+Teraa Surroor,Action,2016,3.0
+Retribution,Crime,2016,7.4
+Independents' Day,Sci-Fi,2016,1.5
+Unkahi,Drama,2016,8.7
+Another Evil,Comedy,2016,8.0
+Manithan,Comedy,2016,7.2
+A Mosquito-Man,Adventure,2016,4.8
+Sleight,Action,2016,7.4
+Oopiri,Comedy,2016,8.3
+Lawless Range,Drama,2016,5.5
+Mahana,Action,2016,7.3
+Against the Wild 2: Survive the Serengeti,Adventure,2016,6.4
+Little Sister,Comedy,2016,6.7
+Le confessioni,Drama,2016,6.2
+Ekipazh,Action,2016,7.4
+Is That a Gun in Your Pocket?,Comedy,2016,7.6
+Der kommer en dag,Drama,2016,7.8
+L'avenir,Drama,2016,7.1
+Rumbos Paralelos,Drama,2016,6.4
+Alleluia! The Devil's Carnival,Horror,2016,7.6
+Battle for Skyark,Action,2016,2.8
+Smothered,Comedy,2016,4.0
+Stefan Zweig: Farewell to Europe,Drama,2016,7.8
+The Tell-Tale Heart,Thriller,2016,3.9
+The Real MVP: The Wanda Durant Story,Drama,2016,7.2
+Acantilado,Thriller,2016,6.6
+Time Rush,Action,2016,3.3
+The Girl in the Cornfield,Horror,2016,5.9
+Exit 14,Horror,2016,3.9
+Te3n,Drama,2016,7.6
+The Channel,Drama,2016,5.9
+Neruda,Biography,2016,7.4
+Soy Nero,Drama,2016,6.6
+Action Hero Biju,Action,2016,7.7
+White Girl,Drama,2016,7.1
+Poor Boy,Drama,2016,8.2
+Aimy in a Cage,Drama,2016,4.5
+Lavender,Thriller,2016,6.6
+The Other Wife,Drama,2016,7.1
+The Seeker,Drama,2016,8.8
+Trash Fire,Comedy,2016,7.3
+Deadly Intent,Drama,2016,4.4
+Operation Avalanche,Thriller,2016,7.6
+The Congressman,Drama,2016,8.6
+Tie the Knot,Comedy,2016,4.4
+Battlecreek,Drama,2016,9.1
+Accidental Engagement,Romance,2016,7.2
+Embarazados,Comedy,2016,5.6
+Tere Bin Laden Dead or Alive,Comedy,2016,4.3
+2016,Horror,2016,7.4
+Ma vie de Courgette,Animation,2016,7.6
+My Blind Brother,Comedy,2016,8.2
+Director's Cut,Horror,2016,9.7
+Gernika,Romance,2016,8.6
+The Exorcism of Anna Ecklund,Horror,2016,3.4
+The Other Half,Drama,2016,7.8
+Nuestros amantes,Comedy,2016,6.6
+The Fall of the Krays,Crime,2016,4.1
+Izzie's Way Home,Animation,2016,2.9
+La fille inconnue,Drama,2016,6.3
+Quand on a 17 ans,Drama,2016,7.2
+Golden Years,Comedy,2016,7.8
+Busanhaeng,Action,2016,7.1
+Decommissioned,Action,2016,6.3
+The Hollow Point,Crime,2016,7.5
+Geezer,Comedy,2016,8.8
+Wild,Drama,2016,7.1
+Hot,Comedy,2016,7.8
+Operator,Comedy,2016,7.5
+Dreamland,Comedy,2016,8.1
+Slash,Comedy,2016,8.1
+Dead Rush,Comedy,2016,3.2
+The Love Witch,Drama,2016,7.1
+Xiao men shen,Animation,2016,7.2
+Always Shine,Thriller,2016,8.5
+Der geilste Tag,,2016,6.4
+Theri,Action,2016,7.6
+Gibby,Family,2016,8.9
+Field Freak,Comedy,2016,2.7
+Summer of 8,Comedy,2016,8.9
+Breakdown,Thriller,2016,5.1
+The Dust Storm,Drama,2016,9.8
+Kill Kane,Crime,2016,3.9
+Of ik gek ben,Drama,2016,6.7
+Casual Encounters,Comedy,2016,4.4
+Happily Ever After,Drama,2016,6.0
+Jai Gangaajal,Crime,2016,5.9
+Dean,Comedy,2016,8.2
+Immune,Horror,2016,4.3
+The Bronx Bull,Biography,2016,5.5
+Abattoir,Horror,2016,8.4
+Seitenwechsel,Comedy,2016,5.7
+Missed Connections,Drama,2016,6.0
+Badlands of Kain,Horror,2016,7.3
+Pass Thru,Sci-Fi,2016,7.8
+Detour,Thriller,2016,7.8
+Ada Apa Dengan Cinta 2,Comedy,2016,7.8
+Planeta singli,Comedy,2016,7.6
+U Turn,Crime,2016,8.6
+Take Down,Thriller,2016,8.7
+Adam Green's Aladdin,Adventure,2016,7.0
+Lake Eerie,Horror,2016,6.2
+Little Men,Drama,2016,7.1
+Mal de pierres,Drama,2016,6.9
+A Kind of Murder,Drama,2016,7.2
+Joshy,Comedy,2016,6.6
+Incarnate,Horror,2016,8.3
+Lost in the Pacific,Adventure,2016,4.0
+Little Savages,Family,2016,5.7
+Punk's Dead: SLC Punk 2,Comedy,2016,5.9
+Ki and Ka,Comedy,2016,5.7
+Uncaged,Comedy,2016,4.4
+Carnage Park,Action,2016,5.9
+Gearheads,Action,2016,3.3
+Monkey Up,Comedy,2016,4.9
+The Perfect Weapon,Action,2016,6.5
+Altamira,Drama,2016,6.3
+Fear, Inc.,Comedy,2016,8.4
+Belgica,Drama,2016,7.1
+Hollow Creek,Crime,2016,4.1
+Home,Drama,2016,4.8
+Lovesong,Drama,2016,7.4
+The Perfect Daughter,Drama,2016,6.1
+The Land,Drama,2016,8.3
+Terra Formars,Action,2016,5.3
+Under the Shadow,Horror,2016,7.8
+Saved by Grace,Drama,2016,6.8
+Vincent N Roxxy,Crime,2016,7.7
+The Cheerleader Murders,Thriller,2016,6.0
+Shovel Buddies,Drama,2016,8.4
+Saturday's Warrior,Musical,2016,7.6
+The Unfolding,Horror,2016,3.8
+Den of Darkness,Horror,2016,3.3
+Nowhere Boys: The Book of Shadows,Sci-Fi,2016,5.0
+Sekai kara neko ga kietanara,Fantasy,2016,8.2
+Sickhouse,Horror,2016,5.8
+The Devil Complex,Horror,2016,4.7
+Magi,Horror,2016,7.1
+Walk of Fame,Comedy,2016,6.5
+Ils sont partout,Comedy,2016,4.3
+Kiki, el amor se hace,Comedy,2016,7.2
+Daylight's End,Action,2016,8.8
+Star Trek: Horizon,Action,2016,6.1
+Alone in Berlin,Drama,2016,5.6
+Silent Retreat,Horror,2016,4.1
+Dance Camp,Comedy,2016,3.6
+El olivo,Comedy,2016,7.3
+Sieranevada,Drama,2016,7.9
+Morris from America,Comedy,2016,6.5
+Fairlane Road,Drama,2016,4.4
+Ghayal Once Again,Action,2016,7.0
+Wildflower,Drama,2016,7.0
+Darkweb,Action,2016,3.0
+The Night Stalker,Crime,2016,8.1
+Hurricane Bianca,Comedy,2016,9.3
+Suicide Note,Thriller,2016,5.1
+Tiger Raid,Drama,2016,8.9
+A Remarkable Life,Drama,2016,7.3
+Xi you ji zhi: Sun Wukong san da Baigu Jing,Action,2016,6.0
+Outlaws and Angels,Drama,2016,7.3
+Forsaken,Horror,2016,2.4
+Riddle Room,Horror,2016,3.1
+Money,Crime,2016,8.0
+The Greasy Strangler,Comedy,2016,6.0
+Arrowhead,Action,2016,4.6
+The Rack Pack,Comedy,2016,7.1
+All We Had,Drama,2016,7.3
+Showdown in Manila,Action,2016,3.0
+Nerdland,Animation,2016,6.6
+Boost,Action,2016,3.7
+Madly,Drama,2016,7.4
+Sanam Re,Romance,2016,3.3
+Antibirth,Horror,2016,6.8
+The Conduit,Horror,2016,3.8
+Girl Flu,Comedy,2016,9.4
+I Am Not a Serial Killer,Thriller,2016,9.3
+Kammatti Paadam,Action,2016,8.1
+The Masked Saint,Action,2016,4.4
+Peelers,Horror,2016,8.8
+Karva,Horror,2016,8.7
+The End,,2016,5.6
+Ambarsariya,Comedy,2016,7.3
+Die wilden Kerle 6 - Die Legende lebt,Action,2016,4.6
+Before the Sun Explodes,Drama,2016,7.2
+Chalk N Duster,Drama,2016,7.0
+The Loner,Action,2016,7.8
+Paralytic,Mystery,2016,7.7
+Hundeliv,Drama,2016,8.0
+Love Punjab,Family,2016,7.9
+Kali,Romance,2016,7.2
+Rico, Oskar und der Diebstahlstein,Adventure,2016,7.1
+Foreign Land,Drama,2016,4.9
+Apoorva,Romance,2016,7.8
+Ishq Junoon,Romance,2016,8.3
+KILD TV,Horror,2016,6.3
+Distance,Drama,2016,6.1
+Hello Namasthe,Comedy,2016,4.5
+8 luchshikh svidaniy,Comedy,2016,3.8
+Fight to the Finish,Action,2016,4.0
+The Lennon Report,Biography,2016,7.1
+Saint Amour,Comedy,2016,6.5
+Night of Something Strange,Horror,2016,8.7
+HoneyBee,Horror,2016,8.4
+L'effet aquatique,,2016,6.7
+Finding Her,Crime,2016,9.7
+Mango Dreams,Adventure,2016,8.7
+Les premiers les derniers,Comedy,2016,6.9
+Hep Yek,Comedy,2016,3.9
+Sundul Gan: The Story of Kaskus,Biography,2016,8.3
+Santa Banta Pvt Ltd,Comedy,2016,3.1
+Amityville: Vanishing Point,Horror,2016,3.3
+La punta del iceberg,Thriller,2016,6.2
+Bollywood Diaries,Drama,2016,7.6
+James and Alice,Drama,2016,7.2
+Krishna Gaadi Veera Prema Gaadha,Comedy,2016,8.0
+Marudhu,Action,2016,6.6
+When Black Birds Fly,Animation,2016,7.3
+Pericle il nero,Crime,2016,6.1
+37,Drama,2016,5.7
+Pyatnitsa,Comedy,2016,6.3
+Baden Baden,Comedy,2016,6.8
+Split,Drama,2016,8.5
+Vaapsi,Sport,2016,8.1
+A Horse Story,Family,2016,7.5
+Sethupathi,Action,2016,7.1
+Love Shagun,Comedy,2016,7.2
+Le cancre,,2016,4.9
+Feast of Varanasi,Crime,2016,7.3
+Gelo,Drama,2016,6.4
+Vetrivel,Drama,2016,6.5
+Kocan Kadar Konus Dirilis,Comedy,2016,6.2
+Vaisakhi List,Comedy,2016,8.3
+Rippu van winkuru no hanayome,Drama,2016,7.5
+Angel of Decay,Thriller,2016,7.1
+Cheerleader,Drama,2016,8.2
+Out of the Darkness,Thriller,2016,8.8
+Tour de France,,2016,5.8
+Das Tagebuch der Anne Frank,Drama,2016,6.8
+Once Upon a Time in Amritsar,Drama,2016,7.4
+El rei borni,Comedy,2016,7.5
+A Beginner's Guide to Snuff,Comedy,2016,8.7
+Valliyum Thetti Pulliyum Thetti,Action,2016,4.9
+The Pastor,Action,2016,7.3
+With Love From... Suffolk,Comedy,2016,8.0
+Late Shift,Thriller,2016,7.8
+Happy Wedding,Comedy,2016,8.3
+Foe,Horror,2016,4.4
+Schrotten!,Comedy,2016,6.2
+The Perfect Pickup,Comedy,2016,9.5
+Pyromanen,Drama,2016,6.9
+Rumbos,Comedy,2016,6.8
+Sneekweek,Comedy,2016,5.6
+SelfieParty,Action,2016,7.2
+Akher ayam el madina,Drama,2016,8.0
+Kholodnyy front,Drama,2016,5.5
+A Stray,Drama,2016,8.6
+Un bacio,Drama,2016,6.9
+La apus,Action,2016,8.3
+XIa,Comedy,2016,7.7
+Until Forever,Drama,2016,9.3
+Johnny Frank Garrett's Last Word,Horror,2016,7.4
+Junges Licht,Drama,2016,6.6
+Cash Flow 2,Comedy,2016,7.5
+The Man in the Silo,Drama,2016,7.4
+Shivalinga,Drama,2016,8.2
+Bodyguard,Action,2016,6.8
+Se mi lasci non vale,Comedy,2016,6.0
+Bokudake ga inai machi,Drama,2016,7.9
+Ososi Rakasi,Comedy,2016,8.9
+Here Comes Rusty,Comedy,2016,8.0
+Purnodoirgho Prem Kahini 2,Romance,2016,4.8
+The Head Hunter,Thriller,2016,7.0
+Hurok,Crime,2016,7.2
+Jonathan,Drama,2016,7.4
+Leblebi Tozu,Comedy,2016,3.9
+Reza a Lenda,Action,2016,5.6
+Timber the Treasure Dog,Family,2016,6.0
+Divines,Drama,2016,7.2
+Until the Day I Die: Part 1,Action,2016,5.5
+Tapestry,Drama,2016,7.4
+The Afghan,Action,2016,5.2
+Tenemos que hablar,Comedy,2016,6.5
+Poshter Girl,Comedy,2016,6.8
+1603,Action,2016,9.6
+S one strane,Drama,2016,7.6
+Darvinte Parinamam,Action,2016,5.3
+Beacon Point,Thriller,2016,8.0
+Rumble,Action,2016,5.6
+Status: Svoboden,Comedy,2016,5.7
+Joke's on Me,Action,2016,7.3
+Dedemin Fisi,Comedy,2016,5.8
+Mudhugauv,Drama,2016,7.3
+Durant's Never Closes,Biography,2016,5.6
+Chasse-Galerie,Thriller,2016,7.6
+Klassikokkutulek,Comedy,2016,6.8
+Somuncu Baba: Askin Sirri,Drama,2016,8.2
+Billion Star Hotel,Drama,2016,8.1
+Glory Day,Drama,2016,7.4
+The Zohar Secret,Comedy,2016,7.2
+Ardaas,Drama,2016,9.1
+Dictator,Action,2016,4.7
+Tharai Thappattai,Action,2016,5.8
+Chu Tai Chiu Fung,Crime,2016,7.1
+Hush Money,Drama,2016,7.5
+Jil Jung Juk,Action,2016,6.9
+Nacida para ganar,Comedy,2016,5.1
+$elfie Shootout,Comedy,2016,4.1
+Tight Dress,Drama,2016,7.3
+W,Crime,2016,7.0
+The Rift,Horror,2016,6.5
+Florence + the Machine: The Odyssey,Music,2016,9.5
+Girlfriend for Hire,Comedy,2016,7.0
+The Forbidden Note,Drama,2016,8.3
+Life Heist,Crime,2016,8.4
+The Kid from the Big Apple,Drama,2016,7.9
+El rey del Once,Comedy,2016,6.4
+Flickan, mamman och demonerna,Thriller,2016,7.0
+Ishq Forever,Romance,2016,4.4
+Live Cargo,,2016,9.3
+Fair Chase,Thriller,2016,3.7
+Pit Stop Mafia,Action,2016,9.6
+Gethu,Action,2016,3.7
+No Panic, With a Hint of Hysteria,Comedy,2016,9.7
+Iftarlik Gazoz,Comedy,2016,7.6
+Wig'd Out,Comedy,2016,9.6
+Dincolo De Calea Ferata,Drama,2016,6.3
+6.9 pe scara Richter,Comedy,2016,8.0
+Incredible,Drama,2016,8.2
+Paraiso perdido,Thriller,2016,5.4
+Fragmented,Thriller,2016,6.9
+Kathakali,Action,2016,6.8
+Shared Rooms,Comedy,2016,9.3
+Pokkiri Raja,Comedy,2016,3.7
+Deliormanli,Sport,2016,6.1
+Freshwater,Thriller,2016,2.6
+A Aa,Comedy,2016,7.3
+Jarhead 3: The Siege,Action,2016,5.1
+Certain Women,Drama,2016,7.8
+Idhu Namma Aalu,Comedy,2016,6.3
+Equity,Drama,2016,5.0
+War on Everyone,Comedy,2016,6.5
+My Stupid Boss,Comedy,2016,7.8
+Wazir,Action,2016,7.3
+Baaghi,Action,2016,5.5
+Iraivi,Drama,2016,8.6
+My Guardian Angel,Thriller,2016,5.2
+Azhar,Biography,2016,6.6
+The Asian Connection,Action,2016,3.3
+The Phenom,Drama,2016,7.0
+The Ghost and The Whale,Drama,2016,5.8
+Scare Campaign,Horror,2016,6.5
+Code of Honor,Action,2016,4.3
+Who's Driving Doug,Drama,2016,6.2
+Rocky Handsome,Action,2016,7.1
+The Break-In,Horror,2016,4.5
+AmeriGeddon,Action,2016,5.6
+Crossing Point,Action,2016,5.8
+Brahmotsavam,Drama,2016,5.6
+Sairat,Drama,2016,9.2
+Countdown,Action,2016,5.0
+Flaskepost fra P,Crime,2016,7.4
+Dog Eat Dog,Action,2016,7.1
+Fitoor,Drama,2016,5.5
+The Model,Drama,2016,6.0
+Cyborg X,Action,2016,3.7
+Compadres,Action,2016,5.0
+First Girl I Loved,Drama,2016,7.9
+Bacalaureat,Drama,2016,8.3
+Stranger in the House,Thriller,2016,6.3
+They're Watching,Comedy,2016,5.9
+Mercury Plains,Action,2016,4.5
+Other People,Drama,2016,6.8
+Kyaa Kool Hain Hum 3,Comedy,2016,1.9
+1920 London,Horror,2016,4.6
+Tallulah,Drama,2016,6.9
+The Midnight Man,Crime,2016,5.1
+Bleed,Horror,2016,3.8
+La pazza gioia,Comedy,2016,7.8
+Little Dead Rotting Hood,Horror,2016,3.4
+Jimmy Vestvood: Amerikan Hero,Comedy,2016,8.3
+Be Somebody,,2016,7.3
+Natural Born Pranksters,Comedy,2016,3.8
+Raman Raghav 2.0,Crime,2016,8.4
+Traffic,Thriller,2016,7.2
+La danseuse,Biography,2016,5.3
+Love's Complicated,Comedy,2016,6.8
+Exorcist House of Evil,Horror,2016,5.4
+Yu-Gi-Oh!: The Dark Side of Dimensions,Animation,2016,8.6
+This Time,Romance,2016,7.7
+Sundown,Action,2016,6.7
+Paranormal Sex Tape,Horror,2016,2.3
+Ali Wong: Baby Cobra,Comedy,2016,7.4
+Mastizaade,Comedy,2016,2.3
+Swap,Action,2016,4.7
+Ms. Matched,Comedy,2016,5.4
+Saala Khadoos,Action,2016,8.1
+Sanam Teri Kasam,Romance,2016,7.5
+Love Is All You Need?,Drama,2016,7.5
+The Waiting,Thriller,2016,8.0
+Slender,Thriller,2016,3.6
+Quackerz,Animation,2016,4.4
+El hilo rojo,Drama,2016,3.0
+Kollektivet,Drama,2016,6.8
+Beyond Paradise,Drama,2016,6.2
+The Devil and the Deep Blue Sea,Drama,2016,6.2
+BoBoiBoy: The Movie,Animation,2016,9.1
+Lea to the Rescue,Family,2016,8.0
+Love Games,Thriller,2016,4.4
+Birkebeinerne,Action,2016,6.2
+Jack Goes Home,Drama,2016,7.1
+A Stand Up Guy,Comedy,2016,4.6
+Christine,Biography,2016,7.2
+Thomas & Friends: The Great Race,Animation,2016,6.5
+Wolf Mother,Crime,2016,8.7
+Saadey CM Saab,Comedy,2016,6.1
+Ma Loute,Comedy,2016,7.0
+Complete Unknown,Drama,2016,6.9
+Kaptaan,Comedy,2016,7.5
+Pet,Thriller,2016,7.4
+Aquarius,Drama,2016,7.5
+Volki i ovtsy. Beeezumnoe prevrashchenie,Animation,2016,7.3
+One Night Stand,Drama,2016,3.5
+La corrispondenza,Drama,2016,5.8
+The Intervention,Comedy,2016,7.6
+Frank & Lola,Crime,2016,6.9
+Bling,Animation,2016,4.5
+The Pass,Drama,2016,8.1
+Her Sey Asktan,Romance,2016,5.7
+Monsoon Mangoes,Comedy,2016,5.2
+Shavua ve Yom,Drama,2016,7.5
+Uma Loucura de Mulher,Comedy,2016,4.0
+K-Shop,Thriller,2016,7.7
+Darling 2,Comedy,2016,4.3
+Iseng,Drama,2016,7.6
+Nunca vas a estar solo,Action,2016,6.7
+Dark Night,Drama,2016,5.5
+The Rally-LA,Drama,2016,8.9
+Global Baba,Thriller,2016,7.3
+Hijrat,Romance,2016,7.9
+Meitantei Konan: Junkoku no naitomea,Animation,2016,9.5
+Express Raja,Action,2016,7.3
+De standhaftige,Drama,2016,7.1
+Talak 3,Comedy,2016,8.0
+Sophie and the Rising Sun,Drama,2016,6.5
+Singing with Angels,Drama,2016,6.2
+Ola Bola,Drama,2016,7.9
+Supreme,Action,2016,6.8
+Chakravyuha,Action,2016,8.7
+It's Us,Comedy,2016,6.3
+Au nom de ma fille,Drama,2016,6.7
+Lilin's Brood,Thriller,2016,5.3
+Cartas da Guerra,Drama,2016,6.6
+Quatretondeta,,2016,7.5
+Puthiya Niyamam,Mystery,2016,6.5
+Hunky Dory,Comedy,2016,7.5
+Bitcoins Heist,Action,2016,6.9
+Direct Ishq,Action,2016,5.1
+Leap,Action,2016,6.4
+Chihayafuru Part I,Comedy,2016,7.6
+The Pills: Sempre meglio che lavorare,Comedy,2016,6.1
+Pugazh,Action,2016,6.0
+Notias,Comedy,2016,6.7
+Brahman Naman,Comedy,2016,6.0
+Os Dez Mandamentos, O Filme,Biography,2016,3.2
+The 4th,Comedy,2016,6.9
+The New York Butcher,Crime,2016,8.4
+The Terrorist,Romance,2016,6.4
+Discordia,Drama,2016,6.0
+Toz Bezi,Drama,2015,7.1
+Oflu Hoca'nin Sifresi 2,Comedy,2016,4.1
+Aloys,Drama,2016,7.5
+The Rangers,Fantasy,2016,7.2
+Vaaliba Raja,Comedy,2016,4.4
+1959,Thriller,2016,8.0
+Lake on Fire,Comedy,2016,9.1
+Sink,Drama,2016,8.6
+Wishing for a Dream,Drama,2016,7.5
+Hijos Nuestros,Drama,2016,7.8
+Da Tang Xuan Zang,Biography,2016,6.7
+Hounds of Zaroff,Action,2016,8.2
+SuperBobrovy,Comedy,2016,5.3
+Daddy's Boy,Drama,2016,8.7
+Colby,Drama,2016,8.5
+Interstelar 2: Operation Terra 2040,Action,2016,1.0
+Motel Mist,Sci-Fi,2016,4.4
+Apofenija,Drama,2016,6.8
+Strana chudes,Comedy,2016,4.8
+Gejsza,Drama,2016,1.6
+Faces,Horror,2016,7.8
+Yarim,Drama,2016,6.4
+Up North,Comedy,2016,8.2
+Living Lost,Drama,2016,8.2
+Inches from the Ground,Comedy,2016,8.2
+A Meeting of the Minds,Crime,2016,7.2
+Jwalantham,Thriller,2016,6.6
+Devil Dog Shuck Returns,Horror,2016,7.0
+Montedoro,Drama,2016,4.5
+The Great Story of Sodabuddi,Crime,2016,8.6
+Yola Geldik,Comedy,2016,3.2
+Krishna Rukku,Drama,2016,7.0
+Adim Adim,Drama,2016,8.5
+The Map of DNA,Adventure,2016,3.5
+Devara Naadalli,Drama,2016,8.2
+Mi rifaccio il trullo,Comedy,2016,6.7
+Jalam,,2016,6.6
+A Bruta Flor do Querer,,2016,7.6
+Merrick: I'll Spew on Your Grave,Action,2016,8.5
+Kolekcja Sukienek,Drama,2016,9.0
+Hutututu: Aavi Ramat Ni Rutu,Comedy,2016,9.2
+Kadere Tutsak,Horror,2016,6.9
+Jarilike,Fantasy,2016,7.8
+Stuck on Neal,Comedy,2016,9.1
+Fanny Pey,Comedy,2016,7.8
+Ifrit'in Diyeti: Cinnia,Horror,2016,4.2
+Temel ile Dursun Istanbul'da,Comedy,2016,4.0
+Soleada,Drama,2016,6.8
+The Dream of Water,Drama,2016,6.2
+The Exchange,Drama,2016,5.2
+Dark Superman,Sci-Fi,2016,8.3
+Ceberrut,Horror,2016,3.5
+Mystery of Faceless Man: History of Monster,Horror,2016,1.0
+Pup 2 No Good,Animation,2016,3.2
+1 Kezban 1 Mahmut: Adana Yollarinda,Comedy,2016,9.3
+Velainu Vandhutta Vellaikaaran,Comedy,2016,8.5
+Cinni: Uyanis,Horror,2016,4.6
+Praktan,Comedy,2016,8.7
